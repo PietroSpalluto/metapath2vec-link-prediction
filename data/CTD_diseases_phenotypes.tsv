@@ -1,0 +1,1781 @@
+Phenotype Term Name	Phenotype Term ID	Disease Name	Disease ID	Chemical Inference Network	Gene Inference Network	References
+cell population proliferation	GO:0008283	COVID-19	MESH:D000086382	Azithromycin|betulinic acid|camostat|cepharanthine|Chloroquine|Dactinomycin|Emodin|Hydroxychloroquine|Ivermectin|Lopinavir|lopinavir-ritonavir drug combination|Losartan|Melatonin|Mercaptopurine|Nifedipine|remdesivir|Ribavirin|Ritonavir|Sirolimus|Toremifene|Zinc|Zinc Sulfate	AGT|CSF3|IFNAR2|TYK2	190
+apoptotic process	GO:0006915	COVID-19	MESH:D000086382	Acetazolamide|Azithromycin|betulinic acid|cepharanthine|Chloroquine|chloroquine diphosphate|Choline|Dactinomycin|Emodin|Hydroxychloroquine|Losartan|Melatonin|Mercaptopurine|Nifedipine|remdesivir|Ribavirin|Ritonavir|Sirolimus|Zinc|Zinc Sulfate	BTK|IL1B|IL2RA|PLSCR1|TNF	328
+viral life cycle	GO:0019058	COVID-19	MESH:D000086382	(2-tert-butoxy-1-(2-cyclohexyl-1-(1-formyl-2-(2-oxopyrrolidin-3-yl)ethylcarbamoyl)ethylcarbamoyl)propyl)carbamic acid benzyl ester|apilimod|Azithromycin|camostat|cepharanthine|Chloroquine|chloroquine diphosphate|galidesivir|Hydroxychloroquine|Lopinavir|lopinavir-ritonavir drug combination|Mefloquine|plitidepsin|remdesivir|Ribavirin|Ritonavir|selamectin|umifenovir	ACE2	71
+cellular metabolic process	GO:0044237	COVID-19	MESH:D000086382	Acetazolamide|Azithromycin|betulinic acid|cannabidiolic acid|Chloroquine|chloroquine diphosphate|Emodin|Losartan|Melatonin|Mercaptopurine|plitidepsin|remdesivir|Ribavirin|Sirolimus|Zinc|Zinc Sulfate		88
+cell death	GO:0008219	COVID-19	MESH:D000086382	betulinic acid|Chloroquine|Dactinomycin|Ivermectin|Losartan|Mefloquine|Melatonin|Mercaptopurine|nafamostat|Nifedipine|Ribavirin|Ritonavir|Sirolimus|Tenofovir|Zinc|Zinc Sulfate		118
+positive regulation of reactive oxygen species biosynthetic process	GO:1903428	COVID-19	MESH:D000086382	apilimod|Chloroquine|Choline|Dactinomycin|Emodin|Hydroxychloroquine|Ivermectin|Lopinavir|Melatonin|Nifedipine|Ribavirin|Ritonavir|Sirolimus|Zinc		50
+positive regulation of apoptotic process	GO:0043065	COVID-19	MESH:D000086382	betulinic acid|Chloroquine|Choline|Dactinomycin|Emodin|Hydroxychloroquine|Ivermectin|Melatonin|selamectin|Sirolimus|Zinc	IL1B|IL6|PLSCR1|TNF	59
+positive regulation of cell death	GO:0010942	COVID-19	MESH:D000086382	Active Hexose Correlated Compound|betulinic acid|Chloroquine|chloroquine diphosphate|Emodin|Melatonin|Mercaptopurine|Nifedipine|Sirolimus|Tenofovir|Zinc	IL1B	47
+response to oxidative stress	GO:0006979	COVID-19	MESH:D000086382	Azithromycin|Chloroquine|Heparin, Low-Molecular-Weight|Losartan|Mefloquine|Melatonin|Nifedipine|Ritonavir|Sirolimus|Zinc|Zinc Sulfate		66
+lipid catabolic process	GO:0016042	COVID-19	MESH:D000086382	betulinic acid|Chloroquine|chloroquine diphosphate|Choline|Ivermectin|Losartan|Melatonin|Ritonavir|Sirolimus|Zinc|Zinc Sulfate		73
+reactive oxygen species biosynthetic process	GO:1903409	COVID-19	MESH:D000086382	Chloroquine|Choline|Dactinomycin|Emodin|lopinavir-ritonavir drug combination|Melatonin|Mercaptopurine|Ritonavir|Sirolimus|Zinc|Zinc Sulfate		42
+positive regulation of cell population proliferation	GO:0008284	COVID-19	MESH:D000086382	Active Hexose Correlated Compound|betulinic acid|Chloroquine|Emodin|Hydroxychloroquine|Interferon-alpha|Ivermectin|Melatonin|Sirolimus|Zinc	ABO|AGT|CSF3|CXCL10|HCK|IL1B|IL2|IL6|IL7|TNF	47
+negative regulation of cell population proliferation	GO:0008285	COVID-19	MESH:D000086382	apilimod|betulinic acid|Chloroquine|Hydroxychloroquine|Ivermectin|Melatonin|Nifedipine|Ribavirin|selamectin|Sirolimus	AGT|CXCL8|IL10|IL1B|IL6|TNF	59
+viral entry into host cell	GO:0046718	COVID-19	MESH:D000086382	4-(4-guanidinobenzoyloxy)phenylacetic acid|apilimod|baricitinib|camostat|Chloroquine|Hydroxychloroquine|Ivermectin|nafamostat|remdesivir|Teicoplanin	ACE2|BSG|CD209|PLSCR1	52
+negative regulation of mitotic cell cycle	GO:0045930	COVID-19	MESH:D000086382	betulinic acid|cepharanthine|chloroquine diphosphate|Ivermectin|Melatonin|Mercaptopurine|Ribavirin|Sirolimus|Zinc|Zinc Sulfate	IL10|TNF	34
+reactive oxygen species metabolic process	GO:0072593	COVID-19	MESH:D000086382	Acetazolamide|Chloroquine|Choline|Emodin|Melatonin|Nifedipine|remdesivir|Sirolimus|Zinc|Zinc Sulfate		49
+glutathione metabolic process	GO:0006749	COVID-19	MESH:D000086382	betulinic acid|Chloroquine|Choline|Dactinomycin|Emodin|Melatonin|Nifedipine|Sirolimus|Tenofovir|Zinc		35
+membrane lipid catabolic process	GO:0046466	COVID-19	MESH:D000086382	Active Hexose Correlated Compound|chloroquine diphosphate|Choline|Losartan|Melatonin|Nifedipine|Toremifene|Zinc|Zinc Sulfate		82
+glutathione biosynthetic process	GO:0006750	COVID-19	MESH:D000086382	Chloroquine|chloroquine diphosphate|Dactinomycin|Ivermectin|Losartan|Melatonin|Sirolimus|Zinc|Zinc Sulfate		43
+cellular calcium ion homeostasis	GO:0006874	COVID-19	MESH:D000086382	Acetazolamide|Chloroquine|chloroquine diphosphate|Choline|Emodin|Melatonin|Nifedipine|Zinc	CCL2|CCL3|CCR2	27
+viral genome replication	GO:0019079	COVID-19	MESH:D000086382	camostat|Chloroquine|Lopinavir|plitidepsin|remdesivir|Ribavirin|Ritonavir|Teicoplanin	CCL2|CD209	32
+regulation of blood pressure	GO:0008217	COVID-19	MESH:D000086382	Chloroquine|Choline|Dactinomycin|Losartan|Melatonin|Nifedipine|Sirolimus|Zinc	AGT	254
+apoptotic DNA fragmentation	GO:0006309	COVID-19	MESH:D000086382	Chloroquine|Dactinomycin|Losartan|Melatonin|Nifedipine|Sirolimus|Zinc|Zinc Sulfate		45
+regulation of mitochondrial membrane potential	GO:0051881	COVID-19	MESH:D000086382	Chloroquine|Dactinomycin|Emodin|Melatonin|Nifedipine|Sirolimus|Zinc|Zinc Sulfate		42
+cellular response to DNA damage stimulus	GO:0006974	COVID-19	MESH:D000086382	betulinic acid|Dactinomycin|Losartan|Melatonin|Mercaptopurine|Sirolimus|Zinc|Zinc Sulfate		20
+superoxide dismutase activity	GO:0004784	COVID-19	MESH:D000086382	betulinic acid|Chloroquine|Choline|Emodin|Losartan|Melatonin|Zinc|Zinc Sulfate		33
+glutathione peroxidase activity	GO:0004602	COVID-19	MESH:D000086382	betulinic acid|Chloroquine|Choline|Emodin|Losartan|Melatonin|Zinc|Zinc Sulfate		31
+cell growth	GO:0016049	COVID-19	MESH:D000086382	Chloroquine|chloroquine diphosphate|Emodin|Ivermectin|Melatonin|Ribavirin|Sirolimus|Zinc Sulfate		36
+inflammatory response	GO:0006954	COVID-19	MESH:D000086382	cannabidiolic acid|Choline|Emodin|Losartan|Melatonin|perfluorobutyric acid|Zinc	CCL2|CCL3|CCR2|CRP|CXCL8|HCK|IL10RB|IL1B|IL6|SELE|TNF	27
+cell cycle	GO:0007049	COVID-19	MESH:D000086382	Chloroquine|Dactinomycin|Melatonin|Nifedipine|Ritonavir|Sirolimus|Toremifene		55
+autophagy	GO:0006914	COVID-19	MESH:D000086382	apilimod|Azithromycin|Chloroquine|chloroquine diphosphate|Hydroxychloroquine|Melatonin|Sirolimus		83
+lipid droplet formation	GO:0140042	COVID-19	MESH:D000086382	Azithromycin|Chloroquine|Choline|Melatonin|perfluorobutyric acid|Sirolimus|Zinc Sulfate		24
+viral RNA genome replication	GO:0039694	COVID-19	MESH:D000086382	5,5'-(5,5'-((1R,2R)-1,2-dihydroxyethane-1,2-diyl)bis(1,3,4-oxadiazole-5,2-diyl))dibenzene-1,2,3-triol|Chloroquine|favipiravir|galidesivir|plitidepsin|remdesivir|Ribavirin		31
+protein oxidation	GO:0018158	COVID-19	MESH:D000086382	Choline|Dactinomycin|Losartan|Melatonin|Sirolimus|Zinc|Zinc Sulfate		17
+leukocyte migration involved in inflammatory response	GO:0002523	COVID-19	MESH:D000086382	betulinic acid|Choline|Emodin|Losartan|Melatonin|Zinc	CCL2|SELE|TNF	16
+vasoconstriction	GO:0042310	COVID-19	MESH:D000086382	Acetazolamide|Dactinomycin|Losartan|Melatonin|Nifedipine|Sirolimus	AGT|CRP	70
+spermatogenesis	GO:0007283	COVID-19	MESH:D000086382	Choline|Emodin|Melatonin|Sirolimus|Tenofovir|Zinc	BSG|LZTFL1	16
+positive regulation of apoptotic DNA fragmentation	GO:1902512	COVID-19	MESH:D000086382	Active Hexose Correlated Compound|Chloroquine|Choline|Dactinomycin|Emodin|Zinc	IL6	21
+viral process	GO:0016032	COVID-19	MESH:D000086382	4-(4-guanidinobenzoyloxy)phenylacetic acid|camostat|cannabidiolic acid|cannabigerolic acid|favipiravir|nafamostat		5
+ATP metabolic process	GO:0046034	COVID-19	MESH:D000086382	cannabidiolic acid|Chloroquine|Ivermectin|Melatonin|Sirolimus|Zinc		18
+negative regulation of cell migration	GO:0030336	COVID-19	MESH:D000086382	betulinic acid|Chloroquine|Hydroxychloroquine|Ivermectin|Melatonin|selamectin		19
+positive regulation of mitochondrial membrane potential	GO:0010918	COVID-19	MESH:D000086382	betulinic acid|Dactinomycin|Emodin|Melatonin|Sirolimus|Zinc		11
+glutathione transferase activity	GO:0004364	COVID-19	MESH:D000086382	betulinic acid|Ivermectin|Melatonin|Tenofovir|Zinc|Zinc Sulfate		16
+lipid oxidation	GO:0034440	COVID-19	MESH:D000086382	Choline|Melatonin|Sirolimus|Tenofovir|Zinc|Zinc Sulfate		23
+lactate dehydrogenase activity	GO:0004457	COVID-19	MESH:D000086382	Chloroquine|chloroquine diphosphate|Emodin|Sirolimus|Tenofovir|Zinc		22
+positive regulation of cytosolic calcium ion concentration	GO:0007204	COVID-19	MESH:D000086382	Choline|Emodin|Ivermectin|Nifedipine|Zinc	AGT|CCL3|IL1B|IL2	17
+positive regulation of cytokine production involved in inflammatory response	GO:1900017	COVID-19	MESH:D000086382	Active Hexose Correlated Compound|Chloroquine|Emodin|Hydroxychloroquine|Zinc	IL6|TNF	22
+cell differentiation	GO:0030154	COVID-19	MESH:D000086382	cepharanthine|Chloroquine|Dactinomycin|Melatonin|Sirolimus	BSG|UGCG	23
+protein lipidation	GO:0006497	COVID-19	MESH:D000086382	Chloroquine|chloroquine diphosphate|Melatonin|Sirolimus|Zinc	UGCG	45
+positive regulation of protein import into nucleus	GO:0042307	COVID-19	MESH:D000086382	Dactinomycin|Emodin|Hydroxychloroquine|Ivermectin|Sirolimus	IL6	18
+positive regulation of superoxide dismutase activity	GO:1901671	COVID-19	MESH:D000086382	Choline|Melatonin|Sirolimus|Zinc|Zinc Sulfate	TNF	15
+triglyceride biosynthetic process	GO:0019432	COVID-19	MESH:D000086382	Chloroquine|Choline|Ivermectin|Ritonavir|Sirolimus		22
+release of cytochrome c from mitochondria	GO:0001836	COVID-19	MESH:D000086382	Chloroquine|Emodin|Hydroxychloroquine|Melatonin|Zinc Sulfate		18
+response to antineoplastic agent	GO:0097327	COVID-19	MESH:D000086382	betulinic acid|Chloroquine|Ivermectin|selamectin|Sirolimus		15
+detection of oxidative stress	GO:0070994	COVID-19	MESH:D000086382	Melatonin|Nifedipine|Ritonavir|Tenofovir|Zinc		16
+alkaline phosphatase activity	GO:0004035	COVID-19	MESH:D000086382	Chloroquine|Hydroxychloroquine|Sirolimus|Zinc|Zinc Sulfate		18
+cholesterol metabolic process	GO:0008203	COVID-19	MESH:D000086382	betulinic acid|Chloroquine|Melatonin|perfluorobutyric acid|Sirolimus		13
+autophagosome assembly	GO:0000045	COVID-19	MESH:D000086382	Chloroquine|chloroquine diphosphate|Melatonin|Sirolimus|Zinc Sulfate		30
+glomerular filtration	GO:0003094	COVID-19	MESH:D000086382	Acetazolamide|Chloroquine|Losartan|Nifedipine|Tenofovir		23
+negative regulation of superoxide dismutase activity	GO:1901670	COVID-19	MESH:D000086382	Choline|Emodin|Melatonin|Tenofovir|Zinc		11
+cellular senescence	GO:0090398	COVID-19	MESH:D000086382	Chloroquine|lopinavir-ritonavir drug combination|Nifedipine|Ritonavir|Sirolimus		23
+cholesterol biosynthetic process	GO:0006695	COVID-19	MESH:D000086382	Chloroquine|Choline|Ritonavir|Sirolimus|Zinc		19
+positive regulation of tumor necrosis factor production	GO:0032760	COVID-19	MESH:D000086382	Chloroquine|Hydroxychloroquine|Ribavirin|Zinc	BTK|CCL2|CCL3|CCR2|IL6|OAS1	29
+cell chemotaxis	GO:0060326	COVID-19	MESH:D000086382	Chloroquine|Melatonin|Nifedipine|Teicoplanin	CCL2|CCL3	14
+phosphatidylserine exposure on apoptotic cell surface	GO:0070782	COVID-19	MESH:D000086382	betulinic acid|Chloroquine|Dactinomycin|Hydroxychloroquine	PLSCR1	16
+xenobiotic metabolic process	GO:0006805	COVID-19	MESH:D000086382	Emodin|Nifedipine|Ritonavir|Zinc		14
+suppression of viral release by host	GO:0044790	COVID-19	MESH:D000086382	(2-(2',3'-dihydrobenzo(1,4)dioxin-6'-yl)-2-hydroxy-1-pyrrolidin-1-ylmethylethyl)nonanoic acid amide|Chloroquine|Hydroxychloroquine|Ivermectin		15
+mitotic S phase	GO:0000084	COVID-19	MESH:D000086382	betulinic acid|cepharanthine|Ribavirin|Sirolimus		13
+regulation of organ growth	GO:0046620	COVID-19	MESH:D000086382	Choline|Losartan|Melatonin|Nifedipine		19
+adipose tissue development	GO:0060612	COVID-19	MESH:D000086382	Lopinavir|Melatonin|Ritonavir|Sirolimus		12
+renal sodium excretion	GO:0035812	COVID-19	MESH:D000086382	Acetazolamide|Chloroquine|Losartan|Nifedipine		21
+positive regulation of urine volume	GO:0035810	COVID-19	MESH:D000086382	Acetazolamide|Chloroquine|Losartan|Nifedipine		15
+triglyceride metabolic process	GO:0006641	COVID-19	MESH:D000086382	Chloroquine|Choline|Melatonin|Sirolimus		13
+L-aspartate:2-oxoglutarate aminotransferase activity	GO:0004069	COVID-19	MESH:D000086382	chloroquine diphosphate|Choline|Melatonin|Sirolimus		14
+negative regulation of glutathione peroxidase activity	GO:1903283	COVID-19	MESH:D000086382	Emodin|Tenofovir|Zinc|Zinc Sulfate		8
+positive regulation of release of cytochrome c from mitochondria	GO:0090200	COVID-19	MESH:D000086382	Choline|Dactinomycin|Emodin|Melatonin		8
+activation of protein kinase B activity	GO:0032148	COVID-19	MESH:D000086382	Choline|Ivermectin|Melatonin|Sirolimus		13
+locomotion involved in locomotory behavior	GO:0031987	COVID-19	MESH:D000086382	Chloroquine|chloroquine diphosphate|Nifedipine|Zinc		17
+lipid biosynthetic process	GO:0008610	COVID-19	MESH:D000086382	Choline|Sirolimus|Zinc|Zinc Sulfate		11
+nitric oxide biosynthetic process	GO:0006809	COVID-19	MESH:D000086382	Chloroquine|Choline|Losartan|Melatonin		14
+mitochondrial depolarization	GO:0051882	COVID-19	MESH:D000086382	chloroquine diphosphate|Emodin|Hydroxychloroquine|remdesivir		27
+positive regulation of type II interferon production	GO:0032729	COVID-19	MESH:D000086382	2019-nCoV Vaccine mRNA-1273|BNT162 Vaccine|Ribavirin	CCR2|IL10|IL1B|IL2|TNF|TYK2	12
+positive regulation of nitric oxide biosynthetic process	GO:0045429	COVID-19	MESH:D000086382	Active Hexose Correlated Compound|Melatonin|Tenofovir	AGT|CRP|IL1B|IL6|TNF	13
+calcium-mediated signaling	GO:0019722	COVID-19	MESH:D000086382	Melatonin|Nifedipine|Sirolimus	BTK|CCL3|CXCL8|SELE|TNF	13
+positive regulation of NF-kappaB transcription factor activity	GO:0051092	COVID-19	MESH:D000086382	Chloroquine|Emodin|Hydroxychloroquine	AGT|BTK|IL1B|TNF	17
+positive regulation of cell migration	GO:0030335	COVID-19	MESH:D000086382	betulinic acid|Chloroquine|Ivermectin	CCL3|CXCL10|IL1B	13
+leukocyte tethering or rolling	GO:0050901	COVID-19	MESH:D000086382	Heparin, Low-Molecular-Weight|Losartan|Melatonin	SELE|TNF	9
+cellular response to xenobiotic stimulus	GO:0071466	COVID-19	MESH:D000086382	Chloroquine|Choline|Ivermectin	CCL2|IL1B	13
+vasodilation	GO:0042311	COVID-19	MESH:D000086382	Acetazolamide|Losartan|Nifedipine	AGT|TNF	50
+positive regulation of NIK/NF-kappaB signaling	GO:1901224	COVID-19	MESH:D000086382	Active Hexose Correlated Compound|Melatonin|Sirolimus	IL1B|TNF	8
+glucose homeostasis	GO:0042593	COVID-19	MESH:D000086382	Choline|Melatonin|Zinc	IL6|OAS1	15
+interleukin-6 production	GO:0032635	COVID-19	MESH:D000086382	apilimod|Chloroquine|Hydroxychloroquine	IL1B|TNF	15
+leukocyte chemotaxis	GO:0030595	COVID-19	MESH:D000086382	Azithromycin|Losartan|Teicoplanin	CCL3|IL10	8
+cell redox homeostasis	GO:0045454	COVID-19	MESH:D000086382	Choline|Emodin|Zinc	IL6	11
+eosinophil homeostasis	GO:1990959	COVID-19	MESH:D000086382	apilimod|Lopinavir|perfluorobutyric acid	BTK	10
+lysosome organization	GO:0007040	COVID-19	MESH:D000086382	apilimod|Chloroquine|chloroquine diphosphate	TMEM106B	18
+osteoblast differentiation	GO:0001649	COVID-19	MESH:D000086382	Chloroquine|Hydroxychloroquine|Sirolimus	CCL3	13
+regulation of heart rate	GO:0002027	COVID-19	MESH:D000086382	Losartan|Melatonin|Nifedipine	AGT	60
+ATP hydrolysis activity	GO:0016887	COVID-19	MESH:D000086382	Chloroquine|Losartan|Sirolimus	ATP11A	10
+neutrophil homeostasis	GO:0001780	COVID-19	MESH:D000086382	apilimod|Melatonin|perfluorobutyric acid	BTK	9
+negative regulation of flagellated sperm motility	GO:1901318	COVID-19	MESH:D000086382	Emodin|Melatonin|Tenofovir		6
+viral DNA genome replication	GO:0039693	COVID-19	MESH:D000086382	Antiviral Agents|Chloroquine|Sirolimus		10
+nucleus organization	GO:0006997	COVID-19	MESH:D000086382	Emodin|lopinavir-ritonavir drug combination|Ritonavir		11
+glutathione derivative biosynthetic process	GO:1901687	COVID-19	MESH:D000086382	Choline|Emodin|Zinc Sulfate		6
+necrotic cell death	GO:0070265	COVID-19	MESH:D000086382	betulinic acid|Chloroquine|Zinc Sulfate		11
+cardiac muscle cell contraction	GO:0086003	COVID-19	MESH:D000086382	Chloroquine|Nifedipine|Sirolimus		10
+positive regulation of cellular senescence	GO:2000774	COVID-19	MESH:D000086382	Melatonin|Sirolimus|Tenofovir		6
+positive regulation of autophagosome assembly	GO:2000786	COVID-19	MESH:D000086382	Chloroquine|chloroquine diphosphate|Sirolimus		24
+positive regulation of autophagy	GO:0010508	COVID-19	MESH:D000086382	Chloroquine|chloroquine diphosphate|Sirolimus		25
+cholesterol homeostasis	GO:0042632	COVID-19	MESH:D000086382	Choline|Melatonin|Zinc		11
+chemical synaptic transmission	GO:0007268	COVID-19	MESH:D000086382	Acetazolamide|Mefloquine|Nifedipine		5
+apoptotic nuclear changes	GO:0030262	COVID-19	MESH:D000086382	betulinic acid|Chloroquine|Melatonin		11
+protein lipidation involved in autophagosome assembly	GO:0061739	COVID-19	MESH:D000086382	Chloroquine|Hydroxychloroquine|Sirolimus		24
+autophagosome-lysosome fusion	GO:0061909	COVID-19	MESH:D000086382	Chloroquine|chloroquine diphosphate|Sirolimus		17
+mitochondrial electron transport, cytochrome c to oxygen	GO:0006123	COVID-19	MESH:D000086382	Choline|Ivermectin|Tenofovir		7
+positive regulation of glutathione peroxidase activity	GO:1903284	COVID-19	MESH:D000086382	Choline|Melatonin|Zinc		12
+positive regulation of sequestering of triglyceride	GO:0010890	COVID-19	MESH:D000086382	Chloroquine|Choline|Sirolimus		10
+viral transcription	GO:0019083	COVID-19	MESH:D000086382	5,5'-(5,5'-((1R,2R)-1,2-dihydroxyethane-1,2-diyl)bis(1,3,4-oxadiazole-5,2-diyl))dibenzene-1,2,3-triol|galidesivir|Teicoplanin		5
+autophagosome	GO:0005776	COVID-19	MESH:D000086382	Chloroquine|Melatonin|Sirolimus		11
+cellular zinc ion homeostasis	GO:0006882	COVID-19	MESH:D000086382	Mefloquine|Zinc|Zinc Sulfate		12
+apoptotic chromosome condensation	GO:0030263	COVID-19	MESH:D000086382	Chloroquine|Emodin|Zinc		11
+plasma membrane organization	GO:0007009	COVID-19	MESH:D000086382	Chloroquine|Mefloquine|Sirolimus		9
+superoxide anion generation	GO:0042554	COVID-19	MESH:D000086382	Chloroquine|Losartan|Melatonin		12
+vacuole organization	GO:0007033	COVID-19	MESH:D000086382	Chloroquine|Sirolimus|Zinc Sulfate		10
+negative regulation of DNA biosynthetic process	GO:2000279	COVID-19	MESH:D000086382	Lopinavir|Ribavirin|Ritonavir		11
+viral translation	GO:0019081	COVID-19	MESH:D000086382	Chloroquine|galidesivir|plitidepsin		9
+sperm motility	GO:0097722	COVID-19	MESH:D000086382	Choline|Ivermectin|Melatonin		8
+calcium ion import	GO:0070509	COVID-19	MESH:D000086382	cannabidiolic acid|cannabigerolic acid|Nifedipine		8
+positive regulation of lipid storage	GO:0010884	COVID-19	MESH:D000086382	cannabidiolic acid|cannabigerolic acid|Choline		4
+negative regulation of ATP biosynthetic process	GO:2001170	COVID-19	MESH:D000086382	Choline|Ivermectin|Melatonin		8
+DNA replication	GO:0006260	COVID-19	MESH:D000086382	camostat|lopinavir-ritonavir drug combination|Ritonavir		12
+collagen biosynthetic process	GO:0032964	COVID-19	MESH:D000086382	Melatonin|Sirolimus|Zinc		7
+negative regulation of viral process	GO:0048525	COVID-19	MESH:D000086382	favipiravir|Ivermectin|Ribavirin		11
+viral release from host cell	GO:0019076	COVID-19	MESH:D000086382	Chloroquine|favipiravir|galidesivir		11
+eating behavior	GO:0042755	COVID-19	MESH:D000086382	4-(4-guanidinobenzoyloxy)phenylacetic acid|camostat|Choline		5
+positive regulation of necrotic cell death	GO:0010940	COVID-19	MESH:D000086382	Choline|Emodin|Zinc		8
+regulation of cell cycle	GO:0051726	COVID-19	MESH:D000086382	Ivermectin|Lopinavir|Sirolimus		10
+triglyceride homeostasis	GO:0070328	COVID-19	MESH:D000086382	Choline|Melatonin|Zinc		12
+response to virus	GO:0009615	COVID-19	MESH:D000086382	Chloroquine|chloroquine diphosphate	CXCL10|IFNAR2|IL1B|OAS1|TNF	16
+positive regulation of heterotypic cell-cell adhesion	GO:0034116	COVID-19	MESH:D000086382	Lopinavir|Ritonavir	IL10|IL1B|TNF	8
+cytoplasmic vesicle	GO:0031410	COVID-19	MESH:D000086382	Chloroquine|Hydroxychloroquine	ABO|BTK|HCK	15
+positive regulation of interleukin-1 beta production	GO:0032731	COVID-19	MESH:D000086382	Losartan|Zinc	CCL3|IL6|TNF	10
+positive regulation of epithelial to mesenchymal transition	GO:0010718	COVID-19	MESH:D000086382	Emodin|Sirolimus	IL1B|IL6	7
+sequestering of triglyceride	GO:0030730	COVID-19	MESH:D000086382	Chloroquine|Sirolimus	IL1B|TNF	9
+sensory perception of pain	GO:0019233	COVID-19	MESH:D000086382	cannabidiolic acid|Zinc	CCL2|CCR2	7
+positive regulation of neutrophil chemotaxis	GO:0090023	COVID-19	MESH:D000086382	apilimod|Choline	CXCL8|IL1B	7
+glucose metabolic process	GO:0006006	COVID-19	MESH:D000086382	perfluorobutyric acid|Zinc	OAS1|TNF	8
+negative regulation of autophagy	GO:0010507	COVID-19	MESH:D000086382	Chloroquine|Sirolimus	IL10	12
+protein import into nucleus	GO:0006606	COVID-19	MESH:D000086382	Chloroquine|Hydroxychloroquine	AGT	12
+cellular response to amyloid-beta	GO:1904646	COVID-19	MESH:D000086382	cannabidiolic acid|Sirolimus	TNF	5
+positive regulation of T-helper 1 cell cytokine production	GO:2000556	COVID-19	MESH:D000086382	Active Hexose Correlated Compound|Ribavirin	IL1B	11
+negative regulation of endothelial cell proliferation	GO:0001937	COVID-19	MESH:D000086382	Lopinavir|Ritonavir	TNF	6
+response to toxic substance	GO:0009636	COVID-19	MESH:D000086382	Chloroquine|Losartan	CCL3	9
+T cell homeostasis	GO:0043029	COVID-19	MESH:D000086382	apilimod|perfluorobutyric acid	IL2RA	7
+lysosomal protein catabolic process	GO:1905146	COVID-19	MESH:D000086382	Chloroquine|Sirolimus	TMEM106B	9
+activation of cysteine-type endopeptidase activity involved in apoptotic process	GO:0006919	COVID-19	MESH:D000086382	Active Hexose Correlated Compound|Chloroquine	TNF	9
+intracellular transport of virus	GO:0075733	COVID-19	MESH:D000086382	Chloroquine|Hydroxychloroquine	CD209	11
+early endosome	GO:0005769	COVID-19	MESH:D000086382	Chloroquine|Hydroxychloroquine	ATP11A	11
+positive regulation of cellular extravasation	GO:0002693	COVID-19	MESH:D000086382	Choline|Zinc	CCL2	7
+lysosomal lumen acidification	GO:0007042	COVID-19	MESH:D000086382	Chloroquine|Sirolimus	TMEM106B	11
+positive regulation of protein export from nucleus	GO:0046827	COVID-19	MESH:D000086382	Chloroquine|Sirolimus	IL1B	8
+positive regulation of cysteine-type endopeptidase activity involved in execution phase of apoptosis	GO:2001272	COVID-19	MESH:D000086382	betulinic acid|Melatonin	TNF	6
+cholesterol efflux	GO:0033344	COVID-19	MESH:D000086382	Chloroquine|chloroquine diphosphate		12
+translation	GO:0006412	COVID-19	MESH:D000086382	camostat|chloroquine diphosphate		9
+fucose metabolic process	GO:0006004	COVID-19	MESH:D000086382	Zinc|Zinc Sulfate		4
+nitric oxide metabolic process	GO:0046209	COVID-19	MESH:D000086382	Losartan|Melatonin		5
+cell migration	GO:0016477	COVID-19	MESH:D000086382	betulinic acid|Sirolimus		5
+vesicle organization	GO:0016050	COVID-19	MESH:D000086382	Chloroquine|Hydroxychloroquine		12
+endolysosome	GO:0036019	COVID-19	MESH:D000086382	Chloroquine|Hydroxychloroquine		10
+positive regulation of inclusion body assembly	GO:0090261	COVID-19	MESH:D000086382	Chloroquine|Sirolimus		7
+cytokine production involved in inflammatory response	GO:0002534	COVID-19	MESH:D000086382	camostat|Zinc		7
+negative regulation of neuronal action potential	GO:1904456	COVID-19	MESH:D000086382	Ivermectin|Mefloquine		6
+glucose import across plasma membrane	GO:0098708	COVID-19	MESH:D000086382	Chloroquine|Sirolimus		8
+collagen fibril organization	GO:0030199	COVID-19	MESH:D000086382	Losartan|Melatonin		5
+positive regulation of immune response	GO:0050778	COVID-19	MESH:D000086382	Active Hexose Correlated Compound|Chloroquine		8
+stress-induced premature senescence	GO:0090400	COVID-19	MESH:D000086382	Hydroxychloroquine|Sirolimus		7
+negative regulation of oxidoreductase activity	GO:0051354	COVID-19	MESH:D000086382	Ribavirin|Tenofovir		8
+fatty acid metabolic process	GO:0006631	COVID-19	MESH:D000086382	Choline|Hydroxychloroquine		8
+positive regulation of cytolysis	GO:0045919	COVID-19	MESH:D000086382	Ivermectin|Sirolimus		5
+positive regulation of vasoconstriction	GO:0045907	COVID-19	MESH:D000086382	Losartan|Nifedipine		7
+zinc ion homeostasis	GO:0055069	COVID-19	MESH:D000086382	Sirolimus|Zinc		17
+membrane organization	GO:0061024	COVID-19	MESH:D000086382	Chloroquine|Choline		8
+ATP biosynthetic process	GO:0006754	COVID-19	MESH:D000086382	Melatonin|Zinc		6
+amino acid transport	GO:0006865	COVID-19	MESH:D000086382	Choline|Dactinomycin		3
+P-type sodium:potassium-exchanging transporter activity	GO:0005391	COVID-19	MESH:D000086382	Zinc|Zinc Sulfate		5
+swimming behavior	GO:0036269	COVID-19	MESH:D000086382	Chloroquine|Ivermectin		9
+positive regulation of protein ubiquitination	GO:0031398	COVID-19	MESH:D000086382	Chloroquine|Sirolimus		7
+mitochondrial electron transport, succinate to ubiquinone	GO:0006121	COVID-19	MESH:D000086382	Tenofovir|Zinc		5
+regulation of cytokine production involved in immune response	GO:0002718	COVID-19	MESH:D000086382	Chloroquine|Ribavirin		13
+positive regulation of interferon-alpha production	GO:0032727	COVID-19	MESH:D000086382	Chloroquine|chloroquine diphosphate		12
+negative regulation of cardiac muscle contraction	GO:0055118	COVID-19	MESH:D000086382	Melatonin|Nifedipine		5
+autolysosome	GO:0044754	COVID-19	MESH:D000086382	Chloroquine|Sirolimus		10
+positive regulation of cholesterol import	GO:1904109	COVID-19	MESH:D000086382	Chloroquine|Sirolimus		7
+calcium ion homeostasis	GO:0055074	COVID-19	MESH:D000086382	Ivermectin|Nifedipine		6
+iron ion homeostasis	GO:0055072	COVID-19	MESH:D000086382	Chloroquine|Zinc		9
+phospholipid biosynthetic process	GO:0008654	COVID-19	MESH:D000086382	Nifedipine|Zinc		5
+cell-abiotic substrate adhesion	GO:0036164	COVID-19	MESH:D000086382	betulinic acid|Chloroquine		8
+DNA methylation	GO:0006306	COVID-19	MESH:D000086382	Choline|Zinc		4
+dendritic cell homeostasis	GO:0036145	COVID-19	MESH:D000086382	Active Hexose Correlated Compound|perfluorobutyric acid		4
+electron transport chain	GO:0022900	COVID-19	MESH:D000086382	Melatonin|Nifedipine		5
+autophagic cell death	GO:0048102	COVID-19	MESH:D000086382	Chloroquine|Sirolimus		9
+positive regulation of systemic arterial blood pressure	GO:0003084	COVID-19	MESH:D000086382	Losartan|Nifedipine		4
+negative regulation of mitochondrial membrane potential	GO:0010917	COVID-19	MESH:D000086382	Chloroquine|Ivermectin		9
+positive regulation of cholesterol storage	GO:0010886	COVID-19	MESH:D000086382	Choline|Sirolimus		4
+hexose metabolic process	GO:0019318	COVID-19	MESH:D000086382	Zinc|Zinc Sulfate		4
+reactive nitrogen species metabolic process	GO:2001057	COVID-19	MESH:D000086382	Melatonin|Tenofovir		5
+cysteine-type endopeptidase activity	GO:0004197	COVID-19	MESH:D000086382	betulinic acid|remdesivir		14
+melanin biosynthetic process	GO:0042438	COVID-19	MESH:D000086382	Emodin|Zinc		5
+positive regulation of protein targeting to vacuole involved in autophagy	GO:1904053	COVID-19	MESH:D000086382	Chloroquine|Sirolimus		7
+regulation of membrane potential	GO:0042391	COVID-19	MESH:D000086382	Melatonin|Nifedipine		7
+CD8-positive, alpha-beta T cell differentiation involved in immune response	GO:0002302	COVID-19	MESH:D000086382	2019-nCoV Vaccine mRNA-1273|BNT162 Vaccine		1
+glycolytic process	GO:0006096	COVID-19	MESH:D000086382	Dactinomycin|Sirolimus		4
+CD4-positive, alpha-beta T cell differentiation involved in immune response	GO:0002294	COVID-19	MESH:D000086382	2019-nCoV Vaccine mRNA-1273|BNT162 Vaccine		1
+mitotic G1 phase	GO:0000080	COVID-19	MESH:D000086382	betulinic acid|Chloroquine		8
+pyruvate metabolic process	GO:0006090	COVID-19	MESH:D000086382	Ivermectin|Zinc		6
+negative regulation of RNA biosynthetic process	GO:1902679	COVID-19	MESH:D000086382	Dactinomycin|Ribavirin		8
+protein ubiquitination	GO:0016567	COVID-19	MESH:D000086382	Dactinomycin|Sirolimus		4
+carnitine transmembrane transport	GO:1902603	COVID-19	MESH:D000086382	Lopinavir|Ritonavir		5
+negative regulation of viral translation	GO:1904972	COVID-19	MESH:D000086382	(2-(2',3'-dihydrobenzo(1,4)dioxin-6'-yl)-2-hydroxy-1-pyrrolidin-1-ylmethylethyl)nonanoic acid amide|Ivermectin		4
+G0 to G1 transition	GO:0045023	COVID-19	MESH:D000086382	cepharanthine|Chloroquine		8
+negative regulation of cellular pH reduction	GO:0032848	COVID-19	MESH:D000086382	Chloroquine|Sirolimus		7
+lymphocyte activation	GO:0046649	COVID-19	MESH:D000086382	Ribavirin|Sirolimus		12
+glycogen biosynthetic process	GO:0005978	COVID-19	MESH:D000086382	Choline|Sirolimus		4
+regulation of cell size	GO:0008361	COVID-19	MESH:D000086382	Melatonin|Sirolimus		6
+cellular response to unfolded protein	GO:0034620	COVID-19	MESH:D000086382	Dactinomycin|Sirolimus		3
+positive regulation of catalase activity	GO:1902553	COVID-19	MESH:D000086382	Melatonin|Zinc Sulfate		5
+acetylcholine metabolic process	GO:0008291	COVID-19	MESH:D000086382	Choline|Zinc		5
+positive stranded viral RNA replication	GO:0039690	COVID-19	MESH:D000086382	Hydroxychloroquine|Interferon-alpha		9
+negative regulation of endothelial cell migration	GO:0010596	COVID-19	MESH:D000086382	Lopinavir|Ritonavir		5
+lactate metabolic process	GO:0006089	COVID-19	MESH:D000086382	Tenofovir|Zinc		5
+positive regulation of lysosomal membrane permeability	GO:0097214	COVID-19	MESH:D000086382	Chloroquine|Hydroxychloroquine		11
+regulation of cardiac muscle cell contraction	GO:0086004	COVID-19	MESH:D000086382	Chloroquine|Nifedipine		7
+chloride transmembrane transport	GO:1902476	COVID-19	MESH:D000086382	Ivermectin|selamectin		5
+creatinine homeostasis	GO:0097273	COVID-19	MESH:D000086382	Chloroquine|Melatonin		9
+metabolic process	GO:0008152	COVID-19	MESH:D000086382	Choline|perfluorobutyric acid		4
+urate biosynthetic process	GO:0034418	COVID-19	MESH:D000086382	Melatonin|Tenofovir		5
+ubiquinol-cytochrome-c reductase activity	GO:0008121	COVID-19	MESH:D000086382	Chloroquine|Sirolimus		7
+zinc ion import across plasma membrane	GO:0071578	COVID-19	MESH:D000086382	Zinc|Zinc Sulfate		4
+activation of cysteine-type endopeptidase activity involved in execution phase of apoptosis	GO:0097297	COVID-19	MESH:D000086382	betulinic acid|Melatonin		5
+N-acetylneuraminate metabolic process	GO:0006054	COVID-19	MESH:D000086382	Zinc|Zinc Sulfate		4
+DNA methylation on cytosine within a CG sequence	GO:0010424	COVID-19	MESH:D000086382	Choline|Zinc Sulfate		4
+mitochondrion organization	GO:0007005	COVID-19	MESH:D000086382	Melatonin|Zinc		8
+establishment of protein localization to plasma membrane	GO:0061951	COVID-19	MESH:D000086382	Chloroquine|Sirolimus		7
+Golgi organization	GO:0007030	COVID-19	MESH:D000086382	Chloroquine|Hydroxychloroquine		10
+endosome organization	GO:0007032	COVID-19	MESH:D000086382	Chloroquine|Hydroxychloroquine		10
+arginase activity	GO:0004053	COVID-19	MESH:D000086382	Zinc|Zinc Sulfate		4
+B cell homeostasis	GO:0001782	COVID-19	MESH:D000086382	apilimod|perfluorobutyric acid		5
+carbonate dehydratase activity	GO:0004089	COVID-19	MESH:D000086382	Acetazolamide|Ivermectin		5
+positive regulation of ATP biosynthetic process	GO:2001171	COVID-19	MESH:D000086382	Ivermectin|Sirolimus		5
+immune response	GO:0006955	COVID-19	MESH:D000086382	Zinc	CCL2|CCL3|CCR2|CSF3|CXCL10|IL10|IL10RB|IL1B|IL2|IL2RA|IL6|IL7|PLSCR1|TNF|TYK2	10
+positive regulation of inflammatory response	GO:0050729	COVID-19	MESH:D000086382	Sirolimus	AGT|BTK|CCL3|CCR2|IL1B|IL2|TNF	7
+negative regulation of apoptotic process	GO:0043066	COVID-19	MESH:D000086382	Melatonin	ABO|HCK|IL10|IL2|IL6|IL7|TNF	10
+response to xenobiotic stimulus	GO:0009410	COVID-19	MESH:D000086382	Ivermectin	CCL2|CCL3|IL10|IL1B|IL6|TNF	8
+positive regulation of DNA-binding transcription factor activity	GO:0051091	COVID-19	MESH:D000086382	Melatonin	CSF3|IL10|IL1B|IL6|TNF	8
+positive regulation of receptor signaling pathway via JAK-STAT	GO:0046427	COVID-19	MESH:D000086382	Ivermectin	IL10|IL10RB|IL6|TNF|TYK2	10
+positive regulation of interleukin-6 production	GO:0032755	COVID-19	MESH:D000086382	Losartan	BSG|BTK|IL1B|IL6|TNF	9
+MAPK cascade	GO:0000165	COVID-19	MESH:D000086382	Sirolimus	AGT|CCL2|CCL3|IL1B|TNF	5
+positive regulation of ERK1 and ERK2 cascade	GO:0070374	COVID-19	MESH:D000086382	Chloroquine	CCL3|IL1B|IL6|TNF	11
+angiogenesis	GO:0001525	COVID-19	MESH:D000086382	Chloroquine	BSG|CCL2|CCR2|CXCL8	10
+intracellular signal transduction	GO:0035556	COVID-19	MESH:D000086382	Zinc	BTK|CD209|CXCL8|TYK2	7
+negative regulation of viral genome replication	GO:0045071	COVID-19	MESH:D000086382	Ivermectin	OAS1|PLSCR1|TNF	6
+I-kappaB kinase/NF-kappaB signaling	GO:0007249	COVID-19	MESH:D000086382	Zinc	BTK|IL1B|TNF	6
+response to heat	GO:0009408	COVID-19	MESH:D000086382	cannabidiolic acid	CCL2|IL1B|IL6	7
+lysosome	GO:0005764	COVID-19	MESH:D000086382	Chloroquine	HCK|IL1B|TMEM106B	9
+positive regulation of phagocytosis	GO:0050766	COVID-19	MESH:D000086382	Active Hexose Correlated Compound	BTK|IL1B|TNF	5
+adaptive immune response	GO:0002250	COVID-19	MESH:D000086382	Chloroquine	BTK|CD209|IL2	9
+positive regulation of neuron apoptotic process	GO:0043525	COVID-19	MESH:D000086382	Zinc	CCL3|IL1B|TNF	5
+negative regulation of inflammatory response	GO:0050728	COVID-19	MESH:D000086382	Chloroquine	IL10|IL2|IL2RA	9
+positive regulation of I-kappaB kinase/NF-kappaB signaling	GO:0043123	COVID-19	MESH:D000086382	Zinc	IL1B|TNF	5
+positive regulation of JNK cascade	GO:0046330	COVID-19	MESH:D000086382	Zinc	IL1B|TNF	5
+phagocytosis	GO:0006909	COVID-19	MESH:D000086382	Zinc Sulfate	HCK|ICAM5	4
+blood vessel remodeling	GO:0001974	COVID-19	MESH:D000086382	Zinc	AGT|CCR2	5
+response to radiation	GO:0009314	COVID-19	MESH:D000086382	betulinic acid	CRP|TNF	4
+organ growth	GO:0035265	COVID-19	MESH:D000086382	Choline	AGT|IL7	4
+response to antibiotic	GO:0046677	COVID-19	MESH:D000086382	Chloroquine	CCL2|IL6	11
+lipid metabolic process	GO:0006629	COVID-19	MESH:D000086382	Choline	FUT2|UGCG	6
+negative regulation of interleukin-6 production	GO:0032715	COVID-19	MESH:D000086382	Chloroquine	IL10|TNF	8
+neutrophil activation	GO:0042119	COVID-19	MESH:D000086382	Teicoplanin	CXCL8|IL1B	4
+positive regulation of organ growth	GO:0046622	COVID-19	MESH:D000086382	Choline	AGT|IL7	4
+positive regulation of interleukin-2 production	GO:0032743	COVID-19	MESH:D000086382	Ribavirin	CCR2|IL1B	9
+neuron projection development	GO:0031175	COVID-19	MESH:D000086382	Melatonin	IL6	7
+leukocyte migration involved in immune response	GO:0002522	COVID-19	MESH:D000086382	Melatonin	HCK	4
+negative regulation of tumor necrosis factor production	GO:0032720	COVID-19	MESH:D000086382	Chloroquine	IL10	8
+positive regulation of osteoblast differentiation	GO:0045669	COVID-19	MESH:D000086382	Sirolimus	IL6	6
+negative regulation of interleukin-10 production	GO:0032693	COVID-19	MESH:D000086382	Losartan	BTK	3
+macrophage migration	GO:1905517	COVID-19	MESH:D000086382	Losartan	CCR2	3
+positive regulation of calcium-mediated signaling	GO:0050850	COVID-19	MESH:D000086382	Ivermectin	CCL3	4
+positive regulation of T-helper 1 type immune response	GO:0002827	COVID-19	MESH:D000086382	Active Hexose Correlated Compound	CCR2	3
+positive regulation of innate immune response	GO:0045089	COVID-19	MESH:D000086382	Active Hexose Correlated Compound	PLSCR1	3
+negative regulation of systemic arterial blood pressure	GO:0003085	COVID-19	MESH:D000086382	Nifedipine	TNF	3
+negative regulation of catalytic activity	GO:0043086	COVID-19	MESH:D000086382	Acetazolamide	IL7	3
+memory	GO:0007613	COVID-19	MESH:D000086382	Melatonin	IL1B	4
+positive regulation of humoral immune response mediated by circulating immunoglobulin	GO:0002925	COVID-19	MESH:D000086382	BNT162 Vaccine	TNF	3
+positive regulation of T-helper 17 type immune response	GO:2000318	COVID-19	MESH:D000086382	Active Hexose Correlated Compound	TYK2	3
+negative regulation of alkaline phosphatase activity	GO:0010693	COVID-19	MESH:D000086382	Tenofovir	TNF	3
+positive regulation of lipid catabolic process	GO:0050996	COVID-19	MESH:D000086382	Choline	IL1B	3
+flagellated sperm motility	GO:0030317	COVID-19	MESH:D000086382	Melatonin	LZTFL1	5
+nucleic acid phosphodiester bond hydrolysis	GO:0090305	COVID-19	MESH:D000086382	Dactinomycin	PLSCR1	5
+positive regulation of wound healing	GO:0090303	COVID-19	MESH:D000086382	Zinc	CCL2	4
+learning or memory	GO:0007611	COVID-19	MESH:D000086382	Zinc	IL1B	4
+maintenance of blood-brain barrier	GO:0035633	COVID-19	MESH:D000086382	Melatonin	IL6	7
+monocyte homeostasis	GO:0035702	COVID-19	MESH:D000086382	Active Hexose Correlated Compound	CCL2	3
+positive regulation of cellular respiration	GO:1901857	COVID-19	MESH:D000086382	Sirolimus	IL10RB	3
+positive regulation of nitric-oxide synthase activity	GO:0051000	COVID-19	MESH:D000086382	Choline	TNF	3
+positive regulation of multicellular organism growth	GO:0040018	COVID-19	MESH:D000086382	Choline	AGT	3
+negative regulation of interferon-alpha production	GO:0032687	COVID-19	MESH:D000086382	chloroquine diphosphate	IL10	8
+negative regulation of G1/S transition of mitotic cell cycle	GO:2000134	COVID-19	MESH:D000086382	Chloroquine	CCL2	7
+positive regulation of collagen biosynthetic process	GO:0032967	COVID-19	MESH:D000086382	Sirolimus	CCL2	3
+glycolipid metabolic process	GO:0006664	COVID-19	MESH:D000086382	Choline	FUT2	3
+negative regulation of bone resorption	GO:0045779	COVID-19	MESH:D000086382	betulinic acid	IL6	6
+cellular response to L-glutamate	GO:1905232	COVID-19	MESH:D000086382	Ivermectin	BCL11A	4
+regulation of NIK/NF-kappaB signaling	GO:1901222	COVID-19	MESH:D000086382	Hydroxychloroquine	IL1B	7
+osteoclast differentiation	GO:0030316	COVID-19	MESH:D000086382	Sirolimus	TNF	3
+negative regulation of glucose import	GO:0046325	COVID-19	MESH:D000086382	Sirolimus	TNF	3
+T cell activation	GO:0042110	COVID-19	MESH:D000086382	Hydroxychloroquine	IL6	10
+positive regulation of translation	GO:0045727	COVID-19	MESH:D000086382	Sirolimus	IL6	6
+positive regulation of vascular associated smooth muscle cell migration	GO:1904754	COVID-19	MESH:D000086382	Losartan	AGT	3
+T cell activation involved in immune response	GO:0002286	COVID-19	MESH:D000086382	Active Hexose Correlated Compound	CD209	3
+cellular response to hydrogen peroxide	GO:0070301	COVID-19	MESH:D000086382	Melatonin	IL6	7
+leukocyte degranulation	GO:0043299	COVID-19	MESH:D000086382	Nifedipine	HCK	3
+mitochondrion localization	GO:0051646	COVID-19	MESH:D000086382	Melatonin	BSG	4
+cognition	GO:0050890	COVID-19	MESH:D000086382	Sirolimus	TNF	3
+exploration behavior	GO:0035640	COVID-19	MESH:D000086382	Zinc		3
+membrane repolarization	GO:0086009	COVID-19	MESH:D000086382	Hydroxychloroquine		6
+maintenance of protein localization in organelle	GO:0072595	COVID-19	MESH:D000086382	Hydroxychloroquine		6
+Toll-like receptor 4 binding	GO:0035662	COVID-19	MESH:D000086382	Chloroquine		6
+vacuolar acidification	GO:0007035	COVID-19	MESH:D000086382	Chloroquine		6
+response to odorant	GO:1990834	COVID-19	MESH:D000086382	Zinc Sulfate		2
+actin filament organization	GO:0007015	COVID-19	MESH:D000086382	Melatonin		3
+extracellularly glutamate-gated chloride channel activity	GO:0008068	COVID-19	MESH:D000086382	Ivermectin		3
+glucose import	GO:0046323	COVID-19	MESH:D000086382	Dactinomycin		2
+positive regulation of glucose import	GO:0046326	COVID-19	MESH:D000086382	Ivermectin		3
+diacylglycerol metabolic process	GO:0046339	COVID-19	MESH:D000086382	Choline		2
+very-low-density lipoprotein particle	GO:0034361	COVID-19	MESH:D000086382	Choline		2
+choline transport	GO:0015871	COVID-19	MESH:D000086382	Choline		2
+stem cell fate specification	GO:0048866	COVID-19	MESH:D000086382	Melatonin		3
+neutrophil extravasation	GO:0072672	COVID-19	MESH:D000086382	Azithromycin		2
+T cell migration	GO:0072678	COVID-19	MESH:D000086382	Chloroquine		6
+positive regulation of neuron death	GO:1901216	COVID-19	MESH:D000086382	Zinc		3
+host-mediated regulation of intestinal microbiota composition	GO:0048874	COVID-19	MESH:D000086382	Ivermectin		3
+zinc ion transmembrane transport	GO:0071577	COVID-19	MESH:D000086382	Zinc		4
+wound healing, spreading of cells	GO:0044319	COVID-19	MESH:D000086382	Melatonin		4
+positive regulation of heart rate	GO:0010460	COVID-19	MESH:D000086382	Nifedipine		2
+histamine secretion mediated by immunoglobulin	GO:0097280	COVID-19	MESH:D000086382	Nifedipine		2
+xenobiotic detoxification by transmembrane export across the plasma membrane	GO:1990961	COVID-19	MESH:D000086382	Emodin		2
+regulation of gastrulation	GO:0010470	COVID-19	MESH:D000086382	Acetazolamide		2
+obsolete cholesterol esterification	GO:0034435	COVID-19	MESH:D000086382	Sirolimus		2
+succinate dehydrogenase (ubiquinone) activity	GO:0008177	COVID-19	MESH:D000086382	Melatonin		3
+regulation of humoral immune response mediated by circulating immunoglobulin	GO:0002923	COVID-19	MESH:D000086382	Ribavirin		7
+cellular response to cisplatin	GO:0072719	COVID-19	MESH:D000086382	Chloroquine		6
+neutral lipid biosynthetic process	GO:0046460	COVID-19	MESH:D000086382	Nifedipine		2
+mammary duct terminal end bud growth	GO:0060763	COVID-19	MESH:D000086382	Zinc		3
+negative regulation of histone H3-K27 trimethylation	GO:1902465	COVID-19	MESH:D000086382	Melatonin		3
+NLS-bearing protein import into nucleus	GO:0006607	COVID-19	MESH:D000086382	Ivermectin		4
+regulation of autophagy	GO:0010506	COVID-19	MESH:D000086382	Chloroquine		6
+insulin metabolic process	GO:1901142	COVID-19	MESH:D000086382	Zinc		3
+cellular response to gamma radiation	GO:0071480	COVID-19	MESH:D000086382	Melatonin		3
+negative regulation of locomotion involved in locomotory behavior	GO:0090327	COVID-19	MESH:D000086382	Melatonin		3
+primary metabolic process	GO:0044238	COVID-19	MESH:D000086382	Choline		2
+hatching	GO:0035188	COVID-19	MESH:D000086382	Sirolimus		2
+meiosis I	GO:0007127	COVID-19	MESH:D000086382	Melatonin		3
+adenylate cyclase-activating serotonin receptor signaling pathway	GO:0007192	COVID-19	MESH:D000086382	Ivermectin		3
+fat cell differentiation	GO:0045444	COVID-19	MESH:D000086382	perfluorobutyric acid		2
+meiosis I cytokinesis	GO:0007110	COVID-19	MESH:D000086382	Melatonin		3
+synaptic transmission, glutamatergic	GO:0035249	COVID-19	MESH:D000086382	Sirolimus		2
+positive regulation of ATF6-mediated unfolded protein response	GO:1903893	COVID-19	MESH:D000086382	Melatonin		3
+microglial cell proliferation	GO:0061518	COVID-19	MESH:D000086382	Melatonin		3
+positive regulation of T cell extravasation	GO:2000409	COVID-19	MESH:D000086382	Chloroquine		6
+mannosylation	GO:0097502	COVID-19	MESH:D000086382	Zinc		3
+negative regulation of T cell extravasation	GO:2000408	COVID-19	MESH:D000086382	apilimod		3
+regulation of lipid metabolic process	GO:0019216	COVID-19	MESH:D000086382	Choline		2
+regulation of steroid metabolic process	GO:0019218	COVID-19	MESH:D000086382	Zinc		3
+regulation of metabolic process	GO:0019222	COVID-19	MESH:D000086382	Choline		3
+dendrite arborization	GO:0140059	COVID-19	MESH:D000086382	Sirolimus		2
+negative regulation of protein localization to plasma membrane	GO:1903077	COVID-19	MESH:D000086382	Ivermectin		3
+micturition	GO:0060073	COVID-19	MESH:D000086382	Chloroquine		6
+stem cell proliferation	GO:0072089	COVID-19	MESH:D000086382	Dactinomycin		2
+mitotic cell cycle process	GO:1903047	COVID-19	MESH:D000086382	Chloroquine		6
+positive regulation of IRE1-mediated unfolded protein response	GO:1903896	COVID-19	MESH:D000086382	Melatonin		3
+phosphate ion transmembrane transport	GO:0035435	COVID-19	MESH:D000086382	Choline		2
+positive regulation of xenobiotic detoxification by transmembrane export across the plasma membrane	GO:1905701	COVID-19	MESH:D000086382	Melatonin		3
+positive regulation of membrane permeability	GO:1905710	COVID-19	MESH:D000086382	Hydroxychloroquine		6
+prepulse inhibition	GO:0060134	COVID-19	MESH:D000086382	Sirolimus		2
+phospholipase C-activating angiotensin-activated signaling pathway	GO:0086097	COVID-19	MESH:D000086382	Losartan		2
+early viral transcription	GO:0019085	COVID-19	MESH:D000086382	Ivermectin		3
+positive regulation of cAMP-dependent protein kinase activity	GO:2000481	COVID-19	MESH:D000086382	Ivermectin		3
+viral gene expression	GO:0019080	COVID-19	MESH:D000086382	Hydroxychloroquine		6
+autophagosome maturation	GO:0097352	COVID-19	MESH:D000086382	Chloroquine		6
+bile acid and bile salt transport	GO:0015721	COVID-19	MESH:D000086382	Emodin		2
+blastocyst formation	GO:0001825	COVID-19	MESH:D000086382	Melatonin		4
+epithelial to mesenchymal transition	GO:0001837	COVID-19	MESH:D000086382	Losartan		2
+cellular respiration	GO:0045333	COVID-19	MESH:D000086382	Melatonin		5
+NK T cell proliferation	GO:0001866	COVID-19	MESH:D000086382	perfluorobutyric acid		2
+bilirubin transport	GO:0015723	COVID-19	MESH:D000086382	Zinc		3
+positive regulation of PERK-mediated unfolded protein response	GO:1903899	COVID-19	MESH:D000086382	Melatonin		3
+replication-born double-strand break repair via sister chromatid exchange	GO:1990414	COVID-19	MESH:D000086382	Dactinomycin		2
+regulation of dendritic cell differentiation	GO:2001198	COVID-19	MESH:D000086382	Active Hexose Correlated Compound		2
+negative regulation of dendritic cell chemotaxis	GO:2000509	COVID-19	MESH:D000086382	apilimod		3
+calcium-mediated signaling using intracellular calcium source	GO:0035584	COVID-19	MESH:D000086382	Chloroquine		6
+positive regulation of flagellated sperm motility	GO:1902093	COVID-19	MESH:D000086382	Melatonin		3
+erythrocyte homeostasis	GO:0034101	COVID-19	MESH:D000086382	Zinc		3
+regulation of T-helper 2 cell cytokine production	GO:2000551	COVID-19	MESH:D000086382	Ribavirin		7
+negative regulation of blood circulation	GO:1903523	COVID-19	MESH:D000086382	Melatonin		3
+positive regulation of exosomal secretion	GO:1903543	COVID-19	MESH:D000086382	apilimod		3
+heterotypic cell-cell adhesion	GO:0034113	COVID-19	MESH:D000086382	Chloroquine		6
+negative regulation of oocyte maturation	GO:1900194	COVID-19	MESH:D000086382	Melatonin		3
+regulation of T-helper 1 cell cytokine production	GO:2000554	COVID-19	MESH:D000086382	Ribavirin		7
+negative regulation of MyD88-dependent toll-like receptor signaling pathway	GO:0034125	COVID-19	MESH:D000086382	chloroquine diphosphate		6
+negative regulation of T-helper 1 cell cytokine production	GO:2000555	COVID-19	MESH:D000086382	apilimod		3
+testosterone biosynthetic process	GO:0061370	COVID-19	MESH:D000086382	Ivermectin		3
+polyol biosynthetic process	GO:0046173	COVID-19	MESH:D000086382	Losartan		2
+positive regulation of organelle assembly	GO:1902117	COVID-19	MESH:D000086382	Chloroquine		6
+intrahepatic bile duct development	GO:0035622	COVID-19	MESH:D000086382	Zinc		3
+behavioral response to chemical pain	GO:0061366	COVID-19	MESH:D000086382	Zinc		3
+response to angiotensin	GO:1990776	COVID-19	MESH:D000086382	Losartan		2
+intracellular transport of viral protein in host cell	GO:0019060	COVID-19	MESH:D000086382	Ivermectin		3
+fibroblast activation	GO:0072537	COVID-19	MESH:D000086382	apilimod		3
+release from viral latency	GO:0019046	COVID-19	MESH:D000086382	Chloroquine		6
+intestinal epithelial cell development	GO:0060576	COVID-19	MESH:D000086382	Choline		2
+creatine biosynthetic process	GO:0006601	COVID-19	MESH:D000086382	Sirolimus		2
+bile acid metabolic process	GO:0008206	COVID-19	MESH:D000086382	Emodin		2
+androgen metabolic process	GO:0008209	COVID-19	MESH:D000086382	Nifedipine		3
+regulation of lysosomal membrane permeability	GO:0097213	COVID-19	MESH:D000086382	Chloroquine		6
+acetate metabolic process	GO:0006083	COVID-19	MESH:D000086382	Hydroxychloroquine		6
+positive regulation of mitochondrial fission	GO:0090141	COVID-19	MESH:D000086382	Melatonin		3
+DNA synthesis involved in mitotic DNA replication	GO:1904860	COVID-19	MESH:D000086382	Lopinavir		5
+negative regulation of histone H3-K9 dimethylation	GO:1900110	COVID-19	MESH:D000086382	Melatonin		3
+positive regulation of intracellular estrogen receptor signaling pathway	GO:0033148	COVID-19	MESH:D000086382	Melatonin		3
+cellular response to electrical stimulus	GO:0071257	COVID-19	MESH:D000086382	Ivermectin		3
+positive regulation of autophagosome maturation	GO:1901098	COVID-19	MESH:D000086382	Chloroquine		9
+negative regulation of catalase activity	GO:1902552	COVID-19	MESH:D000086382	Melatonin		3
+negative regulation of autophagosome maturation	GO:1901097	COVID-19	MESH:D000086382	Sirolimus		3
+positive regulation of serine-type peptidase activity	GO:1902573	COVID-19	MESH:D000086382	camostat		3
+negative regulation of calcium ion transmembrane transport via high voltage-gated calcium channel	GO:1904878	COVID-19	MESH:D000086382	Nifedipine		3
+IMP dehydrogenase activity	GO:0003938	COVID-19	MESH:D000086382	Ribavirin		7
+negative regulation of epithelial cell migration	GO:0010633	COVID-19	MESH:D000086382	Melatonin		3
+L-iditol 2-dehydrogenase activity	GO:0003939	COVID-19	MESH:D000086382	Tenofovir		2
+determination of adult lifespan	GO:0008340	COVID-19	MESH:D000086382	Sirolimus		2
+adult feeding behavior	GO:0008343	COVID-19	MESH:D000086382	Sirolimus		2
+adult locomotory behavior	GO:0008344	COVID-19	MESH:D000086382	Ivermectin		3
+cellular response to zinc ion	GO:0071294	COVID-19	MESH:D000086382	Zinc		3
+cell morphogenesis	GO:0000902	COVID-19	MESH:D000086382	Melatonin		3
+epithelial structure maintenance	GO:0010669	COVID-19	MESH:D000086382	Melatonin		3
+positive regulation of mitochondrial outer membrane permeabilization involved in apoptotic signaling pathway	GO:1901030	COVID-19	MESH:D000086382	Dactinomycin		2
+positive regulation of inflammatory response to antigenic stimulus	GO:0002863	COVID-19	MESH:D000086382	Ivermectin		3
+negative regulation of organ growth	GO:0046621	COVID-19	MESH:D000086382	Tenofovir		2
+positive regulation of alkaline phosphatase activity	GO:0010694	COVID-19	MESH:D000086382	Sirolimus		2
+DNA-binding transcription factor activity, RNA polymerase II-specific	GO:0000981	COVID-19	MESH:D000086382	Hydroxychloroquine		6
+gamma-delta T cell proliferation	GO:0046630	COVID-19	MESH:D000086382	Active Hexose Correlated Compound		2
+formate metabolic process	GO:0015942	COVID-19	MESH:D000086382	Hydroxychloroquine		6
+aconitate hydratase activity	GO:0003994	COVID-19	MESH:D000086382	Zinc		3
+mitochondrial genome maintenance	GO:0000002	COVID-19	MESH:D000086382	Choline		2
+proton transmembrane transport	GO:1902600	COVID-19	MESH:D000086382	Zinc		3
+vascular associated smooth muscle contraction	GO:0014829	COVID-19	MESH:D000086382	Dactinomycin		2
+gluconeogenesis	GO:0006094	COVID-19	MESH:D000086382	Nifedipine		4
+S-adenosylmethionine biosynthetic process	GO:0006556	COVID-19	MESH:D000086382	Choline		2
+positive regulation of ion transmembrane transport	GO:0034767	COVID-19	MESH:D000086382	Choline		2
+histone H4-K20 trimethylation	GO:0034773	COVID-19	MESH:D000086382	Zinc		3
+cardiac muscle contraction	GO:0060048	COVID-19	MESH:D000086382	Nifedipine		5
+siRNA-independent facultative heterochromatin formation	GO:1902794	COVID-19	MESH:D000086382	Sirolimus		2
+heart contraction	GO:0060047	COVID-19	MESH:D000086382	Nifedipine		2
+retina morphogenesis in camera-type eye	GO:0060042	COVID-19	MESH:D000086382	nafamostat		2
+lactate biosynthetic process	GO:0019249	COVID-19	MESH:D000086382	Choline		2
+retina layer formation	GO:0010842	COVID-19	MESH:D000086382	nafamostat		2
+positive regulation of triglyceride biosynthetic process	GO:0010867	COVID-19	MESH:D000086382	Sirolimus		2
+regulation of blood-brain barrier permeability	GO:1905603	COVID-19	MESH:D000086382	Losartan		2
+negative regulation of activation-induced cell death of T cells	GO:0070236	COVID-19	MESH:D000086382	Melatonin		3
+cellular response to stress	GO:0033554	COVID-19	MESH:D000086382	Zinc		3
+transepithelial transport	GO:0070633	COVID-19	MESH:D000086382	Melatonin		3
+negative regulation of cardiac muscle cell differentiation	GO:2000726	COVID-19	MESH:D000086382	Ribavirin		7
+cytochrome-c oxidase activity	GO:0004129	COVID-19	MESH:D000086382	Zinc		3
+norepinephrine metabolic process	GO:0042415	COVID-19	MESH:D000086382	Chloroquine		6
+dopamine biosynthetic process	GO:0042416	COVID-19	MESH:D000086382	Melatonin		3
+dopamine metabolic process	GO:0042417	COVID-19	MESH:D000086382	Chloroquine		6
+aminopeptidase activity	GO:0004177	COVID-19	MESH:D000086382	Zinc		3
+serotonin metabolic process	GO:0042428	COVID-19	MESH:D000086382	Chloroquine		6
+regulation of skeletal muscle contraction by regulation of release of sequestered calcium ion	GO:0014809	COVID-19	MESH:D000086382	Nifedipine		2
+synaptic transmission, GABAergic	GO:0051932	COVID-19	MESH:D000086382	Sirolimus		2
+kinesis	GO:0042465	COVID-19	MESH:D000086382	Melatonin		3
+positive regulation of autophagic cell death	GO:1904094	COVID-19	MESH:D000086382	Ivermectin		3
+succinate dehydrogenase activity	GO:0000104	COVID-19	MESH:D000086382	Zinc		3
+negative regulation of transforming growth factor beta receptor signaling pathway	GO:0030512	COVID-19	MESH:D000086382	apilimod		3
+intracellular estrogen receptor signaling pathway	GO:0030520	COVID-19	MESH:D000086382	perfluorobutyric acid		2
+hemoglobin biosynthetic process	GO:0042541	COVID-19	MESH:D000086382	Sirolimus		2
+positive regulation of natural killer cell activation	GO:0032816	COVID-19	MESH:D000086382	Active Hexose Correlated Compound		2
+negative regulation of calcium ion transport	GO:0051926	COVID-19	MESH:D000086382	Nifedipine		2
+lamellar body	GO:0042599	COVID-19	MESH:D000086382	Chloroquine		6
+positive regulation of response to DNA damage stimulus	GO:2001022	COVID-19	MESH:D000086382	Ribavirin		7
+positive regulation of response to drug	GO:2001025	COVID-19	MESH:D000086382	Tenofovir		2
+positive regulation of cellular response to drug	GO:2001040	COVID-19	MESH:D000086382	selamectin		2
+aspartate metabolic process	GO:0006531	COVID-19	MESH:D000086382	Hydroxychloroquine		6
+positive regulation of anion channel activity	GO:1901529	COVID-19	MESH:D000086382	Ivermectin		3
+glutamate dehydrogenase (NAD+) activity	GO:0004352	COVID-19	MESH:D000086382	Melatonin		3
+binding of sperm to zona pellucida	GO:0007339	COVID-19	MESH:D000086382	Melatonin		5
+positive regulation of catecholamine secretion	GO:0033605	COVID-19	MESH:D000086382	Nifedipine		2
+negative regulation of cholesterol storage	GO:0010887	COVID-19	MESH:D000086382	Sirolimus		2
+doxorubicin transport	GO:1900753	COVID-19	MESH:D000086382	Chloroquine		6
+positive regulation of adaptive immune response	GO:0002821	COVID-19	MESH:D000086382	Active Hexose Correlated Compound		2
+positive regulation of leukocyte proliferation	GO:0070665	COVID-19	MESH:D000086382	Zinc Sulfate		2
+histone H3-K9 trimethylation	GO:0036124	COVID-19	MESH:D000086382	Zinc		3
+negative regulation of response to oxidative stress	GO:1902883	COVID-19	MESH:D000086382	Melatonin		3
+cysteine-type endopeptidase activity involved in apoptotic process	GO:0097153	COVID-19	MESH:D000086382	Chloroquine		7
+attachment of spindle microtubules to kinetochore	GO:0008608	COVID-19	MESH:D000086382	Melatonin		3
+epoxygenase P450 pathway	GO:0019373	COVID-19	MESH:D000086382	Nifedipine		2
+negative regulation of cardioblast differentiation	GO:0051892	COVID-19	MESH:D000086382	Ribavirin		7
+neuron projection extension	GO:1990138	COVID-19	MESH:D000086382	Sirolimus		2
+Gi/o-coupled serotonin receptor activity	GO:0001586	COVID-19	MESH:D000086382	Sirolimus		2
+fatty acid oxidation	GO:0019395	COVID-19	MESH:D000086382	Chloroquine		6
+positive regulation of CREB transcription factor activity	GO:0032793	COVID-19	MESH:D000086382	Ivermectin		3
+2-oxoglutarate metabolic process	GO:0006103	COVID-19	MESH:D000086382	Hydroxychloroquine		6
+histone arginine methylation	GO:0034969	COVID-19	MESH:D000086382	Ribavirin		7
+histone H3-R17 methylation	GO:0034971	COVID-19	MESH:D000086382	Ribavirin		7
+sensitization	GO:0046960	COVID-19	MESH:D000086382	Nifedipine		2
+proton-transporting ATPase activity, rotational mechanism	GO:0046961	COVID-19	MESH:D000086382	Zinc		3
+oxidative phosphorylation	GO:0006119	COVID-19	MESH:D000086382	Sirolimus		2
+mitochondrial electron transport, NADH to ubiquinone	GO:0006120	COVID-19	MESH:D000086382	Tenofovir		2
+copper ion homeostasis	GO:0055070	COVID-19	MESH:D000086382	Zinc Sulfate		2
+oocyte maturation	GO:0001556	COVID-19	MESH:D000086382	Melatonin		3
+positive regulation of T cell cytokine production	GO:0002726	COVID-19	MESH:D000086382	Active Hexose Correlated Compound		2
+lipid homeostasis	GO:0055088	COVID-19	MESH:D000086382	Choline		2
+fatty acid homeostasis	GO:0055089	COVID-19	MESH:D000086382	Choline		2
+action potential	GO:0001508	COVID-19	MESH:D000086382	Nifedipine		2
+positive regulation of NAD+ ADP-ribosyltransferase activity	GO:1901666	COVID-19	MESH:D000086382	Zinc		3
+protein localization to lipid droplet	GO:1990044	COVID-19	MESH:D000086382	Melatonin		3
+stress fiber assembly	GO:0043149	COVID-19	MESH:D000086382	cannabidiolic acid		2
+regulation of superoxide dismutase activity	GO:1901668	COVID-19	MESH:D000086382	Zinc		3
+RNA biosynthetic process	GO:0032774	COVID-19	MESH:D000086382	camostat		3
+establishment of organelle localization	GO:0051656	COVID-19	MESH:D000086382	Melatonin		3
+regulation of primary metabolic process	GO:0080090	COVID-19	MESH:D000086382	Choline		2
+positive regulation of meiotic cell cycle process involved in oocyte maturation	GO:1904146	COVID-19	MESH:D000086382	Zinc		3
+tryptophan catabolic process to kynurenine	GO:0019441	COVID-19	MESH:D000086382	chloroquine diphosphate		6
+positive regulation of membrane depolarization	GO:1904181	COVID-19	MESH:D000086382	Ivermectin		3
+detection of cAMP	GO:0031319	COVID-19	MESH:D000086382	Chloroquine		6
+regulation of cellular metabolic process	GO:0031323	COVID-19	MESH:D000086382	Choline		2
+meiotic spindle organization	GO:0000212	COVID-19	MESH:D000086382	Melatonin		4
+mitochondrial fission	GO:0000266	COVID-19	MESH:D000086382	Emodin		2
+mitotic cell cycle	GO:0000278	COVID-19	MESH:D000086382	Nifedipine		2
+multivesicular body assembly	GO:0036258	COVID-19	MESH:D000086382	apilimod		3
+extracellular matrix assembly	GO:0085029	COVID-19	MESH:D000086382	Losartan		2
+negative regulation of cell growth involved in cardiac muscle cell development	GO:0061052	COVID-19	MESH:D000086382	Ivermectin		3
+oligosaccharide-lipid intermediate biosynthetic process	GO:0006490	COVID-19	MESH:D000086382	Zinc		3
+negative regulation of Notch signaling pathway	GO:0045746	COVID-19	MESH:D000086382	Emodin		2
+positive regulation of Notch signaling pathway	GO:0045747	COVID-19	MESH:D000086382	Emodin		2
+positive regulation of bone resorption	GO:0045780	COVID-19	MESH:D000086382	betulinic acid		2
+behavioral response to pain	GO:0048266	COVID-19	MESH:D000086382	cannabidiolic acid		2
+negative regulation of cell size	GO:0045792	COVID-19	MESH:D000086382	Choline		2
+regulation of MAPK cascade	GO:0043408	COVID-19	MESH:D000086382	Lopinavir		5
+positive regulation of cell size	GO:0045793	COVID-19	MESH:D000086382	Sirolimus		3
+positive regulation of cell volume	GO:0045795	COVID-19	MESH:D000086382	Chloroquine		6
+negative regulation of DNA-binding transcription factor activity	GO:0043433	COVID-19	MESH:D000086382	cannabidiolic acid		2
+pigmentation	GO:0043473	COVID-19	MESH:D000086382	Ivermectin		3
+intracellular cAMP-activated cation channel activity	GO:0005222	COVID-19	MESH:D000086382	Sirolimus		2
+protein-containing complex localization	GO:0031503	COVID-19	MESH:D000086382	Chloroquine		6
+positive regulation of signal transduction by p53 class mediator	GO:1901798	COVID-19	MESH:D000086382	Dactinomycin		2
+positive regulation of blood vessel endothelial cell migration	GO:0043536	COVID-19	MESH:D000086382	Sirolimus		2
+histone H3-K4 trimethylation	GO:0080182	COVID-19	MESH:D000086382	Sirolimus		2
+heart development	GO:0007507	COVID-19	MESH:D000086382	Melatonin		3
+dendritic cell migration	GO:0036336	COVID-19	MESH:D000086382	Chloroquine		6
+hydrogen peroxide biosynthetic process	GO:0050665	COVID-19	MESH:D000086382	Melatonin		3
+response to hydrostatic pressure	GO:0051599	COVID-19	MESH:D000086382	Sirolimus		2
+negative regulation of glycolytic process	GO:0045820	COVID-19	MESH:D000086382	Ivermectin		3
+homocysteine metabolic process	GO:0050667	COVID-19	MESH:D000086382	Choline		2
+cell dedifferentiation	GO:0043697	COVID-19	MESH:D000086382	Nifedipine		2
+cAMP biosynthetic process	GO:0006171	COVID-19	MESH:D000086382	Chloroquine		6
+positive regulation of mitochondrial calcium ion concentration	GO:0051561	COVID-19	MESH:D000086382	Ivermectin		3
+mitochondrial calcium ion homeostasis	GO:0051560	COVID-19	MESH:D000086382	Emodin		2
+virion component	GO:0044423	COVID-19	MESH:D000086382	Chloroquine		6
+positive regulation of protein homooligomerization	GO:0032464	COVID-19	MESH:D000086382	Zinc		3
+bone regeneration	GO:1990523	COVID-19	MESH:D000086382	apilimod		3
+pH reduction	GO:0045851	COVID-19	MESH:D000086382	Chloroquine		6
+cardiac epithelial to mesenchymal transition	GO:0060317	COVID-19	MESH:D000086382	Zinc		3
+endosome lysis involved in viral entry into host cell	GO:0075514	COVID-19	MESH:D000086382	Chloroquine		6
+stress granule assembly	GO:0034063	COVID-19	MESH:D000086382	Dactinomycin		2
+pH elevation	GO:0045852	COVID-19	MESH:D000086382	Chloroquine		6
+tight junction assembly	GO:0120192	COVID-19	MESH:D000086382	Azithromycin		2
+import into cell	GO:0098657	COVID-19	MESH:D000086382	Zinc		3
+positive regulation of type I interferon-mediated signaling pathway	GO:0060340	COVID-19	MESH:D000086382	Interferon-alpha		3
+circulatory system development	GO:0072359	COVID-19	MESH:D000086382	Melatonin		3
+regulation of SMAD protein signal transduction	GO:0060390	COVID-19	MESH:D000086382	Zinc		3
+behavior	GO:0007610	COVID-19	MESH:D000086382	Sirolimus		2
+positive regulation of hypoxia-inducible factor-1alpha signaling pathway	GO:1902073	COVID-19	MESH:D000086382	Losartan		2
+learning	GO:0007612	COVID-19	MESH:D000086382	Zinc		3
+negative regulation of autophagosome assembly	GO:1902902	COVID-19	MESH:D000086382	Sirolimus		2
+negative regulation of lysosomal protein catabolic process	GO:1905166	COVID-19	MESH:D000086382	Chloroquine		6
+negative regulation of intracellular calcium activated chloride channel activity	GO:1902939	COVID-19	MESH:D000086382	Nifedipine		2
+regulation of cytosolic calcium ion concentration	GO:0051480	COVID-19	MESH:D000086382	Nifedipine		3
+intracellular pH elevation	GO:0051454	COVID-19	MESH:D000086382	Chloroquine		6
+short-term memory	GO:0007614	COVID-19	MESH:D000086382	Melatonin		3
+inorganic cation import across plasma membrane	GO:0098659	COVID-19	MESH:D000086382	Losartan		2
+negative regulation of mitochondrial electron transport, NADH to ubiquinone	GO:1902957	COVID-19	MESH:D000086382	Choline		2
+locomotory behavior	GO:0007626	COVID-19	MESH:D000086382	Emodin		2
+metal ion homeostasis	GO:0055065	COVID-19	MESH:D000086382	Zinc		5
+intracellular pH reduction	GO:0051452	COVID-19	MESH:D000086382	chloroquine diphosphate		6
+chemosensory behavior	GO:0007635	COVID-19	MESH:D000086382	Chloroquine		6
+urea metabolic process	GO:0019627	COVID-19	MESH:D000086382	Melatonin		3
+inorganic cation transmembrane transport	GO:0098662	COVID-19	MESH:D000086382	Sofosbuvir		3
+autophagosome organization	GO:1905037	COVID-19	MESH:D000086382	Chloroquine		6
+positive regulation of mitotic cell cycle	GO:0045931	COVID-19	MESH:D000086382	Sirolimus		2
+NAD metabolic process	GO:0019674	COVID-19	MESH:D000086382	Sirolimus		2
+positive regulation of natural killer cell mediated cytotoxicity	GO:0045954	COVID-19	MESH:D000086382	Active Hexose Correlated Compound		3
+choline metabolic process	GO:0019695	COVID-19	MESH:D000086382	Choline		8
+mitophagy	GO:0000423	COVID-19	MESH:D000086382	Chloroquine		6
+cAMP transport	GO:0070730	COVID-19	MESH:D000086382	Melatonin		3
+olfactory behavior	GO:0042048	COVID-19	MESH:D000086382	Zinc Sulfate		2
+T-helper 1 type immune response	GO:0042088	COVID-19	MESH:D000086382	apilimod		3
+positive regulation of oxidoreductase activity	GO:0051353	COVID-19	MESH:D000086382	Tenofovir		2
+negative regulation of transferase activity	GO:0051348	COVID-19	MESH:D000086382	Tenofovir		2
+aorta morphogenesis	GO:0035909	COVID-19	MESH:D000086382	Zinc		3
+peptidyl-tyrosine modification	GO:0018212	COVID-19	MESH:D000086382	Choline		2
+macrophage activation	GO:0042116	COVID-19	MESH:D000086382	Azithromycin		2
+positive regulation of transferase activity	GO:0051347	COVID-19	MESH:D000086382	Tenofovir		2
+microvillus organization	GO:0032528	COVID-19	MESH:D000086382	Zinc		3
+meiotic metaphase plate congression	GO:0051311	COVID-19	MESH:D000086382	Melatonin		3
+mitochondrial DNA replication	GO:0006264	COVID-19	MESH:D000086382	Melatonin		6
+neuron differentiation	GO:0030182	COVID-19	MESH:D000086382	Sirolimus		2
+melatonin metabolic process	GO:0030186	COVID-19	MESH:D000086382	Emodin		2
+melatonin biosynthetic process	GO:0030187	COVID-19	MESH:D000086382	Melatonin		4
+xenobiotic catabolic process	GO:0042178	COVID-19	MESH:D000086382	Losartan		2
+cellular ketone metabolic process	GO:0042180	COVID-19	MESH:D000086382	Hydroxychloroquine		6
+L-ascorbic acid biosynthetic process	GO:0019853	COVID-19	MESH:D000086382	Zinc		3
+D-glutamyltransferase activity	GO:0047823	COVID-19	MESH:D000086382	Zinc		3
+iron ion import across plasma membrane	GO:0098711	COVID-19	MESH:D000086382	Zinc		3
+sodium ion import across plasma membrane	GO:0098719	COVID-19	MESH:D000086382	Nifedipine		2
+maintenance of cell number	GO:0098727	COVID-19	MESH:D000086382	Tenofovir		2
+lysosomal lumen pH elevation	GO:0035752	COVID-19	MESH:D000086382	Chloroquine		8
+hemoglobin metabolic process	GO:0020027	COVID-19	MESH:D000086382	Zinc		3
+ion homeostasis	GO:0050801	COVID-19	MESH:D000086382	Chloroquine		6
+micronucleus organization	GO:0032125	COVID-19	MESH:D000086382	betulinic acid		2
+positive regulation of canonical Wnt signaling pathway	GO:0090263	COVID-19	MESH:D000086382	Losartan		2
+dendritic cell proliferation	GO:0044565	COVID-19	MESH:D000086382	Active Hexose Correlated Compound		2
+positive regulation of cAMP-mediated signaling	GO:0043950	COVID-19	MESH:D000086382	Ivermectin		3
+histone H3 acetylation	GO:0043966	COVID-19	MESH:D000086382	Chloroquine		6
+histone H4-R3 methylation	GO:0043985	COVID-19	MESH:D000086382	Ribavirin		7
+regulation of multicellular organism growth	GO:0040014	COVID-19	MESH:D000086382	Zinc		3
+negative regulation of multicellular organism growth	GO:0040015	COVID-19	MESH:D000086382	Choline		2
+polar body extrusion after meiotic divisions	GO:0040038	COVID-19	MESH:D000086382	Melatonin		5
+negative regulation of sequestering of calcium ion	GO:0051283	COVID-19	MESH:D000086382	Hydroxychloroquine		6
+regulation of calcium-mediated signaling	GO:0050848	COVID-19	MESH:D000086382	Sofosbuvir		3
+positive regulation of locomotion involved in locomotory behavior	GO:0090326	COVID-19	MESH:D000086382	Zinc		3
+phagosome acidification	GO:0090383	COVID-19	MESH:D000086382	apilimod		3
+phagosome-lysosome fusion	GO:0090385	COVID-19	MESH:D000086382	apilimod		3
+negative regulation of calcium-mediated signaling	GO:0050849	COVID-19	MESH:D000086382	Nifedipine		2
+hypersensitivity	GO:0002524	COVID-19	MESH:D000086382	Melatonin		3
+mitochondrial respiratory chain complex I	GO:0005747	COVID-19	MESH:D000086382	Sirolimus		2
+mitochondrial respiratory chain complex III	GO:0005750	COVID-19	MESH:D000086382	Sirolimus		2
+mitochondrial proton-transporting ATP synthase complex	GO:0005753	COVID-19	MESH:D000086382	Sirolimus		2
+protein transport into membrane raft	GO:0032596	COVID-19	MESH:D000086382	Melatonin		3
+spindle assembly	GO:0051225	COVID-19	MESH:D000086382	Melatonin		3
+oxidative stress-induced premature senescence	GO:0090403	COVID-19	MESH:D000086382	Sirolimus		2
+regulation of body fluid levels	GO:0050878	COVID-19	MESH:D000086382	Tenofovir		2
+embryonic morphogenesis	GO:0048598	COVID-19	MESH:D000086382	Ribavirin		7
+fatty acid biosynthetic process	GO:0006633	COVID-19	MESH:D000086382	Zinc		3
+unsaturated fatty acid biosynthetic process	GO:0006636	COVID-19	MESH:D000086382	Zinc		3
+trehalose-phosphatase activity	GO:0004805	COVID-19	MESH:D000086382	Ivermectin		3
+phospholipid metabolic process	GO:0006644	COVID-19	MESH:D000086382	betulinic acid		2
+phosphatidylcholine biosynthetic process	GO:0006656	COVID-19	MESH:D000086382	Sirolimus		2
+circadian regulation of gene expression	GO:0032922	COVID-19	MESH:D000086382	Melatonin		4
+phosphatidylinositol 5-phosphate biosynthetic process	GO:1904563	COVID-19	MESH:D000086382	apilimod		3
+negative regulation of calcineurin-NFAT signaling cascade	GO:0070885	COVID-19	MESH:D000086382	Melatonin		3
+prostanoid metabolic process	GO:0006692	COVID-19	MESH:D000086382	Choline		2
+bile acid biosynthetic process	GO:0006699	COVID-19	MESH:D000086382	Melatonin		3
+negative regulation of animal organ morphogenesis	GO:0110111	COVID-19	MESH:D000086382	Tenofovir		2
+response to sodium arsenite	GO:1903935	COVID-19	MESH:D000086382	Melatonin		3
+fertilization	GO:0009566	COVID-19	MESH:D000086382	Melatonin		4
+immunoglobulin production involved in immunoglobulin-mediated immune response	GO:0002381	COVID-19	MESH:D000086382	Active Hexose Correlated Compound		3
+porphyrin-containing compound biosynthetic process	GO:0006779	COVID-19	MESH:D000086382	Dactinomycin		2
+ion transport	GO:0006811	COVID-19	MESH:D000086382	Nifedipine		4
+palmitic acid biosynthetic process	GO:1900535	COVID-19	MESH:D000086382	Zinc		3
+zinc ion transport	GO:0006829	COVID-19	MESH:D000086382	Zinc		4
+xenobiotic transmembrane transport	GO:0006855	COVID-19	MESH:D000086382	Chloroquine		6
+cellular metal ion homeostasis	GO:0006875	COVID-19	MESH:D000086382	Zinc		3
+clathrin coat assembly involved in endocytosis	GO:0099049	COVID-19	MESH:D000086382	baricitinib		2
+receptor-mediated endocytosis	GO:0006898	COVID-19	MESH:D000086382	Chloroquine		6
+phagocytosis, engulfment	GO:0006911	COVID-19	MESH:D000086382	Sirolimus		2
+smooth muscle contraction	GO:0006939	COVID-19	MESH:D000086382	Nifedipine		2
+response to stress	GO:0006950	COVID-19	MESH:D000086382	Zinc		3
+complement activation	GO:0006956	COVID-19	MESH:D000086382	Heparin, Low-Molecular-Weight		2
+protein kinase C activity	GO:0004697	COVID-19	MESH:D000086382	Choline		2
+AMP-activated protein kinase activity	GO:0004679	COVID-19	MESH:D000086382	Emodin		2
+type I interferon production	GO:0032606	COVID-19	MESH:D000086382	Chloroquine		6
+glucuronosyltransferase activity	GO:0015020	COVID-19	MESH:D000086382	betulinic acid		2
+negative regulation of glomerular filtration	GO:0003105	COVID-19	MESH:D000086382	Zinc		3
+telomere maintenance	GO:0000723	COVID-19	MESH:D000086382	Zinc		3
+positive regulation of male gonad development	GO:2000020	COVID-19	MESH:D000086382	Zinc		3
+negative regulation of cortisol biosynthetic process	GO:2000065	COVID-19	MESH:D000086382	Sirolimus		2
+negative regulation of p38MAPK cascade	GO:1903753	COVID-19	MESH:D000086382	Chloroquine		6
+regulation of skeletal muscle fiber development	GO:0048742	COVID-19	MESH:D000086382	Sirolimus		2
+interleukin-10 production	GO:0032613	COVID-19	MESH:D000086382	apilimod		3
+positive regulation of fatty acid transport	GO:2000193	COVID-19	MESH:D000086382	Choline		2
+interleukin-12 production	GO:0032615	COVID-19	MESH:D000086382	apilimod		3
+negative regulation of reproductive process	GO:2000242	COVID-19	MESH:D000086382	Ivermectin		3
+positive regulation of male germ cell proliferation	GO:2000256	COVID-19	MESH:D000086382	Melatonin		3
+suppression by virus of host catalytic activity	GO:0039513	COVID-19	MESH:D000086382	Sirolimus		2
+negative regulation of T-helper 17 type immune response	GO:2000317	COVID-19	MESH:D000086382	apilimod		3
+monounsaturated fatty acid biosynthetic process	GO:1903966	COVID-19	MESH:D000086382	Zinc		3
+TORC1 signaling	GO:0038202	COVID-19	MESH:D000086382	Sirolimus		2
+glycogen catabolic process	GO:0005980	COVID-19	MESH:D000086382	Nifedipine		2
+interleukin-23 production	GO:0032627	COVID-19	MESH:D000086382	apilimod		3
+plasmacytoid dendritic cell activation	GO:0002270	COVID-19	MESH:D000086382	chloroquine diphosphate		6
+sucrose alpha-glucosidase activity	GO:0004575	COVID-19	MESH:D000086382	Choline		2
+positive regulation of ovarian follicle development	GO:2000386	COVID-19	MESH:D000086382	Sirolimus		2
+positive regulation of neutrophil extravasation	GO:2000391	COVID-19	MESH:D000086382	Emodin		2
+regulation of interleukin-12 production	GO:0032655	COVID-19	MESH:D000086382	Active Hexose Correlated Compound		2
+UV-damage excision repair	GO:0070914	COVID-19	MESH:D000086382	Zinc		3
+lead ion transport	GO:0015692	COVID-19	MESH:D000086382	Zinc		3
+beta-galactosidase activity	GO:0004565	COVID-19	MESH:D000086382	Losartan		2
+RNA-templated viral transcription	GO:0039696	COVID-19	MESH:D000086382	Chloroquine		6
+lymphocyte homeostasis	GO:0002260	COVID-19	MESH:D000086382	Active Hexose Correlated Compound		2
+nitric-oxide synthase activity	GO:0004517	COVID-19	MESH:D000086382	Chloroquine		6
+tissue regeneration	GO:0042246	COVID-19	MESH:D000086382	Hydroxychloroquine		6
+bone mineralization	GO:0030282	COVID-19	MESH:D000086382	Hydroxychloroquine		6
+viral release from host cell by cytolysis	GO:0044659	COVID-19	MESH:D000086382	(2-(2',3'-dihydrobenzo(1,4)dioxin-6'-yl)-2-hydroxy-1-pyrrolidin-1-ylmethylethyl)nonanoic acid amide		1
+regulation of tumor necrosis factor production	GO:0032680	COVID-19	MESH:D000086382	Zinc		3
+negative regulation of microvillus length	GO:1903982	COVID-19	MESH:D000086382	Zinc		3
+carnitine metabolic process	GO:0009437	COVID-19	MESH:D000086382	Choline		2
+L-alanine:2-oxoglutarate aminotransferase activity	GO:0004021	COVID-19	MESH:D000086382	Choline		2
+alditol:NADP+ 1-oxidoreductase activity	GO:0004032	COVID-19	MESH:D000086382	Losartan		2
+positive regulation of intrinsic apoptotic signaling pathway	GO:2001244	COVID-19	MESH:D000086382	Chloroquine		6
+negative regulation of interleukin-1 beta production	GO:0032691	COVID-19	MESH:D000086382	Chloroquine		6
+positive regulation of osteoclast development	GO:2001206	COVID-19	MESH:D000086382	betulinic acid		2
+response to environmental enrichment	GO:0090648	COVID-19	MESH:D000086382	Melatonin		3
+circadian sleep/wake cycle, wakefulness	GO:0042746	COVID-19	MESH:D000086382	Melatonin		3
+hydrogen peroxide metabolic process	GO:0042743	COVID-19	MESH:D000086382	Losartan		2
+regulation of embryonic cell shape	GO:0016476	COVID-19	MESH:D000086382	Ivermectin		3
+malic enzyme activity	GO:0004470	COVID-19	MESH:D000086382	Zinc		3
+iron ion export across plasma membrane	GO:1903988	COVID-19	MESH:D000086382	Chloroquine		6
+autophagosome membrane disassembly	GO:0030399	COVID-19	MESH:D000086382	Chloroquine		7
+isocitrate dehydrogenase (NADP+) activity	GO:0004450	COVID-19	MESH:D000086382	Zinc		3
+isocitrate dehydrogenase (NAD+) activity	GO:0004449	COVID-19	MESH:D000086382	Zinc		3
+protein binding	GO:0005515	COVID-19	MESH:D000086382		ACE2|AGT|ATP11A|BCL11A|BSG|BTK|CCL2|CCL3|CCR2|CD209|CRP|CXCL10|CXCL8|F8|FUT2|HCK|ICAM5|IFNAR2|IL10|IL10RB|IL1B|IL2|IL2RA|IL6|IL7|LZTFL1|MUC1|OAS1|PLSCR1|SELE|TMEM106B|TMPRSS2|TMPRSS4|TNF|TYK2|UGCG	32
+membrane	GO:0016020	COVID-19	MESH:D000086382		ABO|ACE2|ATP11A|BSG|BTK|CCR2|CD209|FUT2|HCK|ICAM5|IFNAR2|IL10RB|IL2RA|MUC1|PLSCR1|SELE|TMEM106B|TMPRSS2|TMPRSS4|TNF|TYK2|UGCG	27
+extracellular region	GO:0005576	COVID-19	MESH:D000086382		ABO|ACE2|AGT|CCL2|CCL3|CD209|CRP|CSF3|CXCL10|CXCL8|F8|IFNAR2|IL10|IL1B|IL2|IL6|IL7|OAS1|TMPRSS2|TMPRSS4|TNF	26
+plasma membrane	GO:0005886	COVID-19	MESH:D000086382		ACE2|ATP11A|BSG|BTK|CCR2|CD209|F8|HCK|ICAM5|IFNAR2|IL10RB|IL2RA|MUC1|PLSCR1|SELE|TMPRSS2|TMPRSS4|TNF|TYK2	24
+extracellular space	GO:0005615	COVID-19	MESH:D000086382		ACE2|AGT|CCL2|CCL3|CRP|CSF3|CXCL10|F8|IFNAR2|IL10|IL1B|IL2|IL6|IL7|SELE|TMPRSS4|TNF	23
+cytoplasm	GO:0005737	COVID-19	MESH:D000086382		ACE2|AGT|BCL11A|BTK|CCL2|CCL3|CCR2|CD209|HCK|IL1B|IL6|LZTFL1|MUC1|OAS1|PLSCR1|TNF|TYK2	28
+signal transduction	GO:0007165	COVID-19	MESH:D000086382		CCL2|CCL3|CCR2|CSF3|CXCL10|CXCL8|IL10|IL10RB|IL1B|IL2|IL7|TNF	5
+cytosol	GO:0005829	COVID-19	MESH:D000086382		AGT|BCL11A|BTK|CCL3|CCR2|HCK|IL1B|LZTFL1|OAS1|PLSCR1|TYK2	10
+positive regulation of gene expression	GO:0010628	COVID-19	MESH:D000086382		AGT|BCL11A|CCL2|CCL3|CRP|CXCL8|IL1B|IL6|IL7|PLSCR1|TNF	7
+metal ion binding	GO:0046872	COVID-19	MESH:D000086382		ABO|ACE2|ATP11A|BCL11A|BTK|CD209|CRP|F8|OAS1|SELE	20
+cytokine activity	GO:0005125	COVID-19	MESH:D000086382		CCL2|CCL3|CSF3|CXCL10|IL10|IL1B|IL2|IL6|IL7|TNF	5
+nucleus	GO:0005634	COVID-19	MESH:D000086382		ABO|BCL11A|BTK|CRP|HCK|LZTFL1|MUC1|OAS1|PLSCR1|TYK2	8
+cytokine-mediated signaling pathway	GO:0019221	COVID-19	MESH:D000086382		CCL2|CCR2|CSF3|HCK|IL10RB|IL1B|IL6|IL7|TYK2	8
+positive regulation of transcription by RNA polymerase II	GO:0045944	COVID-19	MESH:D000086382		CCL3|CSF3|CXCL10|IL10|IL1B|IL2|IL6|PLSCR1|TNF	6
+cellular response to lipopolysaccharide	GO:0071222	COVID-19	MESH:D000086382		CCL2|CSF3|CXCL10|CXCL8|IL10|IL1B|IL6|PLSCR1|TNF	6
+response to lipopolysaccharide	GO:0032496	COVID-19	MESH:D000086382		BTK|CCL2|CXCL10|IL10|IL1B|IL6|SELE|TNF	7
+identical protein binding	GO:0042802	COVID-19	MESH:D000086382		ACE2|BTK|CCL3|CCR2|CRP|LZTFL1|TNF	21
+defense response to virus	GO:0051607	COVID-19	MESH:D000086382		CRP|CXCL10|IFNAR2|IL10RB|IL6|OAS1|PLSCR1	8
+cellular response to virus	GO:0098586	COVID-19	MESH:D000086382		CXCL10|IFNAR2|IL10|IL10RB|IL6|OAS1|TYK2	8
+response to ethanol	GO:0045471	COVID-19	MESH:D000086382		CCL2|CRP|CSF3|IL1B|IL2|TNF	3
+Golgi apparatus	GO:0005794	COVID-19	MESH:D000086382		ABO|ATP11A|FUT2|HCK|PLSCR1|UGCG	4
+cell surface receptor signaling pathway	GO:0007166	COVID-19	MESH:D000086382		AGT|BSG|CCL2|CXCL10|IFNAR2|IL2RA	6
+transferase activity	GO:0016740	COVID-19	MESH:D000086382		ABO|BTK|FUT2|HCK|TYK2|UGCG	6
+membrane raft	GO:0045121	COVID-19	MESH:D000086382		ACE2|BSG|BTK|PLSCR1|SELE|TNF	19
+growth factor activity	GO:0008083	COVID-19	MESH:D000086382		AGT|CSF3|IL10|IL2|IL6|IL7	6
+negative regulation of gene expression	GO:0010629	COVID-19	MESH:D000086382		AGT|BCL11A|CCL3|CXCL8|IL1B|TNF	5
+response to hypoxia	GO:0001666	COVID-19	MESH:D000086382		CCL2|CCR2|CRP|IL1B|MUC1|TNF	5
+positive regulation of T cell proliferation	GO:0042102	COVID-19	MESH:D000086382		CD209|IL1B|IL2|IL2RA|IL6|TYK2	7
+cell-cell signaling	GO:0007267	COVID-19	MESH:D000086382		AGT|CCL3|CXCL10|IL1B|IL2|IL7	3
+regulation of inflammatory response	GO:0050727	COVID-19	MESH:D000086382		ACE2|AGT|CCR2|HCK|SELE|TNF	20
+external side of plasma membrane	GO:0009897	COVID-19	MESH:D000086382		CCR2|CD209|CXCL10|IL2RA|IL6|TNF	7
+regulation of cell population proliferation	GO:0042127	COVID-19	MESH:D000086382		ACE2|AGT|CXCL10|IL6|TNF	21
+perinuclear region of cytoplasm	GO:0048471	COVID-19	MESH:D000086382		BTK|CCL2|CCR2|PLSCR1|SELE	4
+molecular_function	GO:0003674	COVID-19	MESH:D000086382		CRP|IL7|MUC1|SELE|TMEM106B	4
+protein phosphorylation	GO:0006468	COVID-19	MESH:D000086382		BTK|CCL2|CCL3|HCK|TYK2	4
+lipopolysaccharide-mediated signaling pathway	GO:0031663	COVID-19	MESH:D000086382		CCL2|CCL3|HCK|IL1B|TNF	3
+aging	GO:0007568	COVID-19	MESH:D000086382		AGT|CCL2|CRP|IL10|IL6	6
+response to bacterium	GO:0009617	COVID-19	MESH:D000086382		CCL2|CXCL10|IL1B|IL6|TNF	5
+nucleotide binding	GO:0000166	COVID-19	MESH:D000086382		ABO|ATP11A|BTK|HCK|TYK2	5
+G protein-coupled receptor signaling pathway	GO:0007186	COVID-19	MESH:D000086382		AGT|CCR2|CXCL10|CXCL8|IL2	4
+cell adhesion	GO:0007155	COVID-19	MESH:D000086382		BSG|CCL2|HCK|IL2|SELE	4
+humoral immune response	GO:0006959	COVID-19	MESH:D000086382		CCL2|CCR2|IL6|IL7|TNF	6
+ATP binding	GO:0005524	COVID-19	MESH:D000086382		ATP11A|BTK|HCK|OAS1|TYK2	5
+positive regulation of DNA-templated transcription	GO:0045893	COVID-19	MESH:D000086382		AGT|IL10|IL1B|IL6|TNF	6
+response to glucocorticoid	GO:0051384	COVID-19	MESH:D000086382		CCL2|IL10|IL1B|IL6|TNF	5
+protein kinase activity	GO:0004672	COVID-19	MESH:D000086382		BTK|CCL2|CCL3|HCK|TYK2	4
+defense response to Gram-positive bacterium	GO:0050830	COVID-19	MESH:D000086382		CRP|HCK|IL1B|IL6|TNF	6
+neutrophil chemotaxis	GO:0030593	COVID-19	MESH:D000086382		BSG|CCL2|CCL3|CXCL8|IL1B	4
+cell surface	GO:0009986	COVID-19	MESH:D000086382		ACE2|CD209|IL2RA|MUC1|TNF	19
+chemotaxis	GO:0006935	COVID-19	MESH:D000086382		CCL2|CCL3|CCR2|CXCL10|CXCL8	3
+Golgi membrane	GO:0000139	COVID-19	MESH:D000086382		ABO|BSG|FUT2|UGCG	4
+acute-phase response	GO:0006953	COVID-19	MESH:D000086382		CRP|F8|IL6|PLSCR1	5
+protein kinase B signaling	GO:0043491	COVID-19	MESH:D000086382		CCL2|CCL3|IL1B|TNF	2
+positive regulation of protein kinase B signaling	GO:0051897	COVID-19	MESH:D000086382		CCL3|CSF3|IL6|TNF	5
+phosphorylation	GO:0016310	COVID-19	MESH:D000086382		BTK|CCL3|HCK|TYK2	4
+negative regulation of transcription by RNA polymerase II	GO:0000122	COVID-19	MESH:D000086382		ABO|BCL11A|IL1B|TNF	4
+regulation of cell shape	GO:0008360	COVID-19	MESH:D000086382		CCL2|CCL3|HCK|IL6	6
+kinase activity	GO:0016301	COVID-19	MESH:D000086382		BTK|CCL3|HCK|TYK2	4
+response to wounding	GO:0009611	COVID-19	MESH:D000086382		CCL2|CCR2|IL6|TMPRSS4	7
+monocyte chemotaxis	GO:0002548	COVID-19	MESH:D000086382		CCL2|CCL3|CCR2|IL6	6
+chemokine activity	GO:0008009	COVID-19	MESH:D000086382		CCL2|CCL3|CXCL10|CXCL8	2
+nucleoplasm	GO:0005654	COVID-19	MESH:D000086382		BCL11A|OAS1|PLSCR1|TMPRSS2	5
+positive regulation of immunoglobulin production	GO:0002639	COVID-19	MESH:D000086382		BTK|IL10|IL2|IL6	6
+hydrolase activity	GO:0016787	COVID-19	MESH:D000086382		ACE2|PLSCR1|TMPRSS2|TMPRSS4	17
+heparin binding	GO:0008201	COVID-19	MESH:D000086382		CCL2|CCL3|CXCL10|CXCL8	2
+response to activity	GO:0014823	COVID-19	MESH:D000086382		CCL2|IL10|IL6|TNF	5
+positive regulation of chemokine production	GO:0032722	COVID-19	MESH:D000086382		IL1B|IL6|IL7|TNF	5
+positive regulation of cytokine production	GO:0001819	COVID-19	MESH:D000086382		AGT|IL10|IL1B|TNF	4
+positive regulation of peptidyl-serine phosphorylation	GO:0033138	COVID-19	MESH:D000086382		AGT|CSF3|IL6|TNF	6
+cellular response to tumor necrosis factor	GO:0071356	COVID-19	MESH:D000086382		CCL2|CCL3|CXCL8|IL6	5
+regulation of gene expression	GO:0010468	COVID-19	MESH:D000086382		AGT|IL10|IL7|TMPRSS4	4
+proteolysis	GO:0006508	COVID-19	MESH:D000086382		ACE2|F8|TMPRSS2|TMPRSS4	17
+immune system process	GO:0002376	COVID-19	MESH:D000086382		BTK|HCK|IL2|IL2RA	5
+carbohydrate binding	GO:0030246	COVID-19	MESH:D000086382		BSG|CD209|IL2|SELE	3
+cellular response to interleukin-1	GO:0071347	COVID-19	MESH:D000086382		CCL2|CCL3|CXCL8|IL6	5
+virus receptor activity	GO:0001618	COVID-19	MESH:D000086382		ACE2|BSG|CD209|PLSCR1	17
+negative regulation of angiogenesis	GO:0016525	COVID-19	MESH:D000086382		AGT|CCL2|CCR2|CXCL10	3
+cellular response to organic cyclic compound	GO:0071407	COVID-19	MESH:D000086382		CCL2|CCL3|IL1B|TNF	2
+defense response to bacterium	GO:0042742	COVID-19	MESH:D000086382		IL10|IL1B|OAS1|TNF	4
+innate immune response	GO:0045087	COVID-19	MESH:D000086382		BTK|CD209|OAS1	3
+astrocyte activation	GO:0048143	COVID-19	MESH:D000086382		AGT|IL1B|TNF	3
+regulation of vascular endothelial growth factor production	GO:0010574	COVID-19	MESH:D000086382		CCL2|CCR2|IL6	6
+endocytosis	GO:0006897	COVID-19	MESH:D000086382		CD209|TMPRSS2|TMPRSS4	4
+response to mechanical stimulus	GO:0009612	COVID-19	MESH:D000086382		CCL2|IL6|TNF	5
+protein tyrosine kinase activity	GO:0004713	COVID-19	MESH:D000086382		BTK|HCK|TYK2	3
+positive regulation of estradiol secretion	GO:2000866	COVID-19	MESH:D000086382		IL1B|IL6|TNF	5
+negative regulation of neurogenesis	GO:0050768	COVID-19	MESH:D000086382		IL1B|IL6|TNF	5
+receptor signaling pathway via JAK-STAT	GO:0007259	COVID-19	MESH:D000086382		CCL2|CCR2|IFNAR2	2
+acute inflammatory response	GO:0002526	COVID-19	MESH:D000086382		IL1B|IL6|TNF	5
+positive regulation of vascular endothelial growth factor production	GO:0010575	COVID-19	MESH:D000086382		BSG|IL1B|IL6	5
+response to organic cyclic compound	GO:0014070	COVID-19	MESH:D000086382		IL1B|IL6|TNF	5
+positive regulation of glial cell proliferation	GO:0060252	COVID-19	MESH:D000086382		IL1B|IL6|TNF	5
+positive regulation of neuroinflammatory response	GO:0150078	COVID-19	MESH:D000086382		IL1B|IL6|TNF	5
+positive regulation of B cell proliferation	GO:0030890	COVID-19	MESH:D000086382		BTK|IL2|IL7	2
+liver regeneration	GO:0097421	COVID-19	MESH:D000086382		IL10|IL6|TNF	5
+secretory granule	GO:0030141	COVID-19	MESH:D000086382		IL1B|TMPRSS4|TNF	3
+intracellular membrane-bounded organelle	GO:0043231	COVID-19	MESH:D000086382		ATP11A|BSG|HCK	3
+animal organ morphogenesis	GO:0009887	COVID-19	MESH:D000086382		CCL2|IL7|TNF	1
+peptidase activity	GO:0008233	COVID-19	MESH:D000086382		ACE2|TMPRSS2|TMPRSS4	16
+wound healing	GO:0042060	COVID-19	MESH:D000086382		CRP|IL1B|IL6	4
+positive regulation of T cell differentiation	GO:0045582	COVID-19	MESH:D000086382		IL2|IL2RA|IL7	3
+cellular response to estradiol stimulus	GO:0071392	COVID-19	MESH:D000086382		CCL2|IL10|IL6	5
+negative regulation of extrinsic apoptotic signaling pathway in absence of ligand	GO:2001240	COVID-19	MESH:D000086382		IL1B|IL7|TNF	2
+signaling receptor binding	GO:0005102	COVID-19	MESH:D000086382		CCL2|CXCL10|IL6	5
+cellular response to retinoic acid	GO:0071300	COVID-19	MESH:D000086382		CCL2|MUC1|TNF	2
+macrophage chemotaxis	GO:0048246	COVID-19	MESH:D000086382		CCL2|CCL3|IL1B	2
+peptidyl-tyrosine phosphorylation	GO:0018108	COVID-19	MESH:D000086382		BTK|HCK|TYK2	3
+response to gamma radiation	GO:0010332	COVID-19	MESH:D000086382		CCL2|CXCL10|IL1B	2
+response to cold	GO:0009409	COVID-19	MESH:D000086382		AGT|CXCL10|IL6	6
+regulation of insulin secretion	GO:0050796	COVID-19	MESH:D000086382		IL1B|IL6|TNF	5
+positive regulation of tyrosine phosphorylation of STAT protein	GO:0042531	COVID-19	MESH:D000086382		IL2|IL6|TNF	5
+endosome	GO:0005768	COVID-19	MESH:D000086382		ATP11A|BSG|TMEM106B	3
+positive regulation of MAPK cascade	GO:0043410	COVID-19	MESH:D000086382		AGT|IL6|TNF	6
+positive regulation of phosphatidylinositol 3-kinase signaling	GO:0014068	COVID-19	MESH:D000086382		AGT|CSF3|TNF	2
+response to estradiol	GO:0032355	COVID-19	MESH:D000086382		AGT|CRP|IL1B	3
+endoplasmic reticulum	GO:0005783	COVID-19	MESH:D000086382		ATP11A|BSG|OAS1	3
+endoplasmic reticulum lumen	GO:0005788	COVID-19	MESH:D000086382		ACE2|F8|IL6	20
+chemokine-mediated signaling pathway	GO:0070098	COVID-19	MESH:D000086382		CCL2|CCR2|CXCL10	2
+negative regulation of neuron apoptotic process	GO:0043524	COVID-19	MESH:D000086382		AGT|CCL2|IL10	3
+positive regulation of neuron projection development	GO:0010976	COVID-19	MESH:D000086382		AGT|BCL11A|IL6	6
+positive regulation of peptidyl-tyrosine phosphorylation	GO:0050731	COVID-19	MESH:D000086382		AGT|CSF3|IL6	6
+response to nutrient levels	GO:0031667	COVID-19	MESH:D000086382		CRP|IL6|TNF	5
+cell projection	GO:0042995	COVID-19	MESH:D000086382		ACE2|BSG|HCK	17
+positive regulation of interleukin-8 production	GO:0032757	COVID-19	MESH:D000086382		IL1B|IL6|TNF	5
+positive regulation of monocyte chemotaxis	GO:0090026	COVID-19	MESH:D000086382		CCL2|CCR2|CXCL10	2
+positive regulation of protein phosphorylation	GO:0001934	COVID-19	MESH:D000086382		IL1B|IL2|TNF	2
+regulation of apoptotic process	GO:0042981	COVID-19	MESH:D000086382		AGT|CXCL10|IL6	6
+negative regulation of lipid storage	GO:0010888	COVID-19	MESH:D000086382		CRP|IL6|TNF	5
+gene expression	GO:0010467	COVID-19	MESH:D000086382		BCL11A|IL2|IL6	6
+cellular response to cytokine stimulus	GO:0071345	COVID-19	MESH:D000086382		CSF3|IL6|PLSCR1	6
+chronic inflammatory response to antigenic stimulus	GO:0002439	COVID-19	MESH:D000086382		IL10|IL1B|TNF	3
+response to organic substance	GO:0010033	COVID-19	MESH:D000086382		BTK|IL10|TNF	3
+calcium ion binding	GO:0005509	COVID-19	MESH:D000086382		CRP|PLSCR1|SELE	2
+response to molecule of bacterial origin	GO:0002237	COVID-19	MESH:D000086382		CXCL8|IL10|IL1B	3
+cellular response to interleukin-17	GO:0097398	COVID-19	MESH:D000086382		CXCL10|IL1B|IL6	5
+cellular response to type II interferon	GO:0071346	COVID-19	MESH:D000086382		CCL2|CCL3|TNF	1
+non-membrane spanning protein tyrosine kinase activity	GO:0004715	COVID-19	MESH:D000086382		BTK|HCK|TYK2	3
+positive regulation of vascular associated smooth muscle cell proliferation	GO:1904707	COVID-19	MESH:D000086382		AGT|IL10|TNF	3
+positive regulation of interleukin-17 production	GO:0032740	COVID-19	MESH:D000086382		IL2|IL6|TYK2	6
+cellular_component	GO:0005575	COVID-19	MESH:D000086382		IL7|SELE|TMEM106B	3
+leukocyte migration	GO:0050900	COVID-19	MESH:D000086382		IL1B|SELE|TNF	3
+vascular endothelial growth factor production	GO:0010573	COVID-19	MESH:D000086382		IL1B|IL6|TNF	5
+positive regulation of viral entry into host cell	GO:0046598	COVID-19	MESH:D000086382		BSG|TMPRSS2|TMPRSS4	4
+neuronal cell body	GO:0043025	COVID-19	MESH:D000086382		CCL2|CCR2|TNF	2
+caveola	GO:0005901	COVID-19	MESH:D000086382		HCK|SELE	2
+cell-cell adhesion	GO:0098609	COVID-19	MESH:D000086382		BSG|ICAM5	2
+regulation of establishment of endothelial barrier	GO:1903140	COVID-19	MESH:D000086382		IL1B|TNF	2
+positive regulation of mitotic nuclear division	GO:0045840	COVID-19	MESH:D000086382		IL1B|TNF	2
+regulation of T cell homeostatic proliferation	GO:0046013	COVID-19	MESH:D000086382		IL2|IL2RA	3
+positive regulation of actin cytoskeleton reorganization	GO:2000251	COVID-19	MESH:D000086382		CSF3|HCK	2
+protein glycosylation	GO:0006486	COVID-19	MESH:D000086382		ABO|FUT2	2
+negative regulation of vascular associated smooth muscle cell proliferation	GO:1904706	COVID-19	MESH:D000086382		AGT|IL10	3
+type III interferon-mediated signaling pathway	GO:0038196	COVID-19	MESH:D000086382		IL10RB|TYK2	2
+type I interferon-mediated signaling pathway	GO:0060337	COVID-19	MESH:D000086382		IFNAR2|TYK2	1
+cell activation	GO:0001775	COVID-19	MESH:D000086382		CCL3|TNF	1
+negative regulation of signaling receptor activity	GO:2000272	COVID-19	MESH:D000086382		ACE2|TNF	16
+negative regulation of DNA-templated transcription	GO:0045892	COVID-19	MESH:D000086382		BCL11A|TNF	2
+response to cytokine	GO:0034097	COVID-19	MESH:D000086382		IL6|SELE	5
+positive regulation of calcidiol 1-monooxygenase activity	GO:0060559	COVID-19	MESH:D000086382		IL1B|TNF	2
+in utero embryonic development	GO:0001701	COVID-19	MESH:D000086382		ATP11A|MUC1	1
+positive regulation of superoxide anion generation	GO:0032930	COVID-19	MESH:D000086382		AGT|CRP	2
+localization	GO:0051179	COVID-19	MESH:D000086382		HCK|MUC1	2
+response to lead ion	GO:0010288	COVID-19	MESH:D000086382		CRP|PLSCR1	2
+positive chemotaxis	GO:0050918	COVID-19	MESH:D000086382		CCL3|CXCL10	1
+protein dimerization activity	GO:0046983	COVID-19	MESH:D000086382		CRP|IL10	3
+defense response to protozoan	GO:0042832	COVID-19	MESH:D000086382		IL10|IL6	5
+regulation of cardiac conduction	GO:1903779	COVID-19	MESH:D000086382		ACE2|AGT	16
+regulation of CD4-positive, alpha-beta T cell proliferation	GO:2000561	COVID-19	MESH:D000086382		IL2|IL2RA	3
+inflammatory response to antigenic stimulus	GO:0002437	COVID-19	MESH:D000086382		CCR2|IL2RA	3
+recycling endosome	GO:0055037	COVID-19	MESH:D000086382		ATP11A|TNF	2
+serine-type peptidase activity	GO:0008236	COVID-19	MESH:D000086382		TMPRSS2|TMPRSS4	3
+cellular response to antibiotic	GO:0071236	COVID-19	MESH:D000086382		IL10|IL1B	3
+zinc ion binding	GO:0008270	COVID-19	MESH:D000086382		ACE2|PLSCR1	16
+positive regulation of endothelial cell migration	GO:0010595	COVID-19	MESH:D000086382		AGT|BSG	2
+antiviral innate immune response	GO:0140374	COVID-19	MESH:D000086382		CXCL10|OAS1	2
+regulation of transcription by RNA polymerase II	GO:0006357	COVID-19	MESH:D000086382		IFNAR2|TNF	2
+lipid binding	GO:0008289	COVID-19	MESH:D000086382		BTK|HCK	2
+positive regulation of gap junction assembly	GO:1903598	COVID-19	MESH:D000086382		ACE2|AGT	16
+response to insulin	GO:0032868	COVID-19	MESH:D000086382		IL10|IL6	5
+cilium	GO:0005929	COVID-19	MESH:D000086382		ACE2|LZTFL1	17
+carbohydrate metabolic process	GO:0005975	COVID-19	MESH:D000086382		ABO|FUT2	2
+cellular response to mechanical stimulus	GO:0071260	COVID-19	MESH:D000086382		AGT|IL1B	2
+glycosyltransferase activity	GO:0016757	COVID-19	MESH:D000086382		FUT2|UGCG	2
+positive regulation of leukocyte chemotaxis	GO:0002690	COVID-19	MESH:D000086382		CXCL10|IL6	5
+protein kinase binding	GO:0019901	COVID-19	MESH:D000086382		BCL11A|IFNAR2	2
+positive regulation of leukocyte migration	GO:0002687	COVID-19	MESH:D000086382		CCL2|SELE	2
+signaling receptor activity	GO:0038023	COVID-19	MESH:D000086382		BSG|IL10RB	2
+positive regulation of endothelial cell apoptotic process	GO:2000353	COVID-19	MESH:D000086382		CCL2|TNF	1
+response to tumor necrosis factor	GO:0034612	COVID-19	MESH:D000086382		CCL2|SELE	2
+phospholipid transport	GO:0015914	COVID-19	MESH:D000086382		ATP11A|PLSCR1	1
+type 1 angiotensin receptor binding	GO:0031702	COVID-19	MESH:D000086382		AGT|TYK2	2
+lipid transport	GO:0006869	COVID-19	MESH:D000086382		ATP11A|PLSCR1	1
+cellular response to fatty acid	GO:0071398	COVID-19	MESH:D000086382		CCL2|IL1B	2
+cellular response to molecule of bacterial origin	GO:0071219	COVID-19	MESH:D000086382		IL1B|TNF	2
+toll-like receptor 3 signaling pathway	GO:0034138	COVID-19	MESH:D000086382		OAS1|TNF	2
+RNA polymerase II cis-regulatory region sequence-specific DNA binding	GO:0000978	COVID-19	MESH:D000086382		BCL11A|MUC1	1
+chemoattractant activity	GO:0042056	COVID-19	MESH:D000086382		CCL3|CXCL10	1
+lymphocyte proliferation	GO:0046651	COVID-19	MESH:D000086382		IL2|IL2RA	3
+response to vitamin D	GO:0033280	COVID-19	MESH:D000086382		CXCL10|IL1B	2
+hemopoiesis	GO:0030097	COVID-19	MESH:D000086382		CCR2|IL10	3
+positive regulation of leukocyte adhesion to vascular endothelial cell	GO:1904996	COVID-19	MESH:D000086382		IL6|TNF	5
+positive regulation of dendrite development	GO:1900006	COVID-19	MESH:D000086382		CRP|TMEM106B	2
+cellular response to hepatocyte growth factor stimulus	GO:0035729	COVID-19	MESH:D000086382		IL10|IL6	5
+cellular response to interleukin-6	GO:0071354	COVID-19	MESH:D000086382		CCL2|CRP	2
+biological_process	GO:0008150	COVID-19	MESH:D000086382		CRP|TMEM106B	2
+cellular response to glucose stimulus	GO:0071333	COVID-19	MESH:D000086382		CCL2|IL1B	2
+positive regulation of smooth muscle cell proliferation	GO:0048661	COVID-19	MESH:D000086382		IL6|TNF	5
+cellular homeostasis	GO:0019725	COVID-19	MESH:D000086382		CCL2|CCR2	2
+protein autophosphorylation	GO:0046777	COVID-19	MESH:D000086382		BTK|HCK	2
+exocytosis	GO:0006887	COVID-19	MESH:D000086382		CCL3|HCK	2
+B cell proliferation	GO:0042100	COVID-19	MESH:D000086382		IL10|IL7	2
+T cell chemotaxis	GO:0010818	COVID-19	MESH:D000086382		CCL3|CXCL10	1
+positive regulation of activated T cell proliferation	GO:0042104	COVID-19	MESH:D000086382		IL2|IL2RA	3
+extrinsic apoptotic signaling pathway in absence of ligand	GO:0097192	COVID-19	MESH:D000086382		IL1B|IL2	2
+positive regulation of reactive oxygen species metabolic process	GO:2000379	COVID-19	MESH:D000086382		ACE2|AGT	16
+cellular response to fibroblast growth factor stimulus	GO:0044344	COVID-19	MESH:D000086382		CCL2|CXCL8	2
+extrinsic apoptotic signaling pathway	GO:0097191	COVID-19	MESH:D000086382		IL7|TNF	1
+response to salt stress	GO:0009651	COVID-19	MESH:D000086382		AGT|TNF	2
+dendrite	GO:0030425	COVID-19	MESH:D000086382		CCL2|CCR2	2
+positive regulation of synaptic transmission, glutamatergic	GO:0051968	COVID-19	MESH:D000086382		CCL2|CCR2	2
+positive regulation of B cell differentiation	GO:0045579	COVID-19	MESH:D000086382		BTK|IL7	2
+apoptotic signaling pathway	GO:0097190	COVID-19	MESH:D000086382		BTK|TNF	2
+regulation of cell adhesion	GO:0030155	COVID-19	MESH:D000086382		CXCL8|FUT2	2
+negative regulation of T cell proliferation	GO:0042130	COVID-19	MESH:D000086382		IL10|IL2RA	3
+positive regulation of membrane protein ectodomain proteolysis	GO:0051044	COVID-19	MESH:D000086382		IL1B|TNF	2
+platelet activation	GO:0030168	COVID-19	MESH:D000086382		IL6|PLSCR1	5
+negative regulation of fat cell differentiation	GO:0045599	COVID-19	MESH:D000086382		IL6|TNF	5
+regulation of catalytic activity	GO:0050790	COVID-19	MESH:D000086382		BTK|CXCL10	2
+JNK cascade	GO:0007254	COVID-19	MESH:D000086382		IL1B|TNF	2
+serine-type endopeptidase activity	GO:0004252	COVID-19	MESH:D000086382		TMPRSS2|TMPRSS4	3
+negative regulation of smooth muscle cell proliferation	GO:0048662	COVID-19	MESH:D000086382		ACE2|AGT	16
+regulation of sensory perception of pain	GO:0051930	COVID-19	MESH:D000086382		CCL3|IL10	2
+B cell differentiation	GO:0030183	COVID-19	MESH:D000086382		BCL11A|IL10	3
+phospholipase activator activity	GO:0016004	COVID-19	MESH:D000086382		BTK|CCL3	2
+extracellular matrix organization	GO:0030198	COVID-19	MESH:D000086382		AGT|TNF	2
+defense response	GO:0006952	COVID-19	MESH:D000086382		CXCL10|TNF	1
+apical plasma membrane	GO:0016324	COVID-19	MESH:D000086382		ACE2|MUC1	16
+activated T cell proliferation	GO:0050798	COVID-19	MESH:D000086382		IL2|IL2RA	3
+enzyme binding	GO:0019899	COVID-19	MESH:D000086382		CSF3|PLSCR1	2
+leukocyte cell-cell adhesion	GO:0007159	COVID-19	MESH:D000086382		CD209|SELE	1
+CCR2 chemokine receptor binding	GO:0031727	COVID-19	MESH:D000086382		CCL2|CCR2	2
+positive regulation of miRNA transcription	GO:1902895	COVID-19	MESH:D000086382		IL10|TNF	2
+positive regulation of p38MAPK cascade	GO:1900745	COVID-19	MESH:D000086382		CCR2|IL1B	2
+mannose binding	GO:0005537	COVID-19	MESH:D000086382		BSG|CD209	2
+cellular response to dexamethasone stimulus	GO:0071549	COVID-19	MESH:D000086382		CCL2|IL6	5
+negative regulation of myoblast differentiation	GO:0045662	COVID-19	MESH:D000086382		CXCL10|TNF	1
+positive regulation of leukocyte tethering or rolling	GO:1903238	COVID-19	MESH:D000086382		CCR2|SELE	2
+positive regulation of plasma cell differentiation	GO:1900100	COVID-19	MESH:D000086382		IL10|IL2	2
+Golgi cisterna membrane	GO:0032580	COVID-19	MESH:D000086382		ABO|FUT2	2
+response to auditory stimulus	GO:0010996	COVID-19	MESH:D000086382		CXCL10|IL6	5
+negative regulation of lipid catabolic process	GO:0050995	COVID-19	MESH:D000086382		IL1B|TNF	2
+negative regulation of neuron death	GO:1901215	COVID-19	MESH:D000086382		CSF3|IL6	5
+positive regulation of immune complex clearance by monocytes and macrophages	GO:0090265	COVID-19	MESH:D000086382		CCL2|CCR2	2
+positive regulation of calcium ion import	GO:0090280	COVID-19	MESH:D000086382		CCL2|CCL3	1
+positive regulation of synaptic transmission	GO:0050806	COVID-19	MESH:D000086382		CCL2|TNF	1
+regulation of synapse organization	GO:0050807	COVID-19	MESH:D000086382		IL10|TNF	2
+positive regulation of osteoclast differentiation	GO:0045672	COVID-19	MESH:D000086382		CCL3|TNF	1
+positive regulation of synoviocyte proliferation	GO:1901647	COVID-19	MESH:D000086382		BTK|TNF	2
+regulation of I-kappaB kinase/NF-kappaB signaling	GO:0043122	COVID-19	MESH:D000086382		IL1B|TNF	2
+homeostasis of number of cells within a tissue	GO:0048873	COVID-19	MESH:D000086382		CCR2|IL7	2
+regulation of vasoconstriction	GO:0019229	COVID-19	MESH:D000086382		ACE2|AGT	16
+positive regulation of actin filament polymerization	GO:0030838	COVID-19	MESH:D000086382		CSF3|HCK	2
+protein localization to plasma membrane	GO:0072659	COVID-19	MESH:D000086382		BSG|TNF	2
+negative regulation of cysteine-type endopeptidase activity involved in apoptotic process	GO:0043154	COVID-19	MESH:D000086382		IL6|TNF	5
+response to amino acid	GO:0043200	COVID-19	MESH:D000086382		CCL2|IL6	5
+perikaryon	GO:0043204	COVID-19	MESH:D000086382		CCL2|CCR2	2
+response to interleukin-1	GO:0070555	COVID-19	MESH:D000086382		IL1B|SELE	2
+negative regulation of cytokine production involved in immune response	GO:0002719	COVID-19	MESH:D000086382		IL10|TNF	2
+epithelial cell proliferation involved in salivary gland morphogenesis	GO:0060664	COVID-19	MESH:D000086382		IL6|TNF	5
+angiotensin-mediated drinking behavior	GO:0003051	COVID-19	MESH:D000086382		ACE2|AGT	16
+phospholipase binding	GO:0043274	COVID-19	MESH:D000086382		BTK|SELE	2
+negative regulation of cytokine production	GO:0001818	COVID-19	MESH:D000086382		BTK|IL10	3
+positive regulation of NMDA glutamate receptor activity	GO:1904783	COVID-19	MESH:D000086382		CCL2|CCR2	2
+scavenger receptor activity	GO:0005044	COVID-19	MESH:D000086382		TMPRSS2|TMPRSS4	3
+regulation of systemic arterial blood pressure by renin-angiotensin	GO:0003081	COVID-19	MESH:D000086382		ACE2|AGT	16
+negative regulation of B cell proliferation	GO:0030889	COVID-19	MESH:D000086382		BTK|IL10	3
+heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules	GO:0007157	COVID-19	MESH:D000086382		CD209|SELE	1
+transcription coregulator activity	GO:0003712	COVID-19	MESH:D000086382		BCL11A|MUC1	1
+magnesium ion binding	GO:0000287	COVID-19	MESH:D000086382		ATP11A|PLSCR1	1
+mesoderm development	GO:0007498	COVID-19	MESH:D000086382		BTK|HCK	2
+maternal process involved in female pregnancy	GO:0060135	COVID-19	MESH:D000086382		ACE2|CCL2	16
+mitochondrion	GO:0005739	COVID-19	MESH:D000086382		BSG|OAS1	2
+lymphocyte chemotaxis	GO:0048247	COVID-19	MESH:D000086382		CCL2|CCL3	1
+positive regulation of angiogenesis	GO:0045766	COVID-19	MESH:D000086382		CXCL8|IL1B	2
+cytoskeleton organization	GO:0007010	COVID-19	MESH:D000086382		CCL2|CCL3	1
+positive regulation of cell adhesion	GO:0045785	COVID-19	MESH:D000086382		CCL2|TNF	1
+activation of phospholipase C activity	GO:0007202	COVID-19	MESH:D000086382		AGT|SELE	2
+response to interferon-beta	GO:0035456	COVID-19	MESH:D000086382		IFNAR2|PLSCR1	2
+positive regulation of MAP kinase activity	GO:0043406	COVID-19	MESH:D000086382		IL1B|TNF	2
+negative regulation of MAP kinase activity	GO:0043407	COVID-19	MESH:D000086382		AGT|IL1B	2
+neuron cellular homeostasis	GO:0070050	COVID-19	MESH:D000086382		IL6|TMEM106B	5
+T cell differentiation	GO:0030217	COVID-19	MESH:D000086382		BCL11A|IL2	2
+response to peptide hormone	GO:0043434	COVID-19	MESH:D000086382		BSG|IL1B	2
+endoplasmic reticulum membrane	GO:0005789	COVID-19	MESH:D000086382		ATP11A|BSG	2
+positive regulation of JUN kinase activity	GO:0043507	COVID-19	MESH:D000086382		IL1B|TNF	2
+Golgi lumen	GO:0005796	COVID-19	MESH:D000086382		F8|MUC1	1
+positive regulation of fever generation	GO:0031622	COVID-19	MESH:D000086382		IL1B|TNF	2
+negative regulation of branching morphogenesis of a nerve	GO:2000173	COVID-19	MESH:D000086382		BCL11A|IL1B	2
+astrocyte cell migration	GO:0043615	COVID-19	MESH:D000086382		CCL2|CCL3	1
+female pregnancy	GO:0007565	COVID-19	MESH:D000086382		AGT|MUC1	2
+embryo implantation	GO:0007566	COVID-19	MESH:D000086382		BSG|IL1B	2
+cytoskeleton	GO:0005856	COVID-19	MESH:D000086382		HCK|TYK2	2
+positive regulation of T cell activation	GO:0050870	COVID-19	MESH:D000086382		CCL2|CCR2	2
+response to interferon-alpha	GO:0035455	COVID-19	MESH:D000086382		IFNAR2|PLSCR1	2
+negative regulation of lymphocyte proliferation	GO:0050672	COVID-19	MESH:D000086382		IL2|IL2RA	3
+embryonic digestive tract development	GO:0048566	COVID-19	MESH:D000086382		CXCL8|TNF	2
+positive regulation of endothelial cell proliferation	GO:0001938	COVID-19	MESH:D000086382		CCL2|IL10	2
+positive regulation of monocyte chemotactic protein-1 production	GO:0071639	COVID-19	MESH:D000086382		IL1B|OAS1	2
+blood coagulation	GO:0007596	COVID-19	MESH:D000086382		F8|IL10RB	1
+endothelial cell apoptotic process	GO:0072577	COVID-19	MESH:D000086382		IL10|TNF	2
+growth cone	GO:0030426	COVID-19	MESH:D000086382		CRP	1
+type 2 angiotensin receptor binding	GO:0031703	COVID-19	MESH:D000086382		AGT	1
+CCR1 chemokine receptor binding	GO:0031726	COVID-19	MESH:D000086382		CCL3	1
+CCR5 chemokine receptor binding	GO:0031730	COVID-19	MESH:D000086382		CCL3	1
+positive regulation of sprouting angiogenesis	GO:1903672	COVID-19	MESH:D000086382		IL10	2
+extracellular exosome	GO:0070062	COVID-19	MESH:D000086382		MUC1	1
+glucagon secretion	GO:0070091	COVID-19	MESH:D000086382		IL6	4
+regulation of glucagon secretion	GO:0070092	COVID-19	MESH:D000086382		IL6	4
+T-helper 17 cell chemotaxis	GO:0035705	COVID-19	MESH:D000086382		CCR2	1
+chemokine (C-C motif) ligand 2 binding	GO:0035715	COVID-19	MESH:D000086382		CCR2	1
+chemokine (C-C motif) ligand 12 binding	GO:0035716	COVID-19	MESH:D000086382		CCR2	1
+chemokine (C-C motif) ligand 7 binding	GO:0035717	COVID-19	MESH:D000086382		CCR2	1
+interleukin-6-mediated signaling pathway	GO:0070102	COVID-19	MESH:D000086382		IL6	4
+interleukin-27-mediated signaling pathway	GO:0070106	COVID-19	MESH:D000086382		OAS1	1
+positive regulation of I-kappaB phosphorylation	GO:1903721	COVID-19	MESH:D000086382		TNF	1
+negative regulation of adiponectin secretion	GO:0070164	COVID-19	MESH:D000086382		IL1B	1
+negative regulation of miRNA maturation	GO:1903799	COVID-19	MESH:D000086382		TNF	1
+regulation of renal sodium excretion	GO:0035813	COVID-19	MESH:D000086382		AGT	1
+positive regulation of renal sodium excretion	GO:0035815	COVID-19	MESH:D000086382		AGT	1
+positive regulation of miRNA maturation	GO:1903800	COVID-19	MESH:D000086382		IL6	4
+negative regulation of dendrite extension	GO:1903860	COVID-19	MESH:D000086382		BCL11A	1
+response to nematode	GO:0009624	COVID-19	MESH:D000086382		ABO	1
+response to immobilization stress	GO:0035902	COVID-19	MESH:D000086382		IL1B	1
+aldosterone secretion	GO:0035932	COVID-19	MESH:D000086382		AGT	1
+interleukin-28 receptor complex	GO:0032002	COVID-19	MESH:D000086382		IL10RB	1
+positive regulation of viral life cycle	GO:1903902	COVID-19	MESH:D000086382		CD209	1
+negative regulation of protein binding	GO:0032091	COVID-19	MESH:D000086382		PLSCR1	1
+positive regulation of protein binding	GO:0032092	COVID-19	MESH:D000086382		CSF3	1
+regulation of microglial cell activation	GO:1903978	COVID-19	MESH:D000086382		IL6	4
+positive regulation of microglial cell activation	GO:1903980	COVID-19	MESH:D000086382		CCL3	1
+ERK1 and ERK2 cascade	GO:0070371	COVID-19	MESH:D000086382		AGT	1
+regulation of ERK1 and ERK2 cascade	GO:0070372	COVID-19	MESH:D000086382		IL1B	1
+negative regulation of ERK1 and ERK2 cascade	GO:0070373	COVID-19	MESH:D000086382		ACE2	15
+positive regulation of protein kinase C activity	GO:1900020	COVID-19	MESH:D000086382		AGT	1
+response to carbohydrate	GO:0009743	COVID-19	MESH:D000086382		IL1B	1
+response to fructose	GO:0009750	COVID-19	MESH:D000086382		TNF	1
+cellular response to cold	GO:0070417	COVID-19	MESH:D000086382		IL6	4
+uterine smooth muscle contraction	GO:0070471	COVID-19	MESH:D000086382		AGT	1
+monocyte aggregation	GO:0070487	COVID-19	MESH:D000086382		IL1B	1
+oligosaccharide binding	GO:0070492	COVID-19	MESH:D000086382		SELE	1
+interleukin-1-mediated signaling pathway	GO:0070498	COVID-19	MESH:D000086382		IL1B	1
+C-fiber	GO:0044299	COVID-19	MESH:D000086382		CCL2	1
+negative regulation of amyloid-beta clearance	GO:1900222	COVID-19	MESH:D000086382		TNF	1
+anterior/posterior pattern specification	GO:0009952	COVID-19	MESH:D000086382		BTK	1
+regulation of signal transduction	GO:0009966	COVID-19	MESH:D000086382		UGCG	1
+cell-cell recognition	GO:0009988	COVID-19	MESH:D000086382		CD209	1
+positive regulation of prostaglandin secretion	GO:0032308	COVID-19	MESH:D000086382		IL1B	1
+negative regulation of leukocyte proliferation	GO:0070664	COVID-19	MESH:D000086382		BTK	1
+lysosome localization	GO:0032418	COVID-19	MESH:D000086382		TMEM106B	1
+response to cholesterol	GO:0070723	COVID-19	MESH:D000086382		CCL3	1
+response to peptidoglycan	GO:0032494	COVID-19	MESH:D000086382		IL6	4
+DNA-binding transcription factor binding	GO:0140297	COVID-19	MESH:D000086382		BCL11A	1
+response to retinoic acid	GO:0032526	COVID-19	MESH:D000086382		ABO	1
+response to progesterone	GO:0032570	COVID-19	MESH:D000086382		CCL2	1
+tertiary granule membrane	GO:0070821	COVID-19	MESH:D000086382		ATP11A	1
+ATPase-coupled intramembrane lipid transporter activity	GO:0140326	COVID-19	MESH:D000086382		ATP11A	1
+aminophospholipid translocation	GO:0140331	COVID-19	MESH:D000086382		ATP11A	1
+phosphatidylserine flippase activity	GO:0140346	COVID-19	MESH:D000086382		ATP11A	1
+positive regulation of calcineurin-NFAT signaling cascade	GO:0070886	COVID-19	MESH:D000086382		TNF	1
+DNA dealkylation involved in DNA repair	GO:0006307	COVID-19	MESH:D000086382		AGT	1
+type II interferon production	GO:0032609	COVID-19	MESH:D000086382		TNF	1
+interleukin-1 beta production	GO:0032611	COVID-19	MESH:D000086382		IL1B	1
+DNA-templated transcription elongation	GO:0006354	COVID-19	MESH:D000086382		MUC1	1
+transcription by RNA polymerase II	GO:0006366	COVID-19	MESH:D000086382		IL2	1
+regulation of interleukin-8 production	GO:0032677	COVID-19	MESH:D000086382		CRP	1
+negative regulation of chemokine production	GO:0032682	COVID-19	MESH:D000086382		IL6	4
+negative regulation of type II interferon production	GO:0032689	COVID-19	MESH:D000086382		IL10	2
+negative regulation of interleukin-1 production	GO:0032692	COVID-19	MESH:D000086382		IL10	2
+negative regulation of interleukin-12 production	GO:0032695	COVID-19	MESH:D000086382		IL10	2
+response to Gram-positive bacterium	GO:0140459	COVID-19	MESH:D000086382		IL6	4
+response to Gram-negative bacterium	GO:0140460	COVID-19	MESH:D000086382		TNF	1
+negative regulation of interleukin-18 production	GO:0032701	COVID-19	MESH:D000086382		IL10	2
+negative regulation of interleukin-8 production	GO:0032717	COVID-19	MESH:D000086382		IL10	2
+positive regulation of fractalkine production	GO:0032724	COVID-19	MESH:D000086382		TNF	1
+positive regulation of granulocyte macrophage colony-stimulating factor production	GO:0032725	COVID-19	MESH:D000086382		IL1B	1
+positive regulation of interferon-beta production	GO:0032728	COVID-19	MESH:D000086382		OAS1	1
+negative regulation of protein kinase activity	GO:0006469	COVID-19	MESH:D000086382		IL6	4
+positive regulation of interleukin-10 production	GO:0032733	COVID-19	MESH:D000086382		IL6	4
+positive regulation of interleukin-18 production	GO:0032741	COVID-19	MESH:D000086382		TNF	1
+positive regulation of interleukin-21 production	GO:0032745	COVID-19	MESH:D000086382		IL6	4
+lead ion binding	GO:0032791	COVID-19	MESH:D000086382		PLSCR1	1
+positive regulation of natural killer cell proliferation	GO:0032819	COVID-19	MESH:D000086382		TYK2	1
+cellular response to insulin stimulus	GO:0032869	COVID-19	MESH:D000086382		CCL2	1
+positive regulation of stress-activated MAPK cascade	GO:0032874	COVID-19	MESH:D000086382		IL1B	1
+protein-containing complex binding	GO:0044877	COVID-19	MESH:D000086382		LZTFL1	2
+BBSome binding	GO:0062063	COVID-19	MESH:D000086382		LZTFL1	2
+regulation of T cell migration	GO:2000404	COVID-19	MESH:D000086382		CCR2	1
+positive regulation of T cell migration	GO:2000406	COVID-19	MESH:D000086382		CXCL10	1
+positive regulation of thymocyte migration	GO:2000412	COVID-19	MESH:D000086382		CCR2	1
+positive regulation of apoptotic cell clearance	GO:2000427	COVID-19	MESH:D000086382		CCL2	1
+positive regulation of monocyte extravasation	GO:2000439	COVID-19	MESH:D000086382		CCR2	1
+positive regulation of CD8-positive, alpha-beta T cell extravasation	GO:2000451	COVID-19	MESH:D000086382		CCR2	1
+positive regulation of astrocyte chemotaxis	GO:2000464	COVID-19	MESH:D000086382		CCR2	1
+transcription corepressor activity	GO:0003714	COVID-19	MESH:D000086382		BCL11A	1
+positive regulation of hematopoietic stem cell migration	GO:2000473	COVID-19	MESH:D000086382		CCR2	1
+double-stranded RNA binding	GO:0003725	COVID-19	MESH:D000086382		OAS1	1
+negative regulation of natural killer cell chemotaxis	GO:2000502	COVID-19	MESH:D000086382		CCL2	1
+positive regulation of natural killer cell chemotaxis	GO:2000503	COVID-19	MESH:D000086382		CCL3	1
+regulation of entry of bacterium into host cell	GO:2000535	COVID-19	MESH:D000086382		CXCL8	1
+positive regulation of T-helper 2 cell cytokine production	GO:2000553	COVID-19	MESH:D000086382		IL6	4
+positive regulation of DNA biosynthetic process	GO:2000573	COVID-19	MESH:D000086382		TNF	1
+antigen binding	GO:0003823	COVID-19	MESH:D000086382		ABO	1
+tryptophan transport	GO:0015827	COVID-19	MESH:D000086382		ACE2	15
+negative regulation of primary miRNA processing	GO:2000635	COVID-19	MESH:D000086382		IL6	4
+methylated-DNA-[protein]-cysteine S-methyltransferase activity	GO:0003908	COVID-19	MESH:D000086382		AGT	1
+negative regulation of interleukin-1-mediated signaling pathway	GO:2000660	COVID-19	MESH:D000086382		IL6	4
+positive regulation of type B pancreatic cell apoptotic process	GO:2000676	COVID-19	MESH:D000086382		IL6	4
+positive regulation of transcription from RNA polymerase II promoter in response to stress	GO:0036003	COVID-19	MESH:D000086382		MUC1	1
+response to macrophage colony-stimulating factor	GO:0036005	COVID-19	MESH:D000086382		TNF	1
+cellular response to macrophage colony-stimulating factor stimulus	GO:0036006	COVID-19	MESH:D000086382		CCL2	1
+vascular endothelial growth factor receptor signaling pathway	GO:0048010	COVID-19	MESH:D000086382		CCL2	1
+receptor ligand activity	GO:0048018	COVID-19	MESH:D000086382		AGT	1
+fucosylation	GO:0036065	COVID-19	MESH:D000086382		FUT2	1
+negative regulation of sensory perception of pain	GO:1904057	COVID-19	MESH:D000086382		IL10	2
+cellular response to platelet-derived growth factor stimulus	GO:0036120	COVID-19	MESH:D000086382		CCL2	1
+fibroblast proliferation	GO:0048144	COVID-19	MESH:D000086382		AGT	1
+positive regulation of fibroblast proliferation	GO:0048146	COVID-19	MESH:D000086382		AGT	1
+regulation of long-term neuronal synaptic plasticity	GO:0048169	COVID-19	MESH:D000086382		AGT	1
+positive regulation of microglial cell migration	GO:1904141	COVID-19	MESH:D000086382		CCL3	1
+eosinophil chemotaxis	GO:0048245	COVID-19	MESH:D000086382		CCL3	1
+CXCR3 chemokine receptor binding	GO:0048248	COVID-19	MESH:D000086382		CXCL10	1
+positive regulation of isotype switching to IgG isotypes	GO:0048304	COVID-19	MESH:D000086382		IL2	1
+positive regulation of epithelial cell proliferation	GO:0050679	COVID-19	MESH:D000086382		IL6	4
+regulation of defense response to virus by host	GO:0050691	COVID-19	MESH:D000086382		IL1B	1
+positive regulation of cold-induced thermogenesis	GO:0120162	COVID-19	MESH:D000086382		CCR2	1
+negative regulation of bile acid secretion	GO:0120190	COVID-19	MESH:D000086382		TNF	1
+cellular response to angiotensin	GO:1904385	COVID-19	MESH:D000086382		AGT	1
+regulation of protein secretion	GO:0050708	COVID-19	MESH:D000086382		TNF	1
+regulation of peptidyl-tyrosine phosphorylation	GO:0050730	COVID-19	MESH:D000086382		IL7	1
+low-density lipoprotein particle receptor binding	GO:0050750	COVID-19	MESH:D000086382		CRP	1
+regulation of phagocytosis	GO:0050764	COVID-19	MESH:D000086382		HCK	1
+negative regulation of phagocytosis	GO:0050765	COVID-19	MESH:D000086382		PLSCR1	1
+regulation of neurogenesis	GO:0050767	COVID-19	MESH:D000086382		IL1B	1
+regulation of dendrite development	GO:0050773	COVID-19	MESH:D000086382		BCL11A	1
+cell maturation	GO:0048469	COVID-19	MESH:D000086382		BTK	1
+oogenesis	GO:0048477	COVID-19	MESH:D000086382		ABO	1
+regulation of behavior	GO:0050795	COVID-19	MESH:D000086382		CCL3	1
+cellular response to interleukin-7	GO:0098761	COVID-19	MESH:D000086382		BTK	1
+positive regulation of matrix metallopeptidase secretion	GO:1904466	COVID-19	MESH:D000086382		BSG	1
+negative regulation of synaptic transmission	GO:0050805	COVID-19	MESH:D000086382		IL1B	1
+defense response to Gram-negative bacterium	GO:0050829	COVID-19	MESH:D000086382		IL6	4
+B cell receptor signaling pathway	GO:0050853	COVID-19	MESH:D000086382		BTK	1
+negative regulation of B cell activation	GO:0050869	COVID-19	MESH:D000086382		BTK	1
+positive regulation of B cell activation	GO:0050871	COVID-19	MESH:D000086382		IL6	4
+intestinal lipid absorption	GO:0098856	COVID-19	MESH:D000086382		UGCG	1
+induction of positive chemotaxis	GO:0050930	COVID-19	MESH:D000086382		CXCL8	1
+negative regulation of muscle organ development	GO:0048635	COVID-19	MESH:D000086382		IL6	4
+detection of mechanical stimulus involved in sensory perception of pain	GO:0050966	COVID-19	MESH:D000086382		TNF	1
+smooth muscle cell proliferation	GO:0048659	COVID-19	MESH:D000086382		AGT	1
+neuron development	GO:0048666	COVID-19	MESH:D000086382		UGCG	1
+negative regulation of collateral sprouting	GO:0048671	COVID-19	MESH:D000086382		BCL11A	1
+positive regulation of collateral sprouting	GO:0048672	COVID-19	MESH:D000086382		BCL11A	1
+regulation of nitric-oxide synthase activity	GO:0050999	COVID-19	MESH:D000086382		IL1B	1
+chromatin	GO:0000785	COVID-19	MESH:D000086382		MUC1	1
+positive regulation of astrocyte differentiation	GO:0048711	COVID-19	MESH:D000086382		IL1B	1
+presynaptic active zone	GO:0048786	COVID-19	MESH:D000086382		BSG	1
+cytoskeleton of presynaptic active zone	GO:0048788	COVID-19	MESH:D000086382		BSG	1
+inflammatory response to wounding	GO:0090594	COVID-19	MESH:D000086382		CCR2	1
+focal adhesion	GO:0005925	COVID-19	MESH:D000086382		HCK	1
+angiotensin maturation	GO:0002003	COVID-19	MESH:D000086382		ACE2	15
+regulation of blood volume by renin-angiotensin	GO:0002016	COVID-19	MESH:D000086382		AGT	1
+renin-angiotensin regulation of aldosterone production	GO:0002018	COVID-19	MESH:D000086382		AGT	1
+regulation of renal output by angiotensin	GO:0002019	COVID-19	MESH:D000086382		AGT	1
+protease binding	GO:0002020	COVID-19	MESH:D000086382		TNF	1
+maintenance of blood vessel diameter homeostasis by renin-angiotensin	GO:0002034	COVID-19	MESH:D000086382		AGT	1
+brain renin-angiotensin system	GO:0002035	COVID-19	MESH:D000086382		AGT	1
+negative regulation of L-glutamate import across plasma membrane	GO:0002037	COVID-19	MESH:D000086382		TNF	1
+p53 binding	GO:0002039	COVID-19	MESH:D000086382		MUC1	1
+positive regulation of gliogenesis	GO:0014015	COVID-19	MESH:D000086382		IL6	4
+negative regulation of glutamate secretion	GO:0014050	COVID-19	MESH:D000086382		IL1B	1
+acrosomal membrane	GO:0002080	COVID-19	MESH:D000086382		BSG	1
+regulation of norepinephrine secretion	GO:0014061	COVID-19	MESH:D000086382		AGT	1
+postsynaptic density	GO:0014069	COVID-19	MESH:D000086382		BCL11A	1
+positive regulation of receptor internalization	GO:0002092	COVID-19	MESH:D000086382		SELE	1
+peptidyl-tyrosine autophosphorylation	GO:0038083	COVID-19	MESH:D000086382		BTK	1
+Fc-epsilon receptor signaling pathway	GO:0038095	COVID-19	MESH:D000086382		BTK	1
+Fc-gamma receptor signaling pathway involved in phagocytosis	GO:0038096	COVID-19	MESH:D000086382		HCK	1
+manchette	GO:0002177	COVID-19	MESH:D000086382		LZTFL1	2
+interleukin-2-mediated signaling pathway	GO:0038110	COVID-19	MESH:D000086382		IL2RA	2
+angiotensin-activated signaling pathway	GO:0038166	COVID-19	MESH:D000086382		AGT	1
+wound healing involved in inflammatory response	GO:0002246	COVID-19	MESH:D000086382		CCR2	1
+myeloid cell homeostasis	GO:0002262	COVID-19	MESH:D000086382		IL6	4
+germinal center B cell differentiation	GO:0002314	COVID-19	MESH:D000086382		IL6	4
+B cell affinity maturation	GO:0002344	COVID-19	MESH:D000086382		BTK	1
+T cell lineage commitment	GO:0002360	COVID-19	MESH:D000086382		IL7	1
+leukocyte activation involved in immune response	GO:0002366	COVID-19	MESH:D000086382		IL2	1
+hepatic immune response	GO:0002384	COVID-19	MESH:D000086382		IL6	4
+dendritic cell chemotaxis	GO:0002407	COVID-19	MESH:D000086382		CCR2	1
+neutrophil mediated immunity	GO:0002446	COVID-19	MESH:D000086382		IL6	4
+dendritic cell antigen processing and presentation	GO:0002468	COVID-19	MESH:D000086382		CD209	1
+production of molecular mediator involved in inflammatory response	GO:0002532	COVID-19	MESH:D000086382		TNF	1
+chronic inflammatory response	GO:0002544	COVID-19	MESH:D000086382		CCL2	1
+histamine secretion by mast cell	GO:0002553	COVID-19	MESH:D000086382		BTK	1
+regulation of immunoglobulin production	GO:0002637	COVID-19	MESH:D000086382		TNF	1
+regulation of T cell tolerance induction	GO:0002664	COVID-19	MESH:D000086382		IL2RA	2
+positive regulation of acute inflammatory response	GO:0002675	COVID-19	MESH:D000086382		IL6	4
+membrane fusion	GO:0061025	COVID-19	MESH:D000086382		ACE2	15
+negative regulation of vascular wound healing	GO:0061044	COVID-19	MESH:D000086382		TNF	1
+negative regulation of branching involved in lung morphogenesis	GO:0061048	COVID-19	MESH:D000086382		TNF	1
+cell growth involved in cardiac muscle cell development	GO:0061049	COVID-19	MESH:D000086382		AGT	1
+positive regulation of protein tyrosine kinase activity	GO:0061098	COVID-19	MESH:D000086382		AGT	1
+positive regulation of T cell mediated immunity	GO:0002711	COVID-19	MESH:D000086382		IL1B	1
+regulation of B cell cytokine production	GO:0002721	COVID-19	MESH:D000086382		BTK	1
+regulation of T cell cytokine production	GO:0002724	COVID-19	MESH:D000086382		CCR2	1
+MyD88-dependent toll-like receptor signaling pathway	GO:0002755	COVID-19	MESH:D000086382		BTK	1
+immune response-activating signaling pathway	GO:0002757	COVID-19	MESH:D000086382		IL10RB	1
+innate immune response-activating signaling pathway	GO:0002758	COVID-19	MESH:D000086382		HCK	1
+endothelial tube morphogenesis	GO:0061154	COVID-19	MESH:D000086382		BSG	1
+negative regulation of T-helper 1 type immune response	GO:0002826	COVID-19	MESH:D000086382		IL10	2
+negative regulation of type 2 immune response	GO:0002829	COVID-19	MESH:D000086382		CCR2	1
+smooth muscle adaptation	GO:0014805	COVID-19	MESH:D000086382		IL1B	1
+release of sequestered calcium ion into cytosol by sarcoplasmic reticulum	GO:0014808	COVID-19	MESH:D000086382		CCL3	1
+artery smooth muscle contraction	GO:0014824	COVID-19	MESH:D000086382		AGT	1
+intrinsic apoptotic signaling pathway	GO:0097193	COVID-19	MESH:D000086382		PLSCR1	1
+negative regulation of inflammatory response to antigenic stimulus	GO:0002862	COVID-19	MESH:D000086382		HCK	1
+negative regulation of chronic inflammatory response to antigenic stimulus	GO:0002875	COVID-19	MESH:D000086382		IL10	2
+positive regulation of chronic inflammatory response to antigenic stimulus	GO:0002876	COVID-19	MESH:D000086382		TNF	1
+response to inactivity	GO:0014854	COVID-19	MESH:D000086382		IL10	2
+response to muscle activity involved in regulation of muscle adaptation	GO:0014873	COVID-19	MESH:D000086382		AGT	1
+cellular response to toxic substance	GO:0097237	COVID-19	MESH:D000086382		TNF	1
+regulation of B cell apoptotic process	GO:0002902	COVID-19	MESH:D000086382		BTK	1
+negative regulation of B cell apoptotic process	GO:0002903	COVID-19	MESH:D000086382		IL2	1
+positive regulation of B cell apoptotic process	GO:0002904	COVID-19	MESH:D000086382		IL10	2
+signaling	GO:0023052	COVID-19	MESH:D000086382		CCL3	1
+B cell adhesion	GO:0097323	COVID-19	MESH:D000086382		CD209	1
+neutrophil clearance	GO:0097350	COVID-19	MESH:D000086382		CCR2	1
+regulation of response to wounding	GO:1903034	COVID-19	MESH:D000086382		IL10	2
+positive regulation of protein localization to plasma membrane	GO:1903078	COVID-19	MESH:D000086382		TNF	1
+operant conditioning	GO:0035106	COVID-19	MESH:D000086382		AGT	1
+establishment of skin barrier	GO:0061436	COVID-19	MESH:D000086382		UGCG	1
+social behavior	GO:0035176	COVID-19	MESH:D000086382		IL1B	1
+T follicular helper cell differentiation	GO:0061470	COVID-19	MESH:D000086382		IL6	4
+ectopic germ cell programmed cell death	GO:0035234	COVID-19	MESH:D000086382		IL1B	1
+monocyte proliferation	GO:0061516	COVID-19	MESH:D000086382		BTK	1
+necroptotic signaling pathway	GO:0097527	COVID-19	MESH:D000086382		TNF	1
+negative regulation of hydrogen peroxide-induced neuron death	GO:1903208	COVID-19	MESH:D000086382		IL10	2
+positive regulation of oxidative stress-induced neuron death	GO:1903223	COVID-19	MESH:D000086382		TNF	1
+negative regulation of bicellular tight junction assembly	GO:1903347	COVID-19	MESH:D000086382		TNF	1
+cellular response to interferon-beta	GO:0035458	COVID-19	MESH:D000086382		OAS1	1
+leukocyte adhesion to vascular endothelial cell	GO:0061756	COVID-19	MESH:D000086382		CCR2	1
+blood vessel diameter maintenance	GO:0097746	COVID-19	MESH:D000086382		ACE2	15
+negative regulation of lactation	GO:1903488	COVID-19	MESH:D000086382		TNF	1
+positive regulation of myosin light chain kinase activity	GO:0035505	COVID-19	MESH:D000086382		IL1B	1
+negative regulation of myosin-light-chain-phosphatase activity	GO:0035509	COVID-19	MESH:D000086382		TNF	1
+specific granule membrane	GO:0035579	COVID-19	MESH:D000086382		ATP11A	1
+antimicrobial humoral immune response mediated by antimicrobial peptide	GO:0061844	COVID-19	MESH:D000086382		CXCL10	1
+regulation of astrocyte activation	GO:0061888	COVID-19	MESH:D000086382		IL6	4
+negative regulation of protein localization to cilium	GO:1903565	COVID-19	MESH:D000086382		LZTFL1	2
+negative regulation of protein localization to ciliary membrane	GO:1903568	COVID-19	MESH:D000086382		LZTFL1	2
+cornified envelope assembly	GO:1903575	COVID-19	MESH:D000086382		UGCG	1
+negative regulation of gap junction assembly	GO:1903597	COVID-19	MESH:D000086382		IL1B	1
+oligosaccharide biosynthetic process	GO:0009312	COVID-19	MESH:D000086382		FUT2	1
+response to stilbenoid	GO:0035634	COVID-19	MESH:D000086382		IL1B	1
+helper T cell extravasation	GO:0035684	COVID-19	MESH:D000086382		CCL2	1
+monocyte extravasation	GO:0035696	COVID-19	MESH:D000086382		CCR2	1
+dendrite morphogenesis	GO:0048813	COVID-19	MESH:D000086382		TMEM106B	1
+negative regulation of neuron remodeling	GO:1904800	COVID-19	MESH:D000086382		BCL11A	1
+cellular response to biotic stimulus	GO:0071216	COVID-19	MESH:D000086382		IL2	1
+cellular response to molecule of fungal origin	GO:0071226	COVID-19	MESH:D000086382		BTK	1
+cellular response to amino acid stimulus	GO:0071230	COVID-19	MESH:D000086382		TNF	1
+cellular response to calcium ion	GO:0071277	COVID-19	MESH:D000086382		CRP	1
+positive regulation of receptor signaling pathway via STAT	GO:1904894	COVID-19	MESH:D000086382		IL6	4
+transcription cis-regulatory region binding	GO:0000976	COVID-19	MESH:D000086382		TNF	1
+regulation of mast cell activation	GO:0033003	COVID-19	MESH:D000086382		PLSCR1	1
+negative regulation of nitric oxide biosynthetic process	GO:0045019	COVID-19	MESH:D000086382		IL10	2
+cellular response to organic substance	GO:0071310	COVID-19	MESH:D000086382		IL1B	1
+cellular response to nicotine	GO:0071316	COVID-19	MESH:D000086382		TNF	1
+cellular response to ATP	GO:0071318	COVID-19	MESH:D000086382		CCL2	1
+immature T cell proliferation in thymus	GO:0033080	COVID-19	MESH:D000086382		IFNAR2	1
+T-helper 2 cell differentiation	GO:0045064	COVID-19	MESH:D000086382		IL6	4
+positive regulation of immature T cell proliferation in thymus	GO:0033092	COVID-19	MESH:D000086382		IL1B	1
+tyrosine phosphorylation of STAT protein	GO:0007260	COVID-19	MESH:D000086382		IL2	1
+nitric oxide mediated signal transduction	GO:0007263	COVID-19	MESH:D000086382		AGT	1
+multicellular organism development	GO:0007275	COVID-19	MESH:D000086382		TNF	1
+response to vitamin B3	GO:0033552	COVID-19	MESH:D000086382		CCL2	1
+regulation of podosome assembly	GO:0071801	COVID-19	MESH:D000086382		HCK	1
+positive regulation of podosome assembly	GO:0071803	COVID-19	MESH:D000086382		TNF	1
+response to testosterone	GO:0033574	COVID-19	MESH:D000086382		CRP	1
+response to L-ascorbic acid	GO:0033591	COVID-19	MESH:D000086382		IL1B	1
+regulation of T cell differentiation	GO:0045580	COVID-19	MESH:D000086382		CCR2	1
+positive regulation of regulatory T cell differentiation	GO:0045591	COVID-19	MESH:D000086382		IL2	1
+regulation of fat cell differentiation	GO:0045598	COVID-19	MESH:D000086382		TNF	1
+positive regulation of cell proliferation in bone marrow	GO:0071864	COVID-19	MESH:D000086382		IL6	4
+regulation of endothelial tube morphogenesis	GO:1901509	COVID-19	MESH:D000086382		CXCL10	1
+response to paracetamol	GO:1901554	COVID-19	MESH:D000086382		TNF	1
+acrosome reaction	GO:0007340	COVID-19	MESH:D000086382		AGT	1
+negative regulation of cell adhesion mediated by integrin	GO:0033629	COVID-19	MESH:D000086382		MUC1	1
+positive regulation of T-helper 1 cell differentiation	GO:0045627	COVID-19	MESH:D000086382		CCR2	1
+positive regulation of T-helper 2 cell differentiation	GO:0045630	COVID-19	MESH:D000086382		IL6	4
+positive regulation of myeloid cell differentiation	GO:0045639	COVID-19	MESH:D000086382		CSF3	1
+positive regulation of kinase activity	GO:0033674	COVID-19	MESH:D000086382		IL2	1
+negative regulation of neuron differentiation	GO:0045665	COVID-19	MESH:D000086382		IL1B	1
+positive regulation of neuron differentiation	GO:0045666	COVID-19	MESH:D000086382		IL6	4
+negative regulation of osteoblast differentiation	GO:0045668	COVID-19	MESH:D000086382		TNF	1
+sialic acid binding	GO:0033691	COVID-19	MESH:D000086382		SELE	1
+regulation of osteoclast differentiation	GO:0045670	COVID-19	MESH:D000086382		TNF	1
+negative regulation of osteoclast differentiation	GO:0045671	COVID-19	MESH:D000086382		CCL3	1
+positive regulation of glial cell differentiation	GO:0045687	COVID-19	MESH:D000086382		IL1B	1
+response to nitrogen compound	GO:1901698	COVID-19	MESH:D000086382		IL1B	1
+axon guidance	GO:0007411	COVID-19	MESH:D000086382		BSG	1
+negative regulation of gluconeogenesis	GO:0045721	COVID-19	MESH:D000086382		IL6	4
+positive regulation of fatty acid biosynthetic process	GO:0045723	COVID-19	MESH:D000086382		AGT	1
+respiratory burst after phagocytosis	GO:0045728	COVID-19	MESH:D000086382		HCK	1
+positive regulation of protein catabolic process	GO:0045732	COVID-19	MESH:D000086382		TNF	1
+glial cell development	GO:0021782	COVID-19	MESH:D000086382		F8	1
+positive regulation of DNA replication	GO:0045740	COVID-19	MESH:D000086382		IL6	4
+positive regulation of epidermal growth factor receptor signaling pathway	GO:0045742	COVID-19	MESH:D000086382		AGT	1
+negative regulation of G protein-coupled receptor signaling pathway	GO:0045744	COVID-19	MESH:D000086382		CXCL8	1
+positive regulation of action potential	GO:0045760	COVID-19	MESH:D000086382		TNF	1
+regulation of angiogenesis	GO:0045765	COVID-19	MESH:D000086382		IL6	4
+positive regulation of blood pressure	GO:0045777	COVID-19	MESH:D000086382		AGT	1
+positive regulation of cell cycle	GO:0045787	COVID-19	MESH:D000086382		IL10	2
+positive regulation of platelet aggregation	GO:1901731	COVID-19	MESH:D000086382		IL6	4
+negative regulation of myoblast fusion	GO:1901740	COVID-19	MESH:D000086382		CXCL10	1
+muscle organ development	GO:0007517	COVID-19	MESH:D000086382		CXCL10	1
+larval somatic muscle development	GO:0007526	COVID-19	MESH:D000086382		CRP	1
+negative regulation of heart contraction	GO:0045822	COVID-19	MESH:D000086382		IL2	1
+response to nutrient	GO:0007584	COVID-19	MESH:D000086382		IL1B	1
+negative regulation of lipid metabolic process	GO:0045833	COVID-19	MESH:D000086382		IL1B	1
+negative regulation of membrane potential	GO:0045837	COVID-19	MESH:D000086382		IL6	4
+blood coagulation, intrinsic pathway	GO:0007597	COVID-19	MESH:D000086382		F8	1
+hemostasis	GO:0007599	COVID-19	MESH:D000086382		F8	1
+positive regulation of NAD(P)H oxidase activity	GO:0033864	COVID-19	MESH:D000086382		AGT	1
+positive regulation of protein kinase activity	GO:0045860	COVID-19	MESH:D000086382		TNF	1
+negative regulation of smoothened signaling pathway	GO:0045879	COVID-19	MESH:D000086382		LZTFL1	2
+circadian rhythm	GO:0007623	COVID-19	MESH:D000086382		TNF	1
+positive regulation of complement activation	GO:0045917	COVID-19	MESH:D000086382		IL1B	1
+negative regulation of growth rate	GO:0045967	COVID-19	MESH:D000086382		TMPRSS4	1
+actin filament-based process	GO:0030029	COVID-19	MESH:D000086382		SELE	1
+positive regulation of translational initiation by iron	GO:0045994	COVID-19	MESH:D000086382		TNF	1
+interleukin-12 receptor complex	GO:0042022	COVID-19	MESH:D000086382		TYK2	1
+cell junction	GO:0030054	COVID-19	MESH:D000086382		HCK	1
+myeloid cell differentiation	GO:0030099	COVID-19	MESH:D000086382		PLSCR1	1
+type 2 immune response	GO:0042092	COVID-19	MESH:D000086382		IL10	2
+T cell proliferation	GO:0042098	COVID-19	MESH:D000086382		IL2	1
+natural killer cell activation	GO:0030101	COVID-19	MESH:D000086382		IL2	1
+vasopressin secretion	GO:0030103	COVID-19	MESH:D000086382		AGT	1
+transport vesicle	GO:0030133	COVID-19	MESH:D000086382		HCK	1
+COPII-coated ER to Golgi transport vesicle	GO:0030134	COVID-19	MESH:D000086382		F8	1
+endocytic vesicle	GO:0030139	COVID-19	MESH:D000086382		CCL2	1
+B cell activation	GO:0042113	COVID-19	MESH:D000086382		BTK	1
+monocyte activation	GO:0042117	COVID-19	MESH:D000086382		CCR2	1
+endothelial cell activation	GO:0042118	COVID-19	MESH:D000086382		CXCL10	1
+manganese ion binding	GO:0030145	COVID-19	MESH:D000086382		ABO	1
+regulation of T cell proliferation	GO:0042129	COVID-19	MESH:D000086382		CD209	1
+proteoglycan catabolic process	GO:0030167	COVID-19	MESH:D000086382		BTK	1
+low-density lipoprotein particle binding	GO:0030169	COVID-19	MESH:D000086382		CRP	1
+filopodium	GO:0030175	COVID-19	MESH:D000086382		CRP	1
+negative regulation of Wnt signaling pathway	GO:0030178	COVID-19	MESH:D000086382		BTK	1
+antigen processing and presentation	GO:0019882	COVID-19	MESH:D000086382		CD209	1
+antigen processing and presentation of exogenous peptide antigen via MHC class II	GO:0019886	COVID-19	MESH:D000086382		IL10	2
+hyaluronan biosynthetic process	GO:0030213	COVID-19	MESH:D000086382		IL1B	1
+keratinocyte differentiation	GO:0030216	COVID-19	MESH:D000086382		UGCG	1
+copper ion binding	GO:0005507	COVID-19	MESH:D000086382		F8	1
+positive regulation of branching involved in ureteric bud morphogenesis	GO:0090190	COVID-19	MESH:D000086382		AGT	1
+phosphatidylinositol-3,4,5-trisphosphate binding	GO:0005547	COVID-19	MESH:D000086382		BTK	1
+kappa-type opioid receptor binding	GO:0031851	COVID-19	MESH:D000086382		IL2	1
+positive regulation of triglyceride metabolic process	GO:0090208	COVID-19	MESH:D000086382		TNF	1
+positive regulation of histone H4 acetylation	GO:0090240	COVID-19	MESH:D000086382		MUC1	1
+intracellular anatomical structure	GO:0005622	COVID-19	MESH:D000086382		TNF	1
+late endosome membrane	GO:0031902	COVID-19	MESH:D000086382		TMEM106B	1
+negative regulation by host of viral transcription	GO:0043922	COVID-19	MESH:D000086382		CCL3	1
+vesicle	GO:0031982	COVID-19	MESH:D000086382		IL1B	1
+positive regulation of protein targeting to membrane	GO:0090314	COVID-19	MESH:D000086382		CCL2	1
+negative regulation of oxidative phosphorylation	GO:0090324	COVID-19	MESH:D000086382		TNF	1
+polytene chromosome	GO:0005700	COVID-19	MESH:D000086382		ABO	1
+nucleolus	GO:0005730	COVID-19	MESH:D000086382		PLSCR1	1
+lysosomal membrane	GO:0005765	COVID-19	MESH:D000086382		TMEM106B	1
+rough endoplasmic reticulum	GO:0005791	COVID-19	MESH:D000086382		CCL2	1
+actin filament	GO:0005884	COVID-19	MESH:D000086382		HCK	1
+interleukin-2 receptor complex	GO:0005893	COVID-19	MESH:D000086382		IL2RA	2
+interleukin-6 receptor complex	GO:0005896	COVID-19	MESH:D000086382		IL6	4
+phosphatidylethanolamine flippase activity	GO:0090555	COVID-19	MESH:D000086382		ATP11A	1
+phosphatidylserine floppase activity	GO:0090556	COVID-19	MESH:D000086382		ATP11A	1
+clathrin-coated pit	GO:0005905	COVID-19	MESH:D000086382		SELE	1
+phosphatidylserine biosynthetic process	GO:0006659	COVID-19	MESH:D000086382		PLSCR1	1
+negative regulation of superoxide anion generation	GO:0032929	COVID-19	MESH:D000086382		CRP	1
+sphingolipid metabolic process	GO:0006665	COVID-19	MESH:D000086382		UGCG	1
+glucosylceramide biosynthetic process	GO:0006679	COVID-19	MESH:D000086382		UGCG	1
+negative regulation of mononuclear cell proliferation	GO:0032945	COVID-19	MESH:D000086382		CRP	1
+glycosphingolipid metabolic process	GO:0006687	COVID-19	MESH:D000086382		UGCG	1
+negative regulation of collagen biosynthetic process	GO:0032966	COVID-19	MESH:D000086382		IL6	4
+protein-containing complex	GO:0032991	COVID-19	MESH:D000086382		F8	1
+calcium ion transport	GO:0006816	COVID-19	MESH:D000086382		CCL3	1
+cellular sodium ion homeostasis	GO:0006883	COVID-19	MESH:D000086382		AGT	1
+activation-induced cell death of T cells	GO:0006924	COVID-19	MESH:D000086382		IL2RA	2
+complement activation, classical pathway	GO:0006958	COVID-19	MESH:D000086382		CRP	1
+cellular defense response	GO:0006968	COVID-19	MESH:D000086382		CCR2	1
+DNA damage response, signal transduction by p53 class mediator resulting in cell cycle arrest	GO:0006977	COVID-19	MESH:D000086382		MUC1	1
+DNA damage response, signal transduction by p53 class mediator resulting in transcription of p21 class mediator	GO:0006978	COVID-19	MESH:D000086382		MUC1	1
+skeletal muscle contraction	GO:0003009	COVID-19	MESH:D000086382		TNF	1
+renal system process	GO:0003014	COVID-19	MESH:D000086382		AGT	1
+dihydroceramide glucosyltransferase activity	GO:0102769	COVID-19	MESH:D000086382		UGCG	1
+positive regulation of protein localization to cell surface	GO:2000010	COVID-19	MESH:D000086382		TNF	1
+positive regulation of extracellular matrix constituent secretion	GO:0003331	COVID-19	MESH:D000086382		AGT	1
+neural retina development	GO:0003407	COVID-19	MESH:D000086382		BSG	1
+negative regulation of dendrite development	GO:2000171	COVID-19	MESH:D000086382		BCL11A	1
+negative regulation of neural precursor cell proliferation	GO:2000178	COVID-19	MESH:D000086382		IL1B	1
+cholesterol binding	GO:0015485	COVID-19	MESH:D000086382		CRP	1
+negative regulation of feeding behavior	GO:2000252	COVID-19	MESH:D000086382		TNF	1
+positive regulation of signaling receptor activity	GO:2000273	COVID-19	MESH:D000086382		IL10	2
+negative regulation of T-helper 17 cell differentiation	GO:2000320	COVID-19	MESH:D000086382		IL2	1
+positive regulation of blood microparticle formation	GO:2000334	COVID-19	MESH:D000086382		TNF	1
+negative regulation of chemokine (C-X-C motif) ligand 2 production	GO:2000342	COVID-19	MESH:D000086382		OAS1	1
+positive regulation of chemokine (C-X-C motif) ligand 2 production	GO:2000343	COVID-19	MESH:D000086382		TNF	1
+positive regulation of hepatocyte proliferation	GO:2000347	COVID-19	MESH:D000086382		TNF	1
+regulation of endothelial cell apoptotic process	GO:2000351	COVID-19	MESH:D000086382		TNF	1
+negative regulation of endothelial cell apoptotic process	GO:2000352	COVID-19	MESH:D000086382		IL10	2
+positive regulation of DNA topoisomerase (ATP-hydrolyzing) activity	GO:2000373	COVID-19	MESH:D000086382		PLSCR1	1
+regulation of reactive oxygen species metabolic process	GO:2000377	COVID-19	MESH:D000086382		TNF	1
+DNA binding	GO:0003677	COVID-19	MESH:D000086382		PLSCR1	1
+chromatin binding	GO:0003682	COVID-19	MESH:D000086382		ABO	1
+collagen-containing extracellular matrix	GO:0062023	COVID-19	MESH:D000086382		PLSCR1	1
+primary dendrite	GO:0150001	COVID-19	MESH:D000086382		CCR2	1
+regulation of neuroinflammatory response	GO:0150077	COVID-19	MESH:D000086382		IL6	4
+protein domain specific binding	GO:0019904	COVID-19	MESH:D000086382		IL1B	1
+cytokine binding	GO:0019955	COVID-19	MESH:D000086382		CCR2	1
+type I interferon binding	GO:0019962	COVID-19	MESH:D000086382		IFNAR2	1
+interleukin-2 binding	GO:0019976	COVID-19	MESH:D000086382		IL2RA	2
+positive regulation of cell growth	GO:0030307	COVID-19	MESH:D000086382		IL2	1
+negative regulation of cell growth	GO:0030308	COVID-19	MESH:D000086382		AGT	1
+regulation of cell migration	GO:0030334	COVID-19	MESH:D000086382		CCR2	1
+L-fucose catabolic process	GO:0042355	COVID-19	MESH:D000086382		FUT2	1
+glycoprotein-fucosylgalactoside alpha-N-acetylgalactosaminyltransferase activity	GO:0004380	COVID-19	MESH:D000086382		ABO	1
+fucosylgalactoside 3-alpha-galactosyltransferase activity	GO:0004381	COVID-19	MESH:D000086382		ABO	1
+nuclear matrix	GO:0016363	COVID-19	MESH:D000086382		BCL11A	1
+endocytic vesicle membrane	GO:0030666	COVID-19	MESH:D000086382		ACE2	15
+ovulation	GO:0030728	COVID-19	MESH:D000086382		IL1B	1
+protein processing	GO:0016485	COVID-19	MESH:D000086382		TMPRSS4	1
+drinking behavior	GO:0042756	COVID-19	MESH:D000086382		AGT	1
+oxidoreductase activity	GO:0016491	COVID-19	MESH:D000086382		F8	1
+C-C chemokine receptor activity	GO:0016493	COVID-19	MESH:D000086382		CCR2	1
+negative regulation of apoptotic signaling pathway	GO:2001234	COVID-19	MESH:D000086382		TNF	1
+negative regulation of extrinsic apoptotic signaling pathway	GO:2001237	COVID-19	MESH:D000086382		IL7	1
+positive regulation of extrinsic apoptotic signaling pathway	GO:2001238	COVID-19	MESH:D000086382		AGT	1
+nuclease activity	GO:0004518	COVID-19	MESH:D000086382		PLSCR1	1
+SWI/SNF complex	GO:0016514	COVID-19	MESH:D000086382		BCL11A	1
+protein homodimerization activity	GO:0042803	COVID-19	MESH:D000086382		BCL11A	1
+protein autoprocessing	GO:0016540	COVID-19	MESH:D000086382		TMPRSS2	3
+granulocyte differentiation	GO:0030851	COVID-19	MESH:D000086382		CSF3	1
+epithelial cell differentiation	GO:0030855	COVID-19	MESH:D000086382		MUC1	1
+cortical cytoskeleton	GO:0030863	COVID-19	MESH:D000086382		SELE	1
+cortical actin cytoskeleton organization	GO:0030866	COVID-19	MESH:D000086382		TNF	1
+negative regulation of myeloid dendritic cell activation	GO:0030886	COVID-19	MESH:D000086382		IL10	2
+nuclear body	GO:0016604	COVID-19	MESH:D000086382		BCL11A	1
+positive regulation of vascular endothelial growth factor receptor signaling pathway	GO:0030949	COVID-19	MESH:D000086382		IL1B	1
+calcium-dependent protein kinase C activity	GO:0004698	COVID-19	MESH:D000086382		CCL3	1
+negative regulation of membrane protein ectodomain proteolysis	GO:0051045	COVID-19	MESH:D000086382		IL10	2
+regulation of DNA-binding transcription factor activity	GO:0051090	COVID-19	MESH:D000086382		HCK	1
+hexosyltransferase activity	GO:0016758	COVID-19	MESH:D000086382		ABO	1
+ATPase binding	GO:0051117	COVID-19	MESH:D000086382		TMEM106B	1
+positive regulation of NK T cell proliferation	GO:0051142	COVID-19	MESH:D000086382		TYK2	1
+smooth muscle cell differentiation	GO:0051145	COVID-19	MESH:D000086382		AGT	1
+positive regulation of nitrogen compound metabolic process	GO:0051173	COVID-19	MESH:D000086382		TNF	1
+serine-type endopeptidase inhibitor activity	GO:0004867	COVID-19	MESH:D000086382		AGT	1
+transmembrane signaling receptor activity	GO:0004888	COVID-19	MESH:D000086382		SELE	1
+positive regulation of protein transport	GO:0051222	COVID-19	MESH:D000086382		TNF	1
+positive regulation of protein metabolic process	GO:0051247	COVID-19	MESH:D000086382		AGT	1
+protein polymerization	GO:0051258	COVID-19	MESH:D000086382		CRP	1
+positive regulation of release of sequestered calcium ion into cytosol	GO:0051281	COVID-19	MESH:D000086382		CXCL10	1
+interferon receptor activity	GO:0004904	COVID-19	MESH:D000086382		IL10RB	1
+type I interferon receptor activity	GO:0004905	COVID-19	MESH:D000086382		IFNAR2	1
+interleukin-2 receptor activity	GO:0004911	COVID-19	MESH:D000086382		IL2RA	2
+interleukin-10 receptor activity	GO:0004920	COVID-19	MESH:D000086382		IL10RB	1
+G protein-coupled receptor activity	GO:0004930	COVID-19	MESH:D000086382		CCR2	1
+protein sumoylation	GO:0016925	COVID-19	MESH:D000086382		BCL11A	1
+chemokine receptor activity	GO:0004950	COVID-19	MESH:D000086382		CCR2	1
+transcription regulatory region nucleic acid binding	GO:0001067	COVID-19	MESH:D000086382		BCL11A	1
+positive regulation of hydrolase activity	GO:0051345	COVID-19	MESH:D000086382		TMEM106B	1
+negative regulation of neurotrophin TRK receptor signaling pathway	GO:0051387	COVID-19	MESH:D000086382		AGT	1
+positive regulation of L-lysine import across plasma membrane	GO:1905010	COVID-19	MESH:D000086382		AGT	1
+neuron apoptotic process	GO:0051402	COVID-19	MESH:D000086382		AGT	1
+stress-activated MAPK cascade	GO:0051403	COVID-19	MESH:D000086382		AGT	1
+DNA-binding transcription repressor activity, RNA polymerase II-specific	GO:0001227	COVID-19	MESH:D000086382		BCL11A	1
+DNA-binding transcription activator activity, RNA polymerase II-specific	GO:0001228	COVID-19	MESH:D000086382		PLSCR1	1
+response to cAMP	GO:0051591	COVID-19	MESH:D000086382		BSG	1
+response to calcium ion	GO:0051592	COVID-19	MESH:D000086382		IL6	4
+response to cyclosporin A	GO:1905237	COVID-19	MESH:D000086382		CCL2	1
+response to 3,3',5-triiodo-L-thyronine	GO:1905242	COVID-19	MESH:D000086382		TNF	1
+response to electrical stimulus	GO:0051602	COVID-19	MESH:D000086382		IL6	4
+endoplasmic reticulum localization	GO:0051643	COVID-19	MESH:D000086382		BSG	1
+nucleus localization	GO:0051647	COVID-19	MESH:D000086382		BSG	1
+cellular oligosaccharide metabolic process	GO:0051691	COVID-19	MESH:D000086382		ABO	1
+positive regulation of nitric-oxide synthase biosynthetic process	GO:0051770	COVID-19	MESH:D000086382		CCL2	1
+positive regulation of cell division	GO:0051781	COVID-19	MESH:D000086382		IL1B	1
+positive regulation of hair follicle development	GO:0051798	COVID-19	MESH:D000086382		TNF	1
+ovarian follicle rupture	GO:0001543	COVID-19	MESH:D000086382		AGT	1
+regulation of cell growth	GO:0001558	COVID-19	MESH:D000086382		AGT	1
+blood vessel development	GO:0001568	COVID-19	MESH:D000086382		AGT	1
+regulation of macrophage migration	GO:1905521	COVID-19	MESH:D000086382		CCR2	1
+negative regulation of vascular endothelial cell proliferation	GO:1905563	COVID-19	MESH:D000086382		CCL2	1
+positive regulation of L-arginine import across plasma membrane	GO:1905589	COVID-19	MESH:D000086382		AGT	1
+fibrillar center	GO:0001650	COVID-19	MESH:D000086382		CCR2	1
+branching involved in ureteric bud morphogenesis	GO:0001658	COVID-19	MESH:D000086382		AGT	1
+fever generation	GO:0001660	COVID-19	MESH:D000086382		IL1B	1
+G protein-coupled receptor binding	GO:0001664	COVID-19	MESH:D000086382		CCL2	1
+regulation of calcium ion transport	GO:0051924	COVID-19	MESH:D000086382		AGT	1
+positive regulation of calcium ion transport	GO:0051928	COVID-19	MESH:D000086382		CCL3	1
+positive regulation of amino acid transport	GO:0051957	COVID-19	MESH:D000086382		ACE2	15
+regulation of synaptic transmission, glutamatergic	GO:0051966	COVID-19	MESH:D000086382		TNF	1
+regulation of transmission of nerve impulse	GO:0051969	COVID-19	MESH:D000086382		AGT	1
+positive regulation of transmission of nerve impulse	GO:0051971	COVID-19	MESH:D000086382		IL6	4
+response to gold nanoparticle	GO:1990268	COVID-19	MESH:D000086382		TNF	1
+retina development in camera-type eye	GO:0060041	COVID-19	MESH:D000086382		F8	1
+mammary gland involution	GO:0060056	COVID-19	MESH:D000086382		CCL2	1
+regulation of single stranded viral RNA replication via double stranded DNA intermediate	GO:0045091	COVID-19	MESH:D000086382		CXCL8	1
+positive regulation of leukocyte adhesion to arterial endothelial cell	GO:1904999	COVID-19	MESH:D000086382		TNF	1
+cellular response to lipid	GO:0071396	COVID-19	MESH:D000086382		IL1B	1
+endoplasmic reticulum-Golgi intermediate compartment membrane	GO:0033116	COVID-19	MESH:D000086382		F8	1
+cellular extravasation	GO:0045123	COVID-19	MESH:D000086382		TNF	1
+cellular response to lipoprotein particle stimulus	GO:0071402	COVID-19	MESH:D000086382		CCL2	1
+cellular response to high density lipoprotein particle stimulus	GO:0071403	COVID-19	MESH:D000086382		CCL2	1
+response to ATP	GO:0033198	COVID-19	MESH:D000086382		IL1B	1
+regulation of circadian sleep/wake cycle, non-REM sleep	GO:0045188	COVID-19	MESH:D000086382		IL6	4
+cellular response to hypoxia	GO:0071456	COVID-19	MESH:D000086382		IL7	1
+regulation of isotype switching	GO:0045191	COVID-19	MESH:D000086382		IL10	2
+tumor necrosis factor-mediated signaling pathway	GO:0033209	COVID-19	MESH:D000086382		TNF	1
+leptin-mediated signaling pathway	GO:0033210	COVID-19	MESH:D000086382		UGCG	1
+synapse	GO:0045202	COVID-19	MESH:D000086382		CCL2	1
+sarcomere organization	GO:0045214	COVID-19	MESH:D000086382		BSG	1
+choline binding	GO:0033265	COVID-19	MESH:D000086382		CRP	1
+response to dexamethasone	GO:0071548	COVID-19	MESH:D000086382		IL1B	1
+regulation of extracellular matrix assembly	GO:1901201	COVID-19	MESH:D000086382		AGT	1
+lysosomal transport	GO:0007041	COVID-19	MESH:D000086382		TMEM106B	1
+virion attachment to host cell	GO:0019062	COVID-19	MESH:D000086382		CD209	1
+receptor-mediated endocytosis of virus by host cell	GO:0019065	COVID-19	MESH:D000086382		ACE2	15
+phospholipid translocation	GO:0045332	COVID-19	MESH:D000086382		ATP11A	1
+mercury ion binding	GO:0045340	COVID-19	MESH:D000086382		PLSCR1	1
+negative regulation of MHC class II biosynthetic process	GO:0045347	COVID-19	MESH:D000086382		IL10	2
+positive regulation of MHC class II biosynthetic process	GO:0045348	COVID-19	MESH:D000086382		IL10	2
+granulocyte chemotaxis	GO:0071621	COVID-19	MESH:D000086382		CCL3	1
+negative regulation of chemokine (C-C motif) ligand 5 production	GO:0071650	COVID-19	MESH:D000086382		IL10	2
+negative regulation of IP-10 production	GO:0071659	COVID-19	MESH:D000086382		OAS1	1
+regulation of mononuclear cell migration	GO:0071675	COVID-19	MESH:D000086382		CCR2	1
+positive regulation of mononuclear cell migration	GO:0071677	COVID-19	MESH:D000086382		TNF	1
+endocytic vesicle lumen	GO:0071682	COVID-19	MESH:D000086382		CSF3	1
+cell-matrix adhesion	GO:0007160	COVID-19	MESH:D000086382		AGT	1
+transforming growth factor beta receptor signaling pathway	GO:0007179	COVID-19	MESH:D000086382		CCL2	1
+G protein-coupled receptor signaling pathway, coupled to cyclic nucleotide second messenger	GO:0007187	COVID-19	MESH:D000086382		CCL2	1
+adenylate cyclase-activating G protein-coupled receptor signaling pathway	GO:0007189	COVID-19	MESH:D000086382		CXCL10	1
+negative regulation of adenylate cyclase activity	GO:0007194	COVID-19	MESH:D000086382		CCR2	1
+G protein-coupled receptor signaling pathway coupled to cGMP nucleotide second messenger	GO:0007199	COVID-19	MESH:D000086382		AGT	1
+bone resorption	GO:0045453	COVID-19	MESH:D000086382		IL7	1
+cellular response to nitric oxide	GO:0071732	COVID-19	MESH:D000086382		CRP	1
+photoreceptor cell maintenance	GO:0045494	COVID-19	MESH:D000086382		BSG	1
+phospholipase C-activating G protein-coupled receptor signaling pathway	GO:0007200	COVID-19	MESH:D000086382		AGT	1
+protein kinase C-activating G protein-coupled receptor signaling pathway	GO:0007205	COVID-19	MESH:D000086382		IL2	1
+Notch signaling pathway	GO:0007219	COVID-19	MESH:D000086382		IL2RA	2
+integrin-mediated signaling pathway	GO:0007229	COVID-19	MESH:D000086382		HCK	1
+kinase activator activity	GO:0019209	COVID-19	MESH:D000086382		IL2	1
+activation of NF-kappaB-inducing kinase activity	GO:0007250	COVID-19	MESH:D000086382		AGT	1
+cytoplasmic sequestering of NF-kappaB	GO:0007253	COVID-19	MESH:D000086382		IL10	2
+regulation of lysosome organization	GO:1905671	COVID-19	MESH:D000086382		TMEM106B	1
+2'-5'-oligoadenylate synthetase activity	GO:0001730	COVID-19	MESH:D000086382		OAS1	1
+photoreceptor outer segment	GO:0001750	COVID-19	MESH:D000086382		BSG	1
+microglial cell activation	GO:0001774	COVID-19	MESH:D000086382		TNF	1
+neutrophil apoptotic process	GO:0001781	COVID-19	MESH:D000086382		IL6	4
+phosphotyrosine residue binding	GO:0001784	COVID-19	MESH:D000086382		HCK	1
+maternal process involved in parturition	GO:0060137	COVID-19	MESH:D000086382		CCL2	1
+positive regulation of L-proline import across plasma membrane	GO:1905737	COVID-19	MESH:D000086382		ACE2	15
+positive regulation of type III hypersensitivity	GO:0001805	COVID-19	MESH:D000086382		BTK	1
+positive regulation of type I hypersensitivity	GO:0001812	COVID-19	MESH:D000086382		BTK	1
+regulation of cytokine production	GO:0001817	COVID-19	MESH:D000086382		ACE2	15
+kidney development	GO:0001822	COVID-19	MESH:D000086382		AGT	1
+complement component C1q complex binding	GO:0001849	COVID-19	MESH:D000086382		CRP	1
+response to yeast	GO:0001878	COVID-19	MESH:D000086382		IL6	4
+phagocytic cup	GO:0001891	COVID-19	MESH:D000086382		TNF	1
+hematopoietic stem cell differentiation	GO:0060218	COVID-19	MESH:D000086382		IL6	4
+positive regulation of chromosome separation	GO:1905820	COVID-19	MESH:D000086382		PLSCR1	1
+positive regulation of leukocyte mediated cytotoxicity	GO:0001912	COVID-19	MESH:D000086382		CCL2	1
+photoreceptor inner segment	GO:0001917	COVID-19	MESH:D000086382		BSG	1
+regulation of protein phosphorylation	GO:0001932	COVID-19	MESH:D000086382		TNF	1
+negative regulation of tissue remodeling	GO:0034104	COVID-19	MESH:D000086382		AGT	1
+positive regulation of tissue remodeling	GO:0034105	COVID-19	MESH:D000086382		IL2	1
+cellular response to prolactin	GO:1990646	COVID-19	MESH:D000086382		IL6	4
+negative regulation of heterotypic cell-cell adhesion	GO:0034115	COVID-19	MESH:D000086382		IL10	2
+response to X-ray	GO:0010165	COVID-19	MESH:D000086382		IL7	1
+toll-like receptor 4 signaling pathway	GO:0034142	COVID-19	MESH:D000086382		OAS1	1
+response to ozone	GO:0010193	COVID-19	MESH:D000086382		IL1B	1
+branching involved in salivary gland morphogenesis	GO:0060445	COVID-19	MESH:D000086382		IL6	4
+positive regulation of cardiac muscle contraction	GO:0060452	COVID-19	MESH:D000086382		ACE2	15
+negative regulation of intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator	GO:1902166	COVID-19	MESH:D000086382		MUC1	1
+response to organonitrogen compound	GO:0010243	COVID-19	MESH:D000086382		IL1B	1
+positive regulation of vitamin D biosynthetic process	GO:0060557	COVID-19	MESH:D000086382		TNF	1
+interleukin-23 receptor complex	GO:0072536	COVID-19	MESH:D000086382		TYK2	1
+T-helper 17 cell lineage commitment	GO:0072540	COVID-19	MESH:D000086382		IL6	4
+hepatocyte proliferation	GO:0072574	COVID-19	MESH:D000086382		IL6	4
+positive regulation of intrinsic apoptotic signaling pathway in response to DNA damage	GO:1902231	COVID-19	MESH:D000086382		PLSCR1	1
+blood circulation	GO:0008015	COVID-19	MESH:D000086382		CXCL10	1
+establishment of blood-nerve barrier	GO:0008065	COVID-19	MESH:D000086382		AGT	1
+vascular associated smooth muscle cell proliferation	GO:1990874	COVID-19	MESH:D000086382		AGT	1
+negative regulation of glial cell apoptotic process	GO:0034351	COVID-19	MESH:D000086382		CCL2	1
+low-density lipoprotein particle remodeling	GO:0034374	COVID-19	MESH:D000086382		AGT	1
+branching involved in labyrinthine layer morphogenesis	GO:0060670	COVID-19	MESH:D000086382		IL10	2
+regulation of branching involved in salivary gland morphogenesis	GO:0060693	COVID-19	MESH:D000086382		TNF	1
+galactoside 2-alpha-L-fucosyltransferase activity	GO:0008107	COVID-19	MESH:D000086382		FUT2	1
+positive regulation of cell-cell adhesion	GO:0022409	COVID-19	MESH:D000086382		CCL2	1
+ceramide glucosyltransferase activity	GO:0008120	COVID-19	MESH:D000086382		UGCG	1
+negative regulation of heart rate	GO:0010459	COVID-19	MESH:D000086382		TNF	1
+regulation of ribonuclease activity	GO:0060700	COVID-19	MESH:D000086382		OAS1	1
+response to carbon monoxide	GO:0034465	COVID-19	MESH:D000086382		IL10	2
+positive regulation of activation of Janus kinase activity	GO:0010536	COVID-19	MESH:D000086382		AGT	1
+opsonization	GO:0008228	COVID-19	MESH:D000086382		CRP	1
+metallopeptidase activity	GO:0008237	COVID-19	MESH:D000086382		ACE2	15
+peptidyl-dipeptidase activity	GO:0008241	COVID-19	MESH:D000086382		ACE2	15
+regulation of canonical Wnt signaling pathway	GO:0060828	COVID-19	MESH:D000086382		BTK	1
+positive regulation of neutrophil activation	GO:1902565	COVID-19	MESH:D000086382		TNF	1
+positive regulation of cardiac muscle hypertrophy	GO:0010613	COVID-19	MESH:D000086382		AGT	1
+associative learning	GO:0008306	COVID-19	MESH:D000086382		AGT	1
+cellular response to heat	GO:0034605	COVID-19	MESH:D000086382		CXCL10	1
+glial cell migration	GO:0008347	COVID-19	MESH:D000086382		CCL2	1
+cellular response to reactive oxygen species	GO:0034614	COVID-19	MESH:D000086382		BTK	1
+positive regulation of cardiac muscle cell apoptotic process	GO:0010666	COVID-19	MESH:D000086382		AGT	1
+negative regulation of insulin receptor signaling pathway	GO:0046627	COVID-19	MESH:D000086382		IL1B	1
+positive regulation of insulin receptor signaling pathway	GO:0046628	COVID-19	MESH:D000086382		AGT	1
+positive regulation of alpha-beta T cell proliferation	GO:0046641	COVID-19	MESH:D000086382		CCR2	1
+response to arsenic-containing substance	GO:0046685	COVID-19	MESH:D000086382		IL1B	1
+response to mercury ion	GO:0046689	COVID-19	MESH:D000086382		BSG	1
+decidualization	GO:0046697	COVID-19	MESH:D000086382		BSG	1
+positive regulation of dendritic spine development	GO:0060999	COVID-19	MESH:D000086382		IL2	1
+positive regulation of membrane hyperpolarization	GO:1902632	COVID-19	MESH:D000086382		AGT	1
+positive regulation of RNA biosynthetic process	GO:1902680	COVID-19	MESH:D000086382		IL1B	1
+fucosyltransferase activity	GO:0008417	COVID-19	MESH:D000086382		FUT2	1
+positive regulation of macrophage derived foam cell differentiation	GO:0010744	COVID-19	MESH:D000086382		AGT	1
+negative regulation of macrophage derived foam cell differentiation	GO:0010745	COVID-19	MESH:D000086382		CRP	1
+positive regulation of plasminogen activation	GO:0010756	COVID-19	MESH:D000086382		TNF	1
+positive regulation of macrophage chemotaxis	GO:0010759	COVID-19	MESH:D000086382		CCL2	1
+muscle cell cellular homeostasis	GO:0046716	COVID-19	MESH:D000086382		IL6	4
+UDP-galactose:beta-N-acetylglucosamine beta-1,3-galactosyltransferase activity	GO:0008499	COVID-19	MESH:D000086382		ABO	1
+virion binding	GO:0046790	COVID-19	MESH:D000086382		CD209	1
+regulation of T cell chemotaxis	GO:0010819	COVID-19	MESH:D000086382		CXCL10	1
+positive regulation of T cell chemotaxis	GO:0010820	COVID-19	MESH:D000086382		CCR2	1
+negative regulation of glucose transmembrane transport	GO:0010829	COVID-19	MESH:D000086382		IL1B	1
+positive regulation of myotube differentiation	GO:0010831	COVID-19	MESH:D000086382		ATP11A	1
+epidermis development	GO:0008544	COVID-19	MESH:D000086382		UGCG	1
+obsolete positive regulation of cholesterol esterification	GO:0010873	COVID-19	MESH:D000086382		AGT	1
+paraspeckles	GO:0042382	COVID-19	MESH:D000086382		BCL11A	1
+sarcolemma	GO:0042383	COVID-19	MESH:D000086382		BSG	1
+positive regulation of interleukin-33 production	GO:0150129	COVID-19	MESH:D000086382		TNF	1
+positive regulation of interleukin-17A production	GO:0150153	COVID-19	MESH:D000086382		BTK	1
+positive regulation of extracellular matrix disassembly	GO:0090091	COVID-19	MESH:D000086382		IL6	4
+peristalsis	GO:0030432	COVID-19	MESH:D000086382		AGT	1
+endopeptidase activity	GO:0004175	COVID-19	MESH:D000086382		ACE2	15
+carboxypeptidase activity	GO:0004180	COVID-19	MESH:D000086382		ACE2	15
+metallocarboxypeptidase activity	GO:0004181	COVID-19	MESH:D000086382		ACE2	15
+hormone metabolic process	GO:0042445	COVID-19	MESH:D000086382		AGT	1
+chemokinesis	GO:0042466	COVID-19	MESH:D000086382		CCL2	1
+melanosome	GO:0042470	COVID-19	MESH:D000086382		BSG	1
+odontogenesis of dentin-containing tooth	GO:0042475	COVID-19	MESH:D000086382		BSG	1
+negative regulation of bone mineralization	GO:0030502	COVID-19	MESH:D000086382		CCL3	1
+basolateral plasma membrane	GO:0016323	COVID-19	MESH:D000086382		BSG	1
+lateral plasma membrane	GO:0016328	COVID-19	MESH:D000086382		BSG	1
+peptide antigen binding	GO:0042605	COVID-19	MESH:D000086382		CD209	1
+CD4 receptor binding	GO:0042609	COVID-19	MESH:D000086382		PLSCR1	1
+receptor-mediated virion attachment to host cell	GO:0046813	COVID-19	MESH:D000086382		ACE2	15
+photoreceptor cell morphogenesis	GO:0008594	COVID-19	MESH:D000086382		BSG	1
+bone remodeling	GO:0046849	COVID-19	MESH:D000086382		IL6	4
+regulation of transmembrane transporter activity	GO:0022898	COVID-19	MESH:D000086382		ACE2	15
+negative regulation of hormone secretion	GO:0046888	COVID-19	MESH:D000086382		IL6	4
+cAMP-dependent protein kinase regulator activity	GO:0008603	COVID-19	MESH:D000086382		CXCL10	1
+macrophage cytokine production	GO:0010934	COVID-19	MESH:D000086382		IL1B	1
+extrinsic apoptotic signaling pathway via death domain receptors	GO:0008625	COVID-19	MESH:D000086382		TNF	1
+negative regulation of transcription by competitive promoter binding	GO:0010944	COVID-19	MESH:D000086382		MUC1	1
+intrinsic apoptotic signaling pathway in response to DNA damage	GO:0008630	COVID-19	MESH:D000086382		TNF	1
+negative regulation of endopeptidase activity	GO:0010951	COVID-19	MESH:D000086382		AGT	1
+negative regulation of neuron projection development	GO:0010977	COVID-19	MESH:D000086382		BCL11A	1
+regulation of low-density lipoprotein particle clearance	GO:0010988	COVID-19	MESH:D000086382		CRP	1
+response to endoplasmic reticulum stress	GO:0034976	COVID-19	MESH:D000086382		CXCL8	1
+peptide antigen transport	GO:0046968	COVID-19	MESH:D000086382		CD209	1
+response to caffeine	GO:0031000	COVID-19	MESH:D000086382		IL6	4
+response to hyperoxia	GO:0055093	COVID-19	MESH:D000086382		CCR2	1
+animal organ regeneration	GO:0031100	COVID-19	MESH:D000086382		CCL2	1
+fin regeneration	GO:0031101	COVID-19	MESH:D000086382		IL1B	1
+alpha-(1,2)-fucosyltransferase activity	GO:0031127	COVID-19	MESH:D000086382		FUT2	1
+surfactant homeostasis	GO:0043129	COVID-19	MESH:D000086382		OAS1	1
+lysosomal lumen	GO:0043202	COVID-19	MESH:D000086382		CSF3	1
+glycosphingolipid binding	GO:0043208	COVID-19	MESH:D000086382		IL2	1
+extrinsic component of cytoplasmic side of plasma membrane	GO:0031234	COVID-19	MESH:D000086382		HCK	1
+negative regulation of protein-containing complex disassembly	GO:0043242	COVID-19	MESH:D000086382		TNF	1
+positive regulation of protein-containing complex disassembly	GO:0043243	COVID-19	MESH:D000086382		TNF	1
+lymphocyte costimulation	GO:0031294	COVID-19	MESH:D000086382		IL6	4
+apoptotic cell clearance	GO:0043277	COVID-19	MESH:D000086382		CCR2	1
+response to morphine	GO:0043278	COVID-19	MESH:D000086382		IL1B	1
+positive regulation of cysteine-type endopeptidase activity involved in apoptotic process	GO:0043280	COVID-19	MESH:D000086382		TNF	1
+myosin binding	GO:0017022	COVID-19	MESH:D000086382		CRP	1
+positive regulation of cellular biosynthetic process	GO:0031328	COVID-19	MESH:D000086382		CXCL8	1
+eosinophil degranulation	GO:0043308	COVID-19	MESH:D000086382		CCL3	1
+positive regulation of protein-containing complex assembly	GO:0031334	COVID-19	MESH:D000086382		TNF	1
+negative regulation of eosinophil degranulation	GO:0043310	COVID-19	MESH:D000086382		CCR2	1
+response to exogenous dsRNA	GO:0043330	COVID-19	MESH:D000086382		IL1B	1
+sodium channel regulator activity	GO:0017080	COVID-19	MESH:D000086382		AGT	1
+positive regulation of prostaglandin biosynthetic process	GO:0031394	COVID-19	MESH:D000086382		IL1B	1
+cytokine receptor binding	GO:0005126	COVID-19	MESH:D000086382		IL7	1
+granulocyte colony-stimulating factor receptor binding	GO:0005130	COVID-19	MESH:D000086382		CSF3	1
+growth hormone receptor binding	GO:0005131	COVID-19	MESH:D000086382		TYK2	1
+interleukin-2 receptor binding	GO:0005134	COVID-19	MESH:D000086382		IL2	1
+interleukin-6 receptor binding	GO:0005138	COVID-19	MESH:D000086382		IL6	4
+interleukin-7 receptor binding	GO:0005139	COVID-19	MESH:D000086382		IL7	1
+interleukin-10 receptor binding	GO:0005141	COVID-19	MESH:D000086382		IL10	2
+interleukin-1 receptor binding	GO:0005149	COVID-19	MESH:D000086382		IL1B	1
+plasma membrane phospholipid scrambling	GO:0017121	COVID-19	MESH:D000086382		PLSCR1	1
+SH3 domain binding	GO:0017124	COVID-19	MESH:D000086382		PLSCR1	1
+phospholipid scramblase activity	GO:0017128	COVID-19	MESH:D000086382		PLSCR1	1
+interleukin-8 receptor binding	GO:0005153	COVID-19	MESH:D000086382		CXCL8	1
+epidermal growth factor receptor binding	GO:0005154	COVID-19	MESH:D000086382		PLSCR1	1
+tumor necrosis factor receptor binding	GO:0005164	COVID-19	MESH:D000086382		TNF	1
+integrin binding	GO:0005178	COVID-19	MESH:D000086382		IL1B	1
+hormone activity	GO:0005179	COVID-19	MESH:D000086382		AGT	1
+calcium-ion regulated exocytosis	GO:0017156	COVID-19	MESH:D000086382		AGT	1
+brush border membrane	GO:0031526	COVID-19	MESH:D000086382		ACE2	15
+negative regulation of blood vessel endothelial cell migration	GO:0043537	COVID-19	MESH:D000086382		TNF	1
+sequence-specific DNA binding	GO:0043565	COVID-19	MESH:D000086382		CRP	1
+receptor internalization	GO:0031623	COVID-19	MESH:D000086382		CXCL8	1
+regulation of transcription from RNA polymerase II promoter in response to stress	GO:0043618	COVID-19	MESH:D000086382		MUC1	1
+killing of cells of another organism	GO:0031640	COVID-19	MESH:D000086382		CXCL10	1
+negative regulation of myelination	GO:0031642	COVID-19	MESH:D000086382		TNF	1
+cellular response to nutrient levels	GO:0031669	COVID-19	MESH:D000086382		IL6	4
+host cell	GO:0043657	COVID-19	MESH:D000086382		CD209	1
+axon terminus	GO:0043679	COVID-19	MESH:D000086382		CCL2	1
+negative regulation of protein phosphorylation	GO:0001933	COVID-19	MESH:D000086382		IL2	1
+regulation of endothelial cell proliferation	GO:0001936	COVID-19	MESH:D000086382		FUT2	1
+positive regulation of cytokine-mediated signaling pathway	GO:0001961	COVID-19	MESH:D000086382		IL7	1
+alpha-1,3-galactosyltransferase activity	GO:0001962	COVID-19	MESH:D000086382		ABO	1
+regulation of systemic arterial blood pressure by circulatory renin-angiotensin	GO:0001991	COVID-19	MESH:D000086382		AGT	1
+angiotensin-mediated vasoconstriction involved in regulation of systemic arterial blood pressure	GO:0001998	COVID-19	MESH:D000086382		AGT	1
+renal response to blood flow involved in circulatory renin-angiotensin regulation of systemic arterial blood pressure	GO:0001999	COVID-19	MESH:D000086382		AGT	1
+phospholipid-translocating ATPase complex	GO:1990531	COVID-19	MESH:D000086382		ATP11A	1
+negative regulation of cytokine activity	GO:0060302	COVID-19	MESH:D000086382		IL10	2
+type II interferon-mediated signaling pathway	GO:0060333	COVID-19	MESH:D000086382		HCK	1
+negative regulation of type I interferon-mediated signaling pathway	GO:0060339	COVID-19	MESH:D000086382		OAS1	1
+positive regulation of CoA-transferase activity	GO:1905920	COVID-19	MESH:D000086382		AGT	1
+negative regulation of cell adhesion molecule production	GO:0060354	COVID-19	MESH:D000086382		CXCL8	1
+positive regulation of cell adhesion molecule production	GO:0060355	COVID-19	MESH:D000086382		IL1B	1
+regulation of Fc receptor mediated stimulatory signaling pathway	GO:0060368	COVID-19	MESH:D000086382		PLSCR1	1
+positive regulation of amyloid-beta formation	GO:1902004	COVID-19	MESH:D000086382		TNF	1
+endocrine pancreas development	GO:0031018	COVID-19	MESH:D000086382		IL6	4
+protein heterodimerization activity	GO:0046982	COVID-19	MESH:D000086382		BCL11A	1
+positive regulation of macrophage activation	GO:0043032	COVID-19	MESH:D000086382		IL10	2
+positive regulation of programmed cell death	GO:0043068	COVID-19	MESH:D000086382		TNF	1
+platelet alpha granule lumen	GO:0031093	COVID-19	MESH:D000086382		F8	1
+positive regulation of catalytic activity	GO:0043085	COVID-19	MESH:D000086382		AGT	1
