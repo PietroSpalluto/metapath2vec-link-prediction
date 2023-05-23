@@ -10,6 +10,8 @@ import torch
 
 import numpy as np
 
+import copy
+
 
 class M2VLinkPrediction:
     def __init__(self, data, link_type, rev_link_type, metapath, embedding_dim, walk_length,
@@ -37,6 +39,9 @@ class M2VLinkPrediction:
 
         self.loader = self.model.loader(batch_size=128, shuffle=True, num_workers=2)
         self.optimizer = torch.optim.SparseAdam(list(self.model.parameters()), lr=0.01)
+        self.best_score = 0
+        self.best_model = None
+        self.best_clf = None
 
     def split_data(self):
         transform = RandomLinkSplit(edge_types=self.link_type,
@@ -65,26 +70,56 @@ class M2VLinkPrediction:
                 total_loss = 0
 
             if (i + 1) % eval_steps == 0:
-                acc = self.test_embedding()
+                acc = self.evaluate_embedding()
                 print((f'Epoch: {epoch}, Step: {i + 1:05d}/{len(self.loader)}, '
                        f'Acc: {acc:.4f}'))
 
-    def test_embedding(self):
+    def evaluate_embedding(self):
         self.model.eval()
 
         score = self.run_link_prediction_model()
 
         return score
 
-    def link_examples_to_features(self, edge_label_index, binary_operator, head_type, tail_type):
+    def test_embedding(self, epoch, log_steps=100, eval_steps=2000):
+        model = MetaPath2Vec(self.test_data.edge_index_dict,
+                             embedding_dim=self.embedding_dim,
+                             metapath=self.metapath,
+                             walk_length=self.walk_length,
+                             context_size=self.context_size,
+                             walks_per_node=self.walks_per_node,
+                             num_negative_samples=5,
+                             sparse=True).to(self.device)
+
+        loader = model.loader(batch_size=128, shuffle=True, num_workers=2)
+        optimizer = torch.optim.SparseAdam(list(model.parameters()), lr=0.01)
+
+        print('Testing embedding...')
+        model.train()
+
+        total_loss = 0
+        for i, (pos_rw, neg_rw) in enumerate(loader):
+            optimizer.zero_grad()
+            loss = model.loss(pos_rw.to(self.device), neg_rw.to(self.device))
+            loss.backward()
+            optimizer.step()
+
+            total_loss += loss.item()
+
+        score = self.evaluate_link_prediction_model(model, self.best_clf, self.test_data)
+
+        return score
+
+    @staticmethod
+    def link_examples_to_features(model, edge_label_index, binary_operator, head_type, tail_type):
 
         return [
-            binary_operator(self.model(head_type, batch=torch.tensor(src))[0].detach().numpy(),
-                            self.model(tail_type, batch=torch.tensor(dst))[0].detach().numpy())
+            binary_operator(model(head_type, batch=torch.tensor(src))[0].detach().numpy(),
+                            model(tail_type, batch=torch.tensor(dst))[0].detach().numpy())
             for src, dst in zip(edge_label_index.tolist()[0], edge_label_index.tolist()[1])
         ]
 
-    def train_link_prediction_model(self, max_iter, binary_operator='l1'):
+    def train_link_prediction_model(self, model, max_iter, binary_operator='l1'):
         print('Training link prediction model...')
         print('Link: {}'.format(self.link_type))
         print('Head: {}, Tail: {}'.format(self.link_type[0], self.link_type[2]))
@@ -93,45 +128,54 @@ class M2VLinkPrediction:
         link_features = []
 
         if binary_operator == 'l1':
-            link_features = self.link_examples_to_features(self.train_data[self.link_type].edge_label_index,
+            link_features = self.link_examples_to_features(model,
+                                                           self.train_data[self.link_type].edge_label_index,
                                                            self.operator_l1,
                                                            self.link_type[0],
                                                            self.link_type[2])
         elif binary_operator == 'l2':
-            link_features = self.link_examples_to_features(self.train_data[self.link_type].edge_label_index,
+            link_features = self.link_examples_to_features(model,
+                                                           self.train_data[self.link_type].edge_label_index,
                                                            self.operator_l2,
                                                            self.link_type[0],
                                                            self.link_type[2])
 
         self.clf.fit(link_features, self.train_data[self.link_type].edge_label)
 
-    def evaluate_link_prediction_model(self, binary_operator='l1'):
+    def evaluate_link_prediction_model(self, model, clf, data, binary_operator='l1'):
         print('Evaluating link prediction model...')
         link_features_test = []
         if binary_operator == 'l1':
-            link_features_test = self.link_examples_to_features(self.val_data[self.link_type].edge_label_index,
+            link_features_test = self.link_examples_to_features(model,
+                                                                data[self.link_type].edge_label_index,
                                                                 self.operator_l1,
                                                                 self.link_type[0],
                                                                 self.link_type[2])
         elif binary_operator == 'l2':
-            link_features_test = self.link_examples_to_features(self.val_data[self.link_type].edge_label_index,
+            link_features_test = self.link_examples_to_features(model,
+                                                                data[self.link_type].edge_label_index,
                                                                 self.operator_l2,
                                                                 self.link_type[0],
                                                                 self.link_type[2])
 
-        score = self.evaluate_roc_auc(link_features_test, self.val_data[self.link_type].edge_label)
+        score = self.evaluate_roc_auc(clf, link_features_test, data[self.link_type].edge_label)
+
+        if score > self.best_score:
+            self.best_model = copy.deepcopy(self.model)
+            self.best_clf = copy.deepcopy(self.clf)
         return score
 
-    def evaluate_roc_auc(self, link_features, link_labels):
-        predicted = self.clf.predict_proba(link_features)
+    @staticmethod
+    def evaluate_roc_auc(clf, link_features, link_labels):
+        predicted = clf.predict_proba(link_features)
 
         # check which class corresponds to positive links
-        positive_column = list(self.clf.classes_).index(1)
+        positive_column = list(clf.classes_).index(1)
         return roc_auc_score(link_labels, predicted[:, positive_column])
 
     def run_link_prediction_model(self, max_iter=2000):
-        self.train_link_prediction_model(max_iter)
-        score = self.evaluate_link_prediction_model()
+        self.train_link_prediction_model(self.model, max_iter)
+        score = self.evaluate_link_prediction_model(self.clf, self.model, self.val_data)
 
         return score
 

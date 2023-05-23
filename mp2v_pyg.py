@@ -79,7 +79,9 @@ rev_link_type = ('phenotype', 'interacts2', 'gene')
 link_pred_model = M2VLinkPrediction(heterodata, link_type, rev_link_type, metapath, embedding_dim=128,
                                     walk_length=50, context_size=4, walks_per_node=5)
 
-for epoch in range(1, 5):
+for epoch in range(0, 1):
     link_pred_model.train_embedding(epoch)
-    acc = link_pred_model.test_embedding()
+    acc = link_pred_model.evaluate_embedding()
     print(f'Epoch: {epoch}, Accuracy: {acc:.4f}')
+
+print(link_pred_model.test_embedding())
