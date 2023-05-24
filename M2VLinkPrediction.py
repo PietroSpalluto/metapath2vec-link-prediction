@@ -40,17 +40,17 @@ class M2VLinkPrediction:
         self.loader = self.model.loader(batch_size=128, shuffle=True, num_workers=2)
         self.optimizer = torch.optim.SparseAdam(list(self.model.parameters()), lr=0.01)
 
-        self.test_model = MetaPath2Vec(self.test_data.edge_index_dict,
-                                       embedding_dim=self.embedding_dim,
-                                       metapath=self.metapath,
-                                       walk_length=self.walk_length,
-                                       context_size=self.context_size,
-                                       walks_per_node=self.walks_per_node,
-                                       num_negative_samples=5,
-                                       sparse=True).to(self.device)
-
-        self.test_loader = self.test_model.loader(batch_size=128, shuffle=True, num_workers=2)
-        self.test_optimizer = torch.optim.SparseAdam(list(self.test_model.parameters()), lr=0.01)
+        # self.test_model = MetaPath2Vec(self.test_data.edge_index_dict,
+        #                                embedding_dim=self.embedding_dim,
+        #                                metapath=self.metapath,
+        #                                walk_length=self.walk_length,
+        #                                context_size=self.context_size,
+        #                                walks_per_node=self.walks_per_node,
+        #                                num_negative_samples=5,
+        #                                sparse=True).to(self.device)
+        #
+        # self.test_loader = self.test_model.loader(batch_size=128, shuffle=True, num_workers=2)
+        # self.test_optimizer = torch.optim.SparseAdam(list(self.test_model.parameters()), lr=0.01)
 
         self.best_score = 0
         self.best_model = None
@@ -100,20 +100,20 @@ class M2VLinkPrediction:
 
     def test_embedding(self):
         print('Testing classifier...')
-        self.test_model.train()
+        # self.test_model.train()
+        #
+        # total_loss = 0
+        # for i, (pos_rw, neg_rw) in enumerate(self.test_loader):
+        #     self.test_optimizer.zero_grad()
+        #     loss = self.test_model.loss(pos_rw.to(self.device), neg_rw.to(self.device))
+        #     loss.backward()
+        #     self.test_optimizer.step()
+        #
+        #     total_loss += loss.item()
+        #
+        # self.test_model.eval()
 
-        total_loss = 0
-        for i, (pos_rw, neg_rw) in enumerate(self.test_loader):
-            self.test_optimizer.zero_grad()
-            loss = self.test_model.loss(pos_rw.to(self.device), neg_rw.to(self.device))
-            loss.backward()
-            self.test_optimizer.step()
-
-            total_loss += loss.item()
-
-        self.test_model.eval()
-
-        score = self.evaluate_link_prediction_model(self.test_model, self.best_clf, self.test_data)
+        score = self.evaluate_link_prediction_model(self.best_model, self.best_clf, self.test_data)
 
         return score
 
