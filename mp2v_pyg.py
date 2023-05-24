@@ -10,7 +10,6 @@ from sklearn.preprocessing import LabelEncoder
 import torch
 
 from torch_geometric.data import HeteroData
-from torch_geometric.transforms import RandomLinkSplit
 
 data_path = ''
 
@@ -55,20 +54,6 @@ heterodata['phenotype', 'interacts2', 'drug'].edge_index = phenotype_drug
 
 print(heterodata)
 
-transform = RandomLinkSplit(edge_types=('gene', 'interacts', 'phenotype'),
-                            rev_edge_types=('phenotype', 'interacts2', 'gene'),
-                            add_negative_train_samples=True,
-                            neg_sampling_ratio=1,
-                            disjoint_train_ratio=0)
-train_data, val_data, test_data = transform(heterodata)
-
-print('Train data:')
-print(train_data)
-print('Validation data:')
-print(val_data)
-print('Test data:')
-print(test_data)
-
 metapath = [('gene', 'interacts', 'phenotype'),
             ('phenotype', 'interacts2', 'drug'),
             ('drug', 'interacts', 'phenotype'),
@@ -76,12 +61,31 @@ metapath = [('gene', 'interacts', 'phenotype'),
 link_type = ('gene', 'interacts', 'phenotype')
 rev_link_type = ('phenotype', 'interacts2', 'gene')
 
+# from torch_geometric.datasets import DBLP
+# import os.path as osp
+#
+# path = osp.join(osp.dirname(osp.realpath(__file__)), '../../data/DBLP')
+# dataset = DBLP(path)
+# heterodata = dataset[0]
+#
+# metapath = [
+#     ('author', 'to', 'paper'),
+#     ('paper', 'to', 'conference'),
+#     ('conference', 'to', 'paper'),
+#     ('paper', 'to', 'term'),
+#     ('term', 'to', 'paper'),
+#     ('paper', 'to', 'author')]
+# link_type = ('author', 'to', 'paper')
+# rev_link_type = ('paper', 'to', 'author')
+
 link_pred_model = M2VLinkPrediction(heterodata, link_type, rev_link_type, metapath, embedding_dim=128,
                                     walk_length=50, context_size=4, walks_per_node=5)
 
-for epoch in range(0, 1):
+for epoch in range(0, 5):
     link_pred_model.train_embedding(epoch)
     acc = link_pred_model.evaluate_embedding()
     print(f'Epoch: {epoch}, Accuracy: {acc:.4f}')
 
-print(link_pred_model.test_embedding())
+    print('Accuracy: {}'.format(link_pred_model.test_embedding()))
+
+print('end')

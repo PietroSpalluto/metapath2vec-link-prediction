@@ -39,6 +39,19 @@ class M2VLinkPrediction:
 
         self.loader = self.model.loader(batch_size=128, shuffle=True, num_workers=2)
         self.optimizer = torch.optim.SparseAdam(list(self.model.parameters()), lr=0.01)
+
+        self.test_model = MetaPath2Vec(self.test_data.edge_index_dict,
+                                       embedding_dim=self.embedding_dim,
+                                       metapath=self.metapath,
+                                       walk_length=self.walk_length,
+                                       context_size=self.context_size,
+                                       walks_per_node=self.walks_per_node,
+                                       num_negative_samples=5,
+                                       sparse=True).to(self.device)
+
+        self.test_loader = self.test_model.loader(batch_size=128, shuffle=True, num_workers=2)
+        self.test_optimizer = torch.optim.SparseAdam(list(self.test_model.parameters()), lr=0.01)
+
         self.best_score = 0
         self.best_model = None
         self.best_clf = None
@@ -50,9 +63,15 @@ class M2VLinkPrediction:
                                     neg_sampling_ratio=1,
                                     disjoint_train_ratio=0)
         train_data, val_data, test_data = transform(self.data)
+        print('Train data:')
+        print(train_data)
+        print('Validation data:')
+        print(val_data)
+        print('Test data:')
+        print(test_data)
         return train_data, val_data, test_data
 
-    def train_embedding(self, epoch, log_steps=100, eval_steps=2000):
+    def train_embedding(self, epoch, log_steps=100):
         print('Training embedding...')
         self.model.train()
 
@@ -69,44 +88,32 @@ class M2VLinkPrediction:
                        f'Loss: {total_loss / log_steps:.4f}'))
                 total_loss = 0
 
-            if (i + 1) % eval_steps == 0:
-                acc = self.evaluate_embedding()
-                print((f'Epoch: {epoch}, Step: {i + 1:05d}/{len(self.loader)}, '
-                       f'Acc: {acc:.4f}'))
-
     def evaluate_embedding(self):
         self.model.eval()
 
         score = self.run_link_prediction_model()
+        if score > self.best_score:
+            self.best_model = copy.deepcopy(self.model)
+            self.best_clf = copy.deepcopy(self.clf)
 
         return score
 
-    def test_embedding(self, epoch, log_steps=100, eval_steps=2000):
-        model = MetaPath2Vec(self.test_data.edge_index_dict,
-                             embedding_dim=self.embedding_dim,
-                             metapath=self.metapath,
-                             walk_length=self.walk_length,
-                             context_size=self.context_size,
-                             walks_per_node=self.walks_per_node,
-                             num_negative_samples=5,
-                             sparse=True).to(self.device)
-
-        loader = model.loader(batch_size=128, shuffle=True, num_workers=2)
-        optimizer = torch.optim.SparseAdam(list(model.parameters()), lr=0.01)
-
-        print('Testing embedding...')
-        model.train()
+    def test_embedding(self):
+        print('Testing classifier...')
+        self.test_model.train()
 
         total_loss = 0
-        for i, (pos_rw, neg_rw) in enumerate(loader):
-            optimizer.zero_grad()
-            loss = model.loss(pos_rw.to(self.device), neg_rw.to(self.device))
+        for i, (pos_rw, neg_rw) in enumerate(self.test_loader):
+            self.test_optimizer.zero_grad()
+            loss = self.test_model.loss(pos_rw.to(self.device), neg_rw.to(self.device))
             loss.backward()
-            optimizer.step()
+            self.test_optimizer.step()
 
             total_loss += loss.item()
 
-        score = self.evaluate_link_prediction_model(model, self.best_clf, self.test_data)
+        self.test_model.eval()
+
+        score = self.evaluate_link_prediction_model(self.test_model, self.best_clf, self.test_data)
 
         return score
 
@@ -121,8 +128,6 @@ class M2VLinkPrediction:
 
     def train_link_prediction_model(self, model, max_iter, binary_operator='l1'):
         print('Training link prediction model...')
-        print('Link: {}'.format(self.link_type))
-        print('Head: {}, Tail: {}'.format(self.link_type[0], self.link_type[2]))
         lr_clf = LogisticRegressionCV(Cs=10, cv=10, scoring="roc_auc", max_iter=max_iter)
         self.clf = Pipeline(steps=[("sc", StandardScaler()), ("clf", lr_clf)])
         link_features = []
@@ -160,9 +165,6 @@ class M2VLinkPrediction:
 
         score = self.evaluate_roc_auc(clf, link_features_test, data[self.link_type].edge_label)
 
-        if score > self.best_score:
-            self.best_model = copy.deepcopy(self.model)
-            self.best_clf = copy.deepcopy(self.clf)
         return score
 
     @staticmethod
@@ -175,7 +177,7 @@ class M2VLinkPrediction:
 
     def run_link_prediction_model(self, max_iter=2000):
         self.train_link_prediction_model(self.model, max_iter)
-        score = self.evaluate_link_prediction_model(self.clf, self.model, self.val_data)
+        score = self.evaluate_link_prediction_model(self.model, self.clf, self.val_data)
 
         return score
 
