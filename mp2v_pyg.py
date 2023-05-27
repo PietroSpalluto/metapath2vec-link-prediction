@@ -61,6 +61,7 @@ metapath = [('gene', 'interacts', 'phenotype'),
 link_type = ('gene', 'interacts', 'phenotype')
 rev_link_type = ('phenotype', 'interacts2', 'gene')
 
+# test with another dataset, ignore
 # from torch_geometric.datasets import DBLP
 # import os.path as osp
 #
@@ -86,6 +87,6 @@ for epoch in range(0, 5):
     acc = link_pred_model.evaluate_embedding()
     print(f'Epoch: {epoch}, Accuracy: {acc:.4f}')
 
-    print('Accuracy: {}'.format(link_pred_model.test_embedding()))
+print('Accuracy: {}'.format(link_pred_model.test_embedding()))
 
 print('end')

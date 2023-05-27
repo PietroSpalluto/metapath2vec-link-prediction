@@ -40,18 +40,6 @@ class M2VLinkPrediction:
         self.loader = self.model.loader(batch_size=128, shuffle=True, num_workers=2)
         self.optimizer = torch.optim.SparseAdam(list(self.model.parameters()), lr=0.01)
 
-        # self.test_model = MetaPath2Vec(self.test_data.edge_index_dict,
-        #                                embedding_dim=self.embedding_dim,
-        #                                metapath=self.metapath,
-        #                                walk_length=self.walk_length,
-        #                                context_size=self.context_size,
-        #                                walks_per_node=self.walks_per_node,
-        #                                num_negative_samples=5,
-        #                                sparse=True).to(self.device)
-        #
-        # self.test_loader = self.test_model.loader(batch_size=128, shuffle=True, num_workers=2)
-        # self.test_optimizer = torch.optim.SparseAdam(list(self.test_model.parameters()), lr=0.01)
-
         self.best_score = 0
         self.best_model = None
         self.best_clf = None
@@ -100,31 +88,11 @@ class M2VLinkPrediction:
 
     def test_embedding(self):
         print('Testing classifier...')
-        # self.test_model.train()
-        #
-        # total_loss = 0
-        # for i, (pos_rw, neg_rw) in enumerate(self.test_loader):
-        #     self.test_optimizer.zero_grad()
-        #     loss = self.test_model.loss(pos_rw.to(self.device), neg_rw.to(self.device))
-        #     loss.backward()
-        #     self.test_optimizer.step()
-        #
-        #     total_loss += loss.item()
-        #
-        # self.test_model.eval()
+        self.best_model.eval()
 
         score = self.evaluate_link_prediction_model(self.best_model, self.best_clf, self.test_data)
 
         return score
-
-    @staticmethod
-    def link_examples_to_features(model, edge_label_index, binary_operator, head_type, tail_type):
-
-        return [
-            binary_operator(model(head_type, batch=torch.tensor(src))[0].detach().numpy(),
-                            model(tail_type, batch=torch.tensor(dst))[0].detach().numpy())
-            for src, dst in zip(edge_label_index.tolist()[0], edge_label_index.tolist()[1])
-        ]
 
     def train_link_prediction_model(self, model, max_iter, binary_operator='l1'):
         print('Training link prediction model...')
@@ -167,6 +135,21 @@ class M2VLinkPrediction:
 
         return score
 
+    def run_link_prediction_model(self, max_iter=2000):
+        self.train_link_prediction_model(self.model, max_iter)
+        score = self.evaluate_link_prediction_model(self.model, self.clf, self.val_data)
+
+        return score
+
+    @staticmethod
+    def link_examples_to_features(model, edge_label_index, binary_operator, head_type, tail_type):
+
+        return [
+            binary_operator(model(head_type, batch=torch.tensor(src))[0].detach().numpy(),
+                            model(tail_type, batch=torch.tensor(dst))[0].detach().numpy())
+            for src, dst in zip(edge_label_index.tolist()[0], edge_label_index.tolist()[1])
+        ]
+
     @staticmethod
     def evaluate_roc_auc(clf, link_features, link_labels):
         predicted = clf.predict_proba(link_features)
@@ -174,12 +157,6 @@ class M2VLinkPrediction:
         # check which class corresponds to positive links
         positive_column = list(clf.classes_).index(1)
         return roc_auc_score(link_labels, predicted[:, positive_column])
-
-    def run_link_prediction_model(self, max_iter=2000):
-        self.train_link_prediction_model(self.model, max_iter)
-        score = self.evaluate_link_prediction_model(self.model, self.clf, self.val_data)
-
-        return score
 
     @staticmethod
     def operator_l1(u, v):
