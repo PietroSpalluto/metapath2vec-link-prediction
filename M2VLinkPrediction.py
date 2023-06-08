@@ -12,6 +12,8 @@ import numpy as np
 
 import copy
 
+from M2VecCustom import M2VecCustom
+
 
 class M2VLinkPrediction:
     def __init__(self, data, link_type, rev_link_type, metapath, embedding_dim, walk_length,
@@ -28,16 +30,16 @@ class M2VLinkPrediction:
         self.context_size = context_size
 
         self.device = 'cuda' if torch.cuda.is_available() else 'cpu'
-        self.model = MetaPath2Vec(self.train_data.edge_index_dict,
-                                  embedding_dim=self.embedding_dim,
-                                  metapath=self.metapath,
-                                  walk_length=self.walk_length,
-                                  context_size=self.context_size,
-                                  walks_per_node=self.walks_per_node,
-                                  num_negative_samples=5,
-                                  sparse=True).to(self.device)
+        self.model = M2VecCustom(self.train_data.edge_index_dict,
+                                 embedding_dim=self.embedding_dim,
+                                 metapath=self.metapath,
+                                 walk_length=self.walk_length,
+                                 context_size=self.context_size,
+                                 walks_per_node=self.walks_per_node,
+                                 num_negative_samples=5,
+                                 sparse=True).to(self.device)
 
-        self.loader = self.model.loader(batch_size=128, shuffle=True, num_workers=2)
+        self.loader = self.model.loader(batch_size=128, shuffle=True, num_workers=0)
         self.optimizer = torch.optim.SparseAdam(list(self.model.parameters()), lr=0.01)
 
         self.best_score = 0
@@ -66,7 +68,9 @@ class M2VLinkPrediction:
         total_loss = 0
         for i, (pos_rw, neg_rw) in enumerate(self.loader):
             self.optimizer.zero_grad()
-            loss = self.model.loss(pos_rw.to(self.device), neg_rw.to(self.device))
+            preds = self.model(self.link_type[0], self.link_type[2],
+                               pos_rw, neg_rw)
+            loss = self.model.loss(preds, self.train_data[self.link_type].edge_label)
             loss.backward()
             self.optimizer.step()
 
@@ -79,12 +83,22 @@ class M2VLinkPrediction:
     def evaluate_embedding(self):
         self.model.eval()
 
-        score = self.run_link_prediction_model()
-        if score > self.best_score:
-            self.best_model = copy.deepcopy(self.model)
-            self.best_clf = copy.deepcopy(self.clf)
+        one = self.model(self.link_type[0],
+                         self.train_data[self.link_type].edge_label_index[0])
+        two = self.model(self.link_type[2],
+                         self.train_data[self.link_type].edge_label_index[1])
+        p = torch.sigmoid(torch.sum(one * two, dim=-1)).cpu().detach().numpy()
+        pred_label = np.zeros_like(p, dtype=np.int64)
+        pred_label[np.where(p > 0.5)[0]] = 1
+        pred_label[np.where(p <= 0.5)[0]] = 0
+        acc = np.sum(pred_label == self.train_data[self.link_type].edge_label) / len(pred_label)
 
-        return score
+        # score = self.run_link_prediction_model()
+        # if score > self.best_score:
+        #     self.best_model = copy.deepcopy(self.model)
+        #     self.best_clf = copy.deepcopy(self.clf)
+
+        return acc
 
     def test_embedding(self):
         print('Testing classifier...')
@@ -101,6 +115,16 @@ class M2VLinkPrediction:
         link_features = []
 
         if binary_operator == 'l1':
+            one = self.model(self.link_type[0],
+                             self.train_data[self.link_type].edge_label_index[0])
+            two = self.model(self.link_type[2],
+                             self.train_data[self.link_type].edge_label_index[1])
+            p = torch.sigmoid(torch.sum(one * two, dim=-1)).cpu().detach().numpy()
+            pred_label = np.zeros_like(p, dtype=np.int64)
+            pred_label[np.where(p > 0.5)[0]] = 1
+            pred_label[np.where(p <= 0.5)[0]] = 0
+            acc = np.sum(pred_label == self.train_data[self.link_type].edge_label) / len(pred_label)
+
             link_features = self.link_examples_to_features(model,
                                                            self.train_data[self.link_type].edge_label_index,
                                                            self.operator_l1,
