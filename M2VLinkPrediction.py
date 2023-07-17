@@ -30,7 +30,7 @@ class M2VLinkPrediction:
         self.context_size = context_size
 
         self.device = 'cuda' if torch.cuda.is_available() else 'cpu'
-        self.model = M2VecCustom(self.train_data.edge_index_dict,
+        self.model = MetaPath2Vec(self.train_data.edge_index_dict,
                                  embedding_dim=self.embedding_dim,
                                  metapath=self.metapath,
                                  walk_length=self.walk_length,
@@ -68,9 +68,10 @@ class M2VLinkPrediction:
         total_loss = 0
         for i, (pos_rw, neg_rw) in enumerate(self.loader):
             self.optimizer.zero_grad()
-            preds = self.model(self.link_type[0], self.link_type[2],
-                               pos_rw, neg_rw)
-            loss = self.model.loss(preds, self.train_data[self.link_type].edge_label)
+            loss = self.model.loss(pos_rw.to(self.device), neg_rw.to(self.device))
+            # preds = self.model(self.link_type[0], self.link_type[2],
+            #                    pos_rw, neg_rw)
+            # loss = self.model.loss(preds, self.train_data[self.link_type].edge_label)
             loss.backward()
             self.optimizer.step()
 
@@ -83,22 +84,22 @@ class M2VLinkPrediction:
     def evaluate_embedding(self):
         self.model.eval()
 
-        one = self.model(self.link_type[0],
-                         self.train_data[self.link_type].edge_label_index[0])
-        two = self.model(self.link_type[2],
-                         self.train_data[self.link_type].edge_label_index[1])
-        p = torch.sigmoid(torch.sum(one * two, dim=-1)).cpu().detach().numpy()
-        pred_label = np.zeros_like(p, dtype=np.int64)
-        pred_label[np.where(p > 0.5)[0]] = 1
-        pred_label[np.where(p <= 0.5)[0]] = 0
-        acc = np.sum(pred_label == self.train_data[self.link_type].edge_label) / len(pred_label)
+        # one = self.model(self.link_type[0],
+        #                  self.train_data[self.link_type].edge_label_index[0])
+        # two = self.model(self.link_type[2],
+        #                  self.train_data[self.link_type].edge_label_index[1])
+        # p = torch.sigmoid(torch.sum(one * two, dim=-1)).cpu().detach().numpy()
+        # pred_label = np.zeros_like(p, dtype=np.int64)
+        # pred_label[np.where(p > 0.5)[0]] = 1
+        # pred_label[np.where(p <= 0.5)[0]] = 0
+        # acc = np.sum(pred_label == self.train_data[self.link_type].edge_label) / len(pred_label)
 
-        # score = self.run_link_prediction_model()
-        # if score > self.best_score:
-        #     self.best_model = copy.deepcopy(self.model)
-        #     self.best_clf = copy.deepcopy(self.clf)
+        score = self.run_link_prediction_model()
+        if score > self.best_score:
+            self.best_model = copy.deepcopy(self.model)
+            self.best_clf = copy.deepcopy(self.clf)
 
-        return acc
+        return score
 
     def test_embedding(self):
         print('Testing classifier...')
